@@ -1,1 +1,0 @@
-une fois que [[Wymon III]] et [[Freya IV]] fûrent partis, ils créèrent le royaume de fiore, la première année, en tout cas la première moitiée
