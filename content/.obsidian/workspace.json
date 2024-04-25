@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "be8399785bae5357",
+        "id": "ce1804a7711fee7e",
         "type": "tabs",
         "children": [
           {
-            "id": "ed9e2d486dc9c4aa",
+            "id": "fdb6cf9faeb12ca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sylvandis/Personnages/Nalaa Pavis.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "b081b456f25af898"
-          }
-        ]
-      },
-      {
-        "id": "55862b35d76a8ffd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "00aea7884677b0c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiore/Personnages/Jarvin Wells.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e45e89378d98d4b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sylvandis/Personnages/Nalaa Pavis.md",
+                "file": "Mythologie/2. Terres Sauvages/2.1 Création.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "b081b456f25af898"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sylvandis/Personnages/Nalaa Pavis.md",
+                "file": "Mythologie/2. Terres Sauvages/2.1 Création.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sylvandis/Personnages/Nalaa Pavis.md",
+                "file": "Mythologie/2. Terres Sauvages/2.1 Création.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sylvandis/Personnages/Nalaa Pavis.md"
+                "file": "Mythologie/2. Terres Sauvages/2.1 Création.md"
               }
             }
           }
@@ -179,13 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e45e89378d98d4b4",
+  "active": "fdb6cf9faeb12ca5",
   "lastOpenFiles": [
-    "Fiore/Personnages/Jarvin Wells.md",
-    "Sylvandis/Personnages/Nalaa Pavis.md",
-    "images/Personnage.NalaaPavis.png",
+    "Mythologie/clan gris.md",
+    "Mythologie/2. Terres Sauvages/2.1 Création.md",
+    "Mythologie/2. Terres Sauvages",
+    "Mythologie/clan lumineux.md",
+    "Mythologie/clan sombre.md",
+    "old",
+    "Mythologie",
+    "old/Sylvandis/Personnages/Nalaa Pavis.md",
+    "old/Fiore/Personnages/Jarvin Wells.md",
+    "old/images/Personnage.NalaaPavis.png",
     "images/Personnage.NalaaPavis.png.0.pdnSave",
-    "Sylvandis/Personnages",
-    "Sylvandis"
+    "old/Sylvandis/Personnages",
+    "old/Sylvandis"
   ]
 }

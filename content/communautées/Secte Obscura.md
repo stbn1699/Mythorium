@@ -54,4 +54,4 @@ Leurs cibles étaient des individus dotés de pouvoirs magiques, des êtres lié
 
 Les cris déchirants des prisonniers résonnaient dans les salles sacrées de la secte, alors qu'ils étaient sacrifiés dans d'anciens rituels visant à renforcer les liens entre les adeptes et leur dieu. La réputation sinistre de la Secte Obscura se propageait, semant la crainte parmi les royaumes voisins. La nuit devenait leur alliée, et l'ombre de Noctifer Divinus, leur emblème de terreur.
 
-Ils effectuèrent un raid dans le royaume d'origine de [[Sélène Aragorn]], qui l'obligea a fuir, se réfugiant ensuite dans le royaume de [[wiki fonctionnel/Wiki fiore discord/welcome|Fiore]], ses parents, eux, n'ont pas eu cette chance, se faisant alors capturés par la secte et emmenés dans l'obscurité de leurs campements
+Ils effectuèrent un raid dans le royaume d'origine de [[Sélène Aragorn]], qui l'obligea a fuir, se réfugiant ensuite dans le royaume de [[welcome|Fiore]], ses parents, eux, n'ont pas eu cette chance, se faisant alors capturés par la secte et emmenés dans l'obscurité de leurs campements
