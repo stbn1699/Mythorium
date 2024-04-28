@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythologie/2. Terres Sauvages/2.1 Création.md",
+                "file": "old/Sylvandis/Personnages/Halamar Sarphyra.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "e2e74f00e6f126ce"
+          }
+        ]
+      },
+      {
+        "id": "ea108115e6fa39b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78231a68dbee0baa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old/Sylvandis/Personnages/Halamar Sarphyra.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "e2e74f00e6f126ce"
           }
         ]
       }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythologie/2. Terres Sauvages/2.1 Création.md",
+                "file": "old/Sylvandis/Personnages/Halamar Sarphyra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythologie/2. Terres Sauvages/2.1 Création.md",
+                "file": "old/Sylvandis/Personnages/Halamar Sarphyra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythologie/2. Terres Sauvages/2.1 Création.md"
+                "file": "old/Sylvandis/Personnages/Halamar Sarphyra.md"
               }
             }
           }
@@ -148,18 +168,35 @@
   },
   "active": "fdb6cf9faeb12ca5",
   "lastOpenFiles": [
-    "Mythologie/clan gris.md",
+    "old/Sylvandis/Personnages/Neremyn Sarphyra.md",
+    "old/Sylvandis/Personnages/Halamar Sarphyra.md",
+    "old/wiki fonctionnel/Wiki fiore discord/Le robot Tupperbox.md",
+    "old/wiki fonctionnel/Wiki fiore discord/Inactivité.md",
+    "old/wiki fonctionnel/Wiki fiore discord/Roleplay.md",
+    "old/wiki fonctionnel/Wiki fiore discord/Règlement.md",
+    "Images/PERSONNAGE_halamarSarphyra.jpg",
+    "Images/PERSONNAGE_halamarSarphyra.jpg.0.pdnSave",
+    "Images/PERSONNAGE_neremynSarphyra.jpg",
+    "Images/PERSONNAGE_neremynSarphyra.jpg.0.pdnSave",
+    "old/Sylvandis/Personnages/Nalaa Pavis.md",
+    "old/Royaumes/Nakasane.md",
+    "Mythologie/2. Terres Sauvages/2.2 Régions.md",
+    "Images/MAP_terresSauvages.jpg",
+    "Images/MAP_terresSauvages.jpg.crdownload",
+    "Images",
+    "Nouveau dossier",
     "Mythologie/2. Terres Sauvages/2.1 Création.md",
+    "Mythologie/3. Dieux primordiaux.md",
+    "Mythologie/clan gris.md",
+    "Mythologie/2. Terres Sauvages/2.3 Créatures.md",
     "Mythologie/2. Terres Sauvages",
     "Mythologie/clan lumineux.md",
     "Mythologie/clan sombre.md",
     "old",
     "Mythologie",
-    "old/Sylvandis/Personnages/Nalaa Pavis.md",
     "old/Fiore/Personnages/Jarvin Wells.md",
     "old/images/Personnage.NalaaPavis.png",
     "images/Personnage.NalaaPavis.png.0.pdnSave",
-    "old/Sylvandis/Personnages",
-    "old/Sylvandis"
+    "old/Sylvandis/Personnages"
   ]
 }
