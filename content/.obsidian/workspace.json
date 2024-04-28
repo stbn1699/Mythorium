@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old/Sylvandis/Personnages/Halamar Sarphyra.md",
+                "file": "old/Royaumes/Sylvandis.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             },
             "group": "e2e74f00e6f126ce"
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old/Sylvandis/Personnages/Halamar Sarphyra.md",
+                "file": "old/Royaumes/Sylvandis.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old/Sylvandis/Personnages/Halamar Sarphyra.md",
+                "file": "old/Royaumes/Sylvandis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old/Sylvandis/Personnages/Halamar Sarphyra.md",
+                "file": "old/Royaumes/Sylvandis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old/Sylvandis/Personnages/Halamar Sarphyra.md"
+                "file": "old/Royaumes/Sylvandis.md"
               }
             }
           }
@@ -168,35 +168,37 @@
   },
   "active": "fdb6cf9faeb12ca5",
   "lastOpenFiles": [
-    "old/Sylvandis/Personnages/Neremyn Sarphyra.md",
-    "old/Sylvandis/Personnages/Halamar Sarphyra.md",
+    "New/3. Dieux primordiaux/3. Dieux primordiaux.md",
+    "New/4. ère actuelle/Communautées/Royaumes",
+    "New/4. ère actuelle/Communautées/Sectes",
+    "New/0 Others/0.1 Images/MAP_terresSauvages.jpg",
+    "New/3. Dieux primordiaux",
+    "New/4. ère actuelle",
+    "New/Untitled.md",
+    "old/wiki fonctionnel/Wiki fiore discord/Roleplay.md",
+    "New/0 Others/0.1 Images",
+    "New/Images/Untitled.md",
+    "New/4. ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Halamar Sarphyra.md",
+    "New",
+    "New/4. ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Neremyn Sarphyra.md",
     "old/wiki fonctionnel/Wiki fiore discord/Le robot Tupperbox.md",
     "old/wiki fonctionnel/Wiki fiore discord/Inactivité.md",
-    "old/wiki fonctionnel/Wiki fiore discord/Roleplay.md",
     "old/wiki fonctionnel/Wiki fiore discord/Règlement.md",
-    "Images/PERSONNAGE_halamarSarphyra.jpg",
+    "New/0 Others/0.1 Images/PERSONNAGE_halamarSarphyra.jpg",
     "Images/PERSONNAGE_halamarSarphyra.jpg.0.pdnSave",
-    "Images/PERSONNAGE_neremynSarphyra.jpg",
+    "New/0 Others/0.1 Images/PERSONNAGE_neremynSarphyra.jpg",
     "Images/PERSONNAGE_neremynSarphyra.jpg.0.pdnSave",
-    "old/Sylvandis/Personnages/Nalaa Pavis.md",
+    "New/4. ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Nalaa Pavis.md",
     "old/Royaumes/Nakasane.md",
-    "Mythologie/2. Terres Sauvages/2.2 Régions.md",
-    "Images/MAP_terresSauvages.jpg",
+    "New/2. Terres Sauvages/2.2 Régions.md",
     "Images/MAP_terresSauvages.jpg.crdownload",
-    "Images",
-    "Nouveau dossier",
-    "Mythologie/2. Terres Sauvages/2.1 Création.md",
-    "Mythologie/3. Dieux primordiaux.md",
+    "New/0 Others",
+    "New/2. Terres Sauvages/2.1 Création.md",
     "Mythologie/clan gris.md",
-    "Mythologie/2. Terres Sauvages/2.3 Créatures.md",
-    "Mythologie/2. Terres Sauvages",
+    "New/2. Terres Sauvages/2.3 Créatures.md",
     "Mythologie/clan lumineux.md",
     "Mythologie/clan sombre.md",
-    "old",
-    "Mythologie",
     "old/Fiore/Personnages/Jarvin Wells.md",
-    "old/images/Personnage.NalaaPavis.png",
-    "images/Personnage.NalaaPavis.png.0.pdnSave",
-    "old/Sylvandis/Personnages"
+    "old/images/Personnage.NalaaPavis.png"
   ]
 }
