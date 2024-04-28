@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "ce1804a7711fee7e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fdb6cf9faeb12ca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "old/Royaumes/Sylvandis.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "e2e74f00e6f126ce"
-          }
-        ]
-      },
-      {
         "id": "ea108115e6fa39b3",
         "type": "tabs",
         "children": [
           {
-            "id": "78231a68dbee0baa",
+            "id": "8e8789e78fad9c12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old/Royaumes/Sylvandis.md",
+                "file": "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
                 "mode": "source",
+                "source": true
+              }
+            },
+            "group": "1500f9eb109e2717"
+          }
+        ]
+      },
+      {
+        "id": "af169df09beb416b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab35027f7f82e220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
+                "mode": "preview",
                 "source": false
               }
             },
-            "group": "e2e74f00e6f126ce"
+            "group": "1500f9eb109e2717"
           }
         ]
       }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old/Royaumes/Sylvandis.md",
+                "file": "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old/Royaumes/Sylvandis.md",
+                "file": "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old/Royaumes/Sylvandis.md"
+                "file": "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md"
               }
             }
           }
@@ -166,36 +166,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdb6cf9faeb12ca5",
+  "active": "8e8789e78fad9c12",
   "lastOpenFiles": [
-    "New/3. Dieux primordiaux/3. Dieux primordiaux.md",
-    "New/4. ère actuelle/Communautées/Royaumes",
-    "New/4. ère actuelle/Communautées/Sectes",
-    "New/0 Others/0.1 Images/MAP_terresSauvages.jpg",
-    "New/3. Dieux primordiaux",
-    "New/4. ère actuelle",
-    "New/Untitled.md",
+    "New/3. Wiki/3.4 ère actuelle/Régions/Insulae Aeternae.md",
+    "old/Royaumes/Fiore.md",
+    "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
+    "New/1. Others/1.1 Images/cfg.png",
+    "New/1. Others/1.1 Images/cfg.png.0.pdnSave",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis_location.jpg",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis_location.jpg.0.pdnSave",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis.jpg",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis.jpg.crdownload",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae_location.jpg",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae_location.jpg.0.pdnSave",
+    "New/2. époques/2.3 Grande époque.md",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque.jpg",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae.jpg",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae.jpg.crdownload",
+    "New/3. Wiki/3.1 Terres Sauvages/2.2 Régions.md",
+    "New/3. Wiki/3.1 Terres Sauvages/Untitled 1.md",
+    "New/3. Wiki/3.4 ère actuelle/Évenements",
+    "New/3. Wiki/3.1 Terres Sauvages/Untitled.md",
+    "New/3. Wiki/3.4 ère actuelle/Créatures - Races",
+    "New/3. Wiki/3.4 ère actuelle/Régions",
+    "New/2. époques/2.4 ère actuelle.md",
+    "New/3. Wiki",
+    "New/3. Wiki.md",
+    "New/2. époques/2.3 Dieux primordiaux.md",
+    "New/0 Others/0.1 Images/MAP_grandeEpoque.jpg.crdownload",
+    "New/2. époques/2.1 Terres Sauvages.md",
+    "old/Royaumes/Sylvandis.md",
+    "New/1. Others/1.1 Images/MAP_terresSauvages.jpg",
     "old/wiki fonctionnel/Wiki fiore discord/Roleplay.md",
-    "New/0 Others/0.1 Images",
     "New/Images/Untitled.md",
-    "New/4. ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Halamar Sarphyra.md",
-    "New",
-    "New/4. ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Neremyn Sarphyra.md",
+    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Halamar Sarphyra.md",
+    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Neremyn Sarphyra.md",
     "old/wiki fonctionnel/Wiki fiore discord/Le robot Tupperbox.md",
     "old/wiki fonctionnel/Wiki fiore discord/Inactivité.md",
     "old/wiki fonctionnel/Wiki fiore discord/Règlement.md",
-    "New/0 Others/0.1 Images/PERSONNAGE_halamarSarphyra.jpg",
-    "Images/PERSONNAGE_halamarSarphyra.jpg.0.pdnSave",
-    "New/0 Others/0.1 Images/PERSONNAGE_neremynSarphyra.jpg",
-    "Images/PERSONNAGE_neremynSarphyra.jpg.0.pdnSave",
-    "New/4. ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Nalaa Pavis.md",
+    "New/1. Others/1.1 Images/PERSONNAGE_halamarSarphyra.jpg",
+    "New/1. Others/1.1 Images/PERSONNAGE_neremynSarphyra.jpg",
+    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Nalaa Pavis.md",
     "old/Royaumes/Nakasane.md",
-    "New/2. Terres Sauvages/2.2 Régions.md",
-    "Images/MAP_terresSauvages.jpg.crdownload",
-    "New/0 Others",
-    "New/2. Terres Sauvages/2.1 Création.md",
     "Mythologie/clan gris.md",
-    "New/2. Terres Sauvages/2.3 Créatures.md",
+    "New/3. Wiki/3.1 Terres Sauvages/2.3 Créatures.md",
     "Mythologie/clan lumineux.md",
     "Mythologie/clan sombre.md",
     "old/Fiore/Personnages/Jarvin Wells.md",
