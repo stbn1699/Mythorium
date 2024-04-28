@@ -101,7 +101,7 @@ Les préparatifs terminés, Halamar et Neremyn échangèrent un regard complice,
     <div class="event">
         <div class="event-content">
             <h2>jour 75, année 4305</h2>
-			<h3>Jour du départ</h3>
+			<h3>Installation</h3>
 			<p>Après plusieurs semaines de marche à travers des paysages variés et des contrées sauvages, Halamar et Neremyn trouvèrent enfin un endroit idéal pour établir leur campement. Niché au creux d'une vallée verdoyante, l'endroit offrait tout ce dont ils avaient besoin : un petit cours d'eau cristalline serpentant entre les arbres, une forêt luxuriante regorgeant de ressources naturelles, et une clairière baignée de soleil où ils pourraient installer leur tente.<br/><br/>
 
 Avec l'aide de Halamar, Neremyn monta la tente et alluma un feu près de la rivière pour cuisiner leur repas du soir. Pendant ce temps, Halamar construisit une table rudimentaire à partir de branches d'arbres trouvées à proximité, offrant ainsi un endroit confortable où ils pourraient prendre leurs repas et se reposer après une journée d'aventures.<br/><br/>
