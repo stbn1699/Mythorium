@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
+                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
+                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
+                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
+                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md"
+                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md"
               }
             }
           }
@@ -168,9 +168,13 @@
   },
   "active": "8e8789e78fad9c12",
   "lastOpenFiles": [
+    "New/3. Wiki/3.4 ère actuelle/Histoires",
+    "New/2. époques/2.4 ère actuelle.md",
+    "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
+    "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae.jpg.crdownload",
     "New/3. Wiki/3.4 ère actuelle/Régions/Insulae Aeternae.md",
     "old/Royaumes/Fiore.md",
-    "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
     "New/1. Others/1.1 Images/cfg.png",
     "New/1. Others/1.1 Images/cfg.png.0.pdnSave",
     "New/1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis_location.jpg",
@@ -182,14 +186,12 @@
     "New/2. époques/2.3 Grande époque.md",
     "New/1. Others/1.1 Images/MAP_grandeEpoque.jpg",
     "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae.jpg",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae.jpg.crdownload",
     "New/3. Wiki/3.1 Terres Sauvages/2.2 Régions.md",
     "New/3. Wiki/3.1 Terres Sauvages/Untitled 1.md",
     "New/3. Wiki/3.4 ère actuelle/Évenements",
     "New/3. Wiki/3.1 Terres Sauvages/Untitled.md",
     "New/3. Wiki/3.4 ère actuelle/Créatures - Races",
     "New/3. Wiki/3.4 ère actuelle/Régions",
-    "New/2. époques/2.4 ère actuelle.md",
     "New/3. Wiki",
     "New/3. Wiki.md",
     "New/2. époques/2.3 Dieux primordiaux.md",
@@ -211,8 +213,6 @@
     "Mythologie/clan gris.md",
     "New/3. Wiki/3.1 Terres Sauvages/2.3 Créatures.md",
     "Mythologie/clan lumineux.md",
-    "Mythologie/clan sombre.md",
-    "old/Fiore/Personnages/Jarvin Wells.md",
     "old/images/Personnage.NalaaPavis.png"
   ]
 }
