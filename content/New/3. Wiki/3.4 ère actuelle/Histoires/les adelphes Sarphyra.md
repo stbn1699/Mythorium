@@ -98,6 +98,31 @@ Ensemble, ils se mirent à préparer leur départ. Ils rassemblèrent des provis
 Les préparatifs terminés, Halamar et Neremyn échangèrent un regard complice, empli de détermination et de promesses d'aventures à venir. Ils montèrent sur la calèche, prêts à débuter leur voyage vers l'inconnu, impatients de découvrir ce que le monde avait à leur offrir. La route s'étendait devant eux, parsemée de mystères et d'aventures à venir, et ils étaient prêts à affronter tous les défis qui se dresseraient sur leur chemin.</p>
         </div>
     </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 75, année 4305</h2>
+			<h3>Jour du départ</h3>
+			<p>Après plusieurs semaines de marche à travers des paysages variés et des contrées sauvages, Halamar et Neremyn trouvèrent enfin un endroit idéal pour établir leur campement. Niché au creux d'une vallée verdoyante, l'endroit offrait tout ce dont ils avaient besoin : un petit cours d'eau cristalline serpentant entre les arbres, une forêt luxuriante regorgeant de ressources naturelles, et une clairière baignée de soleil où ils pourraient installer leur tente.<br/><br/>
+
+Avec l'aide de Halamar, Neremyn monta la tente et alluma un feu près de la rivière pour cuisiner leur repas du soir. Pendant ce temps, Halamar construisit une table rudimentaire à partir de branches d'arbres trouvées à proximité, offrant ainsi un endroit confortable où ils pourraient prendre leurs repas et se reposer après une journée d'aventures.<br/><br/>
+
+Cependant, alors que la nuit tombait et que le crépitement du feu emplissait l'air de chaleur et de lumière, Neremyn commença à ressentir une certaine anxiété. Les souvenirs douloureux de l'incident avec le renard quelques années auparavant refirent surface, et elle devint de plus en plus nerveuse à l'idée que ces créatures pourraient rôder autour de leur campement.<br/><br/>
+
+Comprenant les craintes de sa sœur, Halamar entreprit de construire une barrière autour du campement pour les protéger des renards. Avec habileté, il empila des branches et des rochers pour former un rempart solide, assurant ainsi la sécurité de Neremyn et la tranquillité de leur nuit.<br/><br/>
+
+Une fois la barrière terminée, Neremyn se sentit immédiatement plus rassurée, et ils purent enfin profiter de leur repas en plein air dans la douceur de la soirée. Assis autour du feu, sous le ciel étoilé, ils échangèrent des histoires et des rires, savourant chaque instant de cette aventure ensemble.<br/><br/>
+
+Le lendemain, Halamar et Neremyn installèrent leur tente avec soin, veillant à ce que chaque élément soit disposé de manière pratique et fonctionnelle. Au fond de la tente, un grand coffre renfermait leurs effets personnels et les fournitures essentielles pour leur voyage. À droite du coffre, un poêle à bois trônait fièrement, prêt à réchauffer leur abri pendant les nuits fraîches.<br/><br/>
+
+De l'autre côté de la tente, un lit rudimentaire était dressé, recouvert de peaux de bête pour plus de confort. Au pied du lit, une petite cuisine improvisée était aménagée, avec un foyer pour cuisiner les repas et une étagère pour ranger les provisions. À côté de la cuisine, une table en bois brut était entourée de deux chaises rustiques, offrant un espace accueillant où partager leurs repas et leurs histoires.<br/><br/>
+
+Enfin, tout à fait à droite de la tente, une commode était placée contre le mur, offrant un espace de rangement supplémentaire pour leurs vêtements et leurs objets personnels. Avec chaque élément soigneusement disposé, leur tente devenait véritablement un foyer temporaire, un refuge chaleureux au cœur de la nature sauvage.
+
+![[MAP_grandeEpoque_tenteSarphyra_interieur.jpg]]
+![[MAP_grandeEpoque_tenteSarphyra_exterieur.jpg]]
+			</p>
+        </div>
+    </div>
 </div>
 
 </body>
