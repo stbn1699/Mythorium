@@ -17,7 +17,27 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "dfeb0ab2d7345696"
+          }
+        ]
+      },
+      {
+        "id": "1c3dcfb5cb5b666b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "402de7f3e8df0b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "dfeb0ab2d7345696"
           }
         ]
       }
@@ -146,8 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdb6cf9faeb12ca5",
+  "active": "402de7f3e8df0b55",
   "lastOpenFiles": [
+    "New/3. Wiki/3.4 ère actuelle/Régions/Insulae Aeternae.md",
+    "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
     "Mythologie/3. Naissance des dieux primordiaux.md",
     "Mythologie/Untitled.md",
     "Mythologie/2. Terres Sauvages/2.1 overview.md",
@@ -159,9 +181,7 @@
     "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages",
     "New/3. Wiki/3.4 ère actuelle/Communautées/Sectes/Secte Obscura.md",
     "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis",
-    "New/3. Wiki/3.4 ère actuelle/Régions/Insulae Aeternae.md",
     "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
-    "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
     "New/3. Wiki/3.4 ère actuelle/Communautées/Sectes",
     "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes",
     "New/3. Wiki/3.4 ère actuelle/Régions",

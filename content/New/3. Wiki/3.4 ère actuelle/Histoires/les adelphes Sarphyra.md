@@ -82,6 +82,13 @@
     </div>
     <div class="event">
         <div class="event-content">
+            <h2>jour 15, année 4290</h2>
+			<h3>Découverte de pouvoirs de Halamar</h3>
+			<p>À l'occasion de ses dix ans, Halamar, d'ordinaire si calme, fut soudainement pris d'une colère fulgurante qui le submergea comme une vague déferlante. Une rage inconnue l'envahit, s'emparant de son esprit et obscurcissant ses pensées. C'était comme si une flamme brûlante s'était allumée en lui, alimentée par la vision de quelqu'un s'en prenant à sa sœur bien-aimée, Neremyn. Lorsqu'il vit quelqu'un oser porter la main sur elle, cette étincelle de colère se transforma en un brasier dévorant, consumant tout sur son passage. Dans un état presque semblable à une transe, il se laissa emporter par cette fureur incontrôlable, se débattant contre des démons invisibles qui semblaient le harceler. Ses poings serrés et ses muscles tendus témoignaient de la tension qui l'habitait, tandis que ses yeux, d'ordinaire si calmes, brûlaient désormais d'une lueur sauvage et indomptable. Incapable de maîtriser cette tempête intérieure, il se laissa emporter par la tourmente de ses émotions, naviguant à travers les flots tumultueux de sa propre colère.</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
             <h2>jour 185, année 4293</h2>
 			<h3>Mort des parents des Adelphes</h3>
 			<p>Lorsque les parents de Neremyn et Halamar moururent tragiquement, Halamar n'avait que 13 ans et Neremyn seulement 9 ans. Ce fut un moment de grande peine et de bouleversement pour les deux enfants. Malgré leur chagrin, Halamar prit immédiatement sur lui la responsabilité de s'occuper de sa jeune sœur. À l'âge où d'autres adolescents se perdent dans leurs propres préoccupations, Halamar se consacra entièrement à Neremyn, prenant soin d'elle comme s'il s'agissait de son propre enfant. Sa détermination et son sens des responsabilités firent de lui un protecteur dévoué et un modèle pour sa sœur.</p>
@@ -90,9 +97,25 @@
     </div>
     <div class="event">
         <div class="event-content">
+            <h2>jour 7, année 4294</h2>
+			<h3>Découverte de pouvoirs de Neremyn</h3>
+			<p>Sous le ciel éclatant du royaume de Sylvandis, à la veille du dixième anniversaire de Neremyn, quelque chose d'extraordinaire se produisait en elle, sans qu'elle en ait conscience. Avec un sourire radieux, elle apprenait à faire du vélo, sous le regard bienveillant de son frère. Alors que la pluie se mettait à tomber avec force au-dessus de leurs têtes, la jeune fille ne se laissait pas perturber, poursuivant joyeusement ses premiers tours de roue en dépit des éléments déchaînés. Soudain, un éclair déchira le ciel, provoquant un sursaut chez Neremyn qui perdit l'équilibre et chuta de son vélo, se blessant légèrement au genou. Son frère, alerté par sa chute, accourut à son secours, et lorsqu'elle releva légèrement son pantalon pour lui montrer sa blessure, des gouttes de pluie vinrent caresser sa peau meurtrie, la soignant d'une lueur semblable à un rayon de soleil.</p>
+			<p class="author">Yuka</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
             <h2>jour 102, année 4301</h2>
 			<h3>Révélation des sentiments</h3>
 			<p>Lorsque Neremyn atteignit l'âge de 17 ans et Halamar 21 ans, une confession bouleversante eut lieu entre les deux frères et sœurs. Neremyn, dans un moment de courage et de vulnérabilité, avoua à Halamar les sentiments qu'elle éprouvait pour lui, des sentiments bien au-delà de ceux d'une simple fraternité. Ce qui aurait pu être un moment de confusion et de malaise se transforma en une conversation sincère et révélatrice. Halamar, de son côté, admit qu'il partageait depuis longtemps ces sentiments, bien qu'il n'ait jamais osé les exprimer à sa sœur. Ce moment de vérité renforça encore plus leur lien, scellant un amour qui allait bien au-delà des liens du sang.</p>
+			<p class="author">Yuka</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 8, année 4302</h2>
+			<h3>Première fois</h3>
+			<p> Dans les douces lueurs d'un soir enveloppé de promesses, à quelques semaines du joyeux anniversaire de Neremyn, et après des mois de tendre complicité avec Halamar, une demande inattendue se glissa dans l'air chargé d'émotions. Dans un moment de timidité palpable, Neremyn murmura à son frère d'une voix à peine audible son désir le plus secret : celui que Halamar devienne son premier amour. Touché par la sincérité et la vulnérabilité de sa sœur, Halamar garda le silence, ému par la délicatesse de son vœu. Le jour de l'anniversaire, il transforma leur espace intime en un tableau d'une beauté envoûtante, offrant à Neremyn un écrin de romantisme où leurs cœurs pouvaient s'épanouir. Ainsi, dans cette atmosphère imprégnée de magie, ils partagèrent un moment intime et féerique, scellant leur amour dans le souvenir éternel de leur première fois, le</p>
 			<p class="author">Yuka</p>
         </div>
     </div>
