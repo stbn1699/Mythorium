@@ -1,9 +1,70 @@
 ## intro
 cette histoire raconte la relation entre [[Sélène Aragorn]] et [[Lamys of the Forest]]
 
-# 1. Arrivée de Sélène dans le royaume
-## 1.1 premier contact
-Le soleil déclinait doucement, projetant des teintes chaudes sur les murs du château qui se dressaient devant Sélène. La nouvelle venue, empreinte de curiosité et de détermination, se tenait devant Lamys of the Forest, le garde stoïque à l'entrée. Son regard clair trahissait une pointe d'anxiété mêlée à l'excitation de découvrir un univers jusqu'alors inconnu.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Timeline</title>
+<style>
+    .timeline {
+        max-width: 800px;
+        margin: 50px auto;
+        font-family: Arial, sans-serif;
+    }
+    
+    .event {
+        margin-bottom: 50px;
+        position: relative;
+    }
+    
+    .event::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -15px;
+        height: 100%;
+        width: 5px;
+        background-color: #3d4852;
+    }
+    
+    .event-content {
+        padding: 15px;
+        border-radius: 10px;
+        background-color: rgba(0, 0, 0, 0.15); /* Couleur de fond légèrement assombrie */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Ombre légère */
+        margin-left: 25px;
+        border: 2px solid #3d4852;
+    }
+    
+    .event h2 {
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    
+    .content {
+        margin: 0;
+    }
+    .author{
+	    margin-top: 10px;
+	    margin-bottom: 0px;
+	    font-style: italic;
+	    text-align: end;
+    }
+    .author::before{
+	    content: 'auteur.e.s : ';
+    }
+</style>
+</head>
+<body>
+
+<div class="timeline">
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 254, année 4303</h2>
+			<h3>premier contact</h3>
+			<p class="content">Le soleil déclinait doucement, projetant des teintes chaudes sur les murs du château qui se dressaient devant Sélène. La nouvelle venue, empreinte de curiosité et de détermination, se tenait devant Lamys of the Forest, le garde stoïque à l'entrée. Son regard clair trahissait une pointe d'anxiété mêlée à l'excitation de découvrir un univers jusqu'alors inconnu.
 
 Sélène salue poliment le garde avec un doux sourire aux lèvres, en lui adressant un signe respectueux. "Bonjour Monsieur. Je suis une jeune arrivée. Et d’après l’homme de la taverne, il faut que j’aille voir le roi... du coup me voilà."
 
@@ -21,9 +82,14 @@ Sélène réprima sa gêne, se laissant guider par la curiosité. "Eh bien... j�
 
 Arrivant devant la porte du roi, Lamys toqua avec assurance. "Vous pouvez entrer," déclara le roi. Lamys ouvre la voie à Sélène tandis que Le roi, Wymon III, l'invita à pénétrer dans son royaume intérieur, la salle du trône.
 
-"Merci, Monsieur," exprima-t-elle avec gratitude avant de franchir le seuil du monde royal, laissant derrière elle le garde stoïque et le mystère qui semblait l'entourer.
-## 1.2 discussion avec le roi
-Sélène Aragorn se tenait à présent devant le trône, éblouie par la grandeur de la salle. Les décorations somptueuses et l'organisation impeccable révélaient le faste du royaume. Une légère admiration se lisait dans ses yeux, témoignant de la splendeur qui l'entourait.
+"Merci, Monsieur," exprima-t-elle avec gratitude avant de franchir le seuil du monde royal, laissant derrière elle le garde stoïque et le mystère qui semblait l'entourer.</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 254, année 4303</h2>
+			<h3>Discussion avec le roi</h3>
+			<p class="content">Sélène Aragorn se tenait à présent devant le trône, éblouie par la grandeur de la salle. Les décorations somptueuses et l'organisation impeccable révélaient le faste du royaume. Une légère admiration se lisait dans ses yeux, témoignant de la splendeur qui l'entourait.
 
 "Je vous salue votre Altesse," lança-t-elle, s'inclinant respectueusement devant Wymon III qui se trouvait sur le trône.
 
@@ -47,11 +113,14 @@ Sélène entama une danse envoûtante, maîtrisant les quatre éléments avec un
 
 "Merci beaucoup, madame. Je t'invite à aller visiter le royaume," proposa Wymon, indiquant la possibilité d'être guidée par l'un de ses gardes ou l'un des villageois. "La boulangère adorerait je pense."
 
-"Je vous remercie. J’y vais de ce pas !" s'exclama Sélène, saluant une dernière fois le roi avant de quitter la salle du trône. L'aventure dans le royaume de Fiore venait de commencer.
-
-# 2. découverte du royaume
-## 2.1 second contact
-Sélène Aragorn, maintenant devenue nouvelle résidente dans ce royaume enchanteur, errait dans les rues animées en direction de la [[Taverne]]. L'émerveillement se lisait sur son visage, tout en admirant la vie trépidante qui animait la place publique. N'étant pas habituée à un tel environnement, elle décida de se diriger vers la [[Taverne]] pour y trouver un peu de réconfort.
+"Je vous remercie. J’y vais de ce pas !" s'exclama Sélène, saluant une dernière fois le roi avant de quitter la salle du trône. L'aventure dans le royaume de Fiore venait de commencer.</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 255, année 4303</h2>
+			<h3>second contact</h3>
+			<p class="content">Sélène Aragorn, maintenant devenue nouvelle résidente dans ce royaume enchanteur, errait dans les rues animées en direction de la [[Taverne]]. L'émerveillement se lisait sur son visage, tout en admirant la vie trépidante qui animait la place publique. N'étant pas habituée à un tel environnement, elle décida de se diriger vers la [[Taverne]] pour y trouver un peu de réconfort.
 
 Pendant ce temps, Lamys of the Forest poursuivait sa ronde habituelle autour du château, protégeant avec vigilance son roi. Les pas réguliers du garde résonnaient dans la quiétude de la nuit.
 
@@ -73,10 +142,14 @@ Sélène écoutait attentivement, souriante. Elle trouvait le garde à la fois s
 
 "OH mon dieu ! Il y a des jardins ici ?! Alors c’est oui avec plaisir !", s'entousiasma la jeune fille
 
-Amusé par l'enthousiasme de Sélène, Lamys esquissa un sourire sous son casque invisible. Il se mit en route vers le premier jardin de leur visite, le [[Jardin 3]], invitant la jeune femme à le suivre dans cette nouvelle aventure.
-## 2.2 Visite du jardin scientifique 
-
-Sélène Aragorn suivait Lamys avec enthousiasme, sa joie débordante se manifestant à travers chaque pas. L'excitation la gagnant, elle prit naturellement le bras du garde, entrant avec lui dans le jardin. Lamys, stoïque sous son casque, ne laissait rien transparaître de ses émotions, bien que le contact physique ait éveillé une certaine rougeur.
+Amusé par l'enthousiasme de Sélène, Lamys esquissa un sourire sous son casque invisible. Il se mit en route vers le premier jardin de leur visite, le [[Jardin 3]], invitant la jeune femme à le suivre dans cette nouvelle aventure.</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 255, année 4303</h2>
+			<h3>Visite du jardin scientifique</h3>
+			<p class="content">Sélène Aragorn suivait Lamys avec enthousiasme, sa joie débordante se manifestant à travers chaque pas. L'excitation la gagnant, elle prit naturellement le bras du garde, entrant avec lui dans le jardin. Lamys, stoïque sous son casque, ne laissait rien transparaître de ses émotions, bien que le contact physique ait éveillé une certaine rougeur.
 
 "Donc ça, c'est le jardin qui sert à faire des expériences", expliqua Lamys sobrement.
 
@@ -88,9 +161,14 @@ Sélène sourit tendrement, "On en a discuté durant mon entretien, mais c’est
 
 "La main verte, oui, c'est fou..." marmonna Lamys, les mots s'échappant de lui comme une révélation. C'était la première fois qu'il exprimait une émotion de toute sa vie. Sélène, surprise par ce changement, ressentit une fierté bien légitime.
 
-Les deux complices se dirigèrent vers le [[Jardin 2]], prêts à découvrir les secrets végétaux qui s'y cachaient, et peut-être, à dévoiler quelques émotions encore enfouies.
-## 2.3 visite du jardin comunautaire
-"Notre jardinière référente est partie il y a un moment malheureusement," expliqua Lamys avec un sourire teinté de tristesse. "On n'a plus aucun moyen de maintenir cet endroit correctement." La peine résonnait dans sa voix.
+Les deux complices se dirigèrent vers le [[Jardin 2]], prêts à découvrir les secrets végétaux qui s'y cachaient, et peut-être, à dévoiler quelques émotions encore enfouies.</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 255, année 4303</h2>
+			<h3>visite du jardin comunautaire</h3>
+			<p class="content">"Notre jardinière référente est partie il y a un moment malheureusement," expliqua Lamys avec un sourire teinté de tristesse. "On n'a plus aucun moyen de maintenir cet endroit correctement." La peine résonnait dans sa voix.
 
 "Heureusement que j’arrive ici ! Je vais redonner vie à ces lieux !" s'exclama Sélène avec une détermination palpable.
 
@@ -106,4 +184,10 @@ Le visage de Sélène rougit immédiatement, et elle lui sourit tendrement. C'é
 
 "Avec plaisir !" répondit Sélène, son sourire s'élargissant. Elle prit doucement la main de Lamys avec la sienne pour le tirer vers le dernier jardin.
 
-"il est comment ?" demanda-t-elle avec curiosité, prête à découvrir les secrets du prochain jardin."
+"il est comment ?" demanda-t-elle avec curiosité, prête à découvrir les secrets du prochain jardin.</p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

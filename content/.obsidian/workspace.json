@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
+                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/Sélène et Lamys.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
-                "mode": "preview",
+                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/Sélène et Lamys.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
+                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/Sélène et Lamys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
+                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/Sélène et Lamys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md"
+                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/Sélène et Lamys.md"
               }
             }
           }
@@ -166,10 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "402de7f3e8df0b55",
+  "active": "fdb6cf9faeb12ca5",
   "lastOpenFiles": [
-    "New/3. Wiki/3.4 ère actuelle/Régions/Insulae Aeternae.md",
+    "old/Fiore/Histoires/Lamys x Sélène.md",
+    "New/3. Wiki/3.4 ère actuelle/Histoires/Sélène et Lamys.md",
     "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
+    "New/3. Wiki/3.4 ère actuelle/Régions/Insulae Aeternae.md",
     "Mythologie/3. Naissance des dieux primordiaux.md",
     "Mythologie/Untitled.md",
     "Mythologie/2. Terres Sauvages/2.1 overview.md",
