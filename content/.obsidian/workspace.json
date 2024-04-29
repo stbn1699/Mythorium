@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea108115e6fa39b3",
+        "id": "ce1804a7711fee7e",
         "type": "tabs",
         "children": [
           {
-            "id": "8e8789e78fad9c12",
+            "id": "fdb6cf9faeb12ca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,27 +17,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "1500f9eb109e2717"
-          }
-        ]
-      },
-      {
-        "id": "af169df09beb416b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ab35027f7f82e220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "1500f9eb109e2717"
+            }
           }
         ]
       }
@@ -166,53 +146,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e8789e78fad9c12",
+  "active": "fdb6cf9faeb12ca5",
   "lastOpenFiles": [
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur.jpg",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur.jpg.crdownload",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_interieur.jpg",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_interieur.jpg.crdownload",
-    "New/3. Wiki/3.4 ère actuelle/Histoires",
-    "New/2. époques/2.4 ère actuelle.md",
-    "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
-    "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae.jpg.crdownload",
-    "New/3. Wiki/3.4 ère actuelle/Régions/Insulae Aeternae.md",
-    "old/Royaumes/Fiore.md",
-    "New/1. Others/1.1 Images/cfg.png",
-    "New/1. Others/1.1 Images/cfg.png.0.pdnSave",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis_location.jpg",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis_location.jpg.0.pdnSave",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis.jpg",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis.jpg.crdownload",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae_location.jpg",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae_location.jpg.0.pdnSave",
-    "New/2. époques/2.3 Grande époque.md",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque.jpg",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae.jpg",
-    "New/3. Wiki/3.1 Terres Sauvages/2.2 Régions.md",
-    "New/3. Wiki/3.1 Terres Sauvages/Untitled 1.md",
-    "New/3. Wiki/3.4 ère actuelle/Évenements",
-    "New/3. Wiki/3.1 Terres Sauvages/Untitled.md",
-    "New/3. Wiki/3.4 ère actuelle/Créatures - Races",
-    "New/3. Wiki.md",
-    "New/2. époques/2.3 Dieux primordiaux.md",
+    "Mythologie/3. Naissance des dieux primordiaux.md",
+    "Mythologie/Untitled.md",
+    "Mythologie/2. Terres Sauvages/2.1 overview.md",
     "New/2. époques/2.1 Terres Sauvages.md",
-    "old/Royaumes/Sylvandis.md",
-    "New/1. Others/1.1 Images/MAP_terresSauvages.jpg",
-    "old/wiki fonctionnel/Wiki fiore discord/Roleplay.md",
-    "New/Images/Untitled.md",
-    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Halamar Sarphyra.md",
-    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Neremyn Sarphyra.md",
-    "old/wiki fonctionnel/Wiki fiore discord/Le robot Tupperbox.md",
-    "old/wiki fonctionnel/Wiki fiore discord/Inactivité.md",
-    "old/wiki fonctionnel/Wiki fiore discord/Règlement.md",
-    "New/1. Others/1.1 Images/PERSONNAGE_halamarSarphyra.jpg",
-    "New/1. Others/1.1 Images/PERSONNAGE_neremynSarphyra.jpg",
+    "New/2. époques/2.3 Dieux primordiaux.md",
     "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Nalaa Pavis.md",
-    "old/Royaumes/Nakasane.md",
+    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Neremyn Sarphyra.md",
+    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Halamar Sarphyra.md",
+    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages",
+    "New/3. Wiki/3.4 ère actuelle/Communautées/Sectes/Secte Obscura.md",
+    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis",
+    "New/3. Wiki/3.4 ère actuelle/Régions/Insulae Aeternae.md",
+    "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
+    "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
+    "New/3. Wiki/3.4 ère actuelle/Communautées/Sectes",
+    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes",
+    "New/3. Wiki/3.4 ère actuelle/Régions",
+    "New/3. Wiki/3.4 ère actuelle/Histoires",
+    "New/3. Wiki/3.4 ère actuelle/Communautées",
+    "New/3. Wiki/3.4 ère actuelle",
+    "New/3. Wiki",
+    "New/2. époques/2.4 ère actuelle.md",
+    "New/2. époques/2.3 Grande époque.md",
+    "New/2. époques",
+    "New/1. Others/1.1 Images/cfg.png",
+    "New/1. Others/1.1 Images/PERSONNAGE_neremynSarphyra.jpg",
+    "New/1. Others/1.1 Images/PERSONNAGE_halamarSarphyra.jpg",
+    "New/1. Others/1.1 Images/MAP_terresSauvages.jpg",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_interieur.jpg",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur.jpg",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae_location.jpg",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae.jpg",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis_location.jpg",
+    "New/1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis.jpg",
+    "Mythologie/2. Terres Sauvages/2.1 Création.md",
+    "index.md",
     "Mythologie/clan gris.md",
-    "New/3. Wiki/3.1 Terres Sauvages/2.3 Créatures.md",
-    "Mythologie/clan lumineux.md"
+    "Mythologie/clan lumineux.md",
+    "Mythologie/clan sombre.md",
+    "old/Sylvandis/Personnages/Nalaa Pavis.md",
+    "old/Fiore/Personnages/Jarvin Wells.md"
   ]
 }

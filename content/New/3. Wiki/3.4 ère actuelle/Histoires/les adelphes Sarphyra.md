@@ -40,8 +40,17 @@
         margin-top: 5px;
     }
     
-    .event p {
+    .content {
         margin: 0;
+    }
+    .author{
+	    margin-top: 10px;
+	    margin-bottom: 0px;
+	    font-style: italic;
+	    text-align: end;
+    }
+    .author::before{
+	    content: 'auteur.e.s : ';
     }
 </style>
 </head>
@@ -52,7 +61,7 @@
         <div class="event-content">
             <h2>jour 260, année 4280</h2>
 			<h3>Naissance de Halamar</h3>
-			<p>La naissance de Halamar, le jour 260 de l'année 4280, fut un événement marquant pour toute la famille. Accueilli avec une joie immense par ses parents et par leur entourage, Halamar fit son entrée dans le monde avec une énergie vive et une curiosité déjà éveillée. Ses parents, émus par sa venue, savaient qu'ils devaient veiller sur ce petit être avec tout leur amour et leur attention. Ainsi, dès son premier souffle, Halamar était destiné à un avenir empreint de dévouement et de soutien familial.</p>
+			<p class="content">La naissance de Halamar, le jour 260 de l'année 4280, fut un événement marquant pour toute la famille. Accueilli avec une joie immense par ses parents et par leur entourage, Halamar fit son entrée dans le monde avec une énergie vive et une curiosité déjà éveillée. Ses parents, émus par sa venue, savaient qu'ils devaient veiller sur ce petit être avec tout leur amour et leur attention. Ainsi, dès son premier souffle, Halamar était destiné à un avenir empreint de dévouement et de soutien familial.</p>
         </div>
     </div>
     <div class="event">
@@ -60,6 +69,7 @@
             <h2>jour 8, année 4284</h2>
 			<h3>Naissance de Neremyn</h3>
 			<p>La naissance de Neremyn le 08 de 4284 fut un moment d'une grande joie pour toute la famille. Halamar, âgé de seulement 4 ans à l'époque, fut immédiatement captivé par sa petite sœur. Dès qu'il posa les yeux sur elle pour la première fois, il ressentit un lien profond et indéfectible se former entre eux. Neremyn, ce petit être rayonnant, rempli d'énergie et de bonne humeur, semblait illuminer la pièce de sa présence. Pour Halamar, elle devint instantanément sa raison de vivre, sa source de bonheur et sa plus grande motivation.</p>
+			<p class="author">Yuka</p>
         </div>
     </div>
     <div class="event">
@@ -67,6 +77,7 @@
             <h2>jour 15, année 4289</h2>
 			<h3>Neremyn et les Renards</h3>
 			<p>Quelques jours après son cinquième anniversaire, alors qu'une belle journée ensoleillée s'annonçait, Neremyn, animée par sa curiosité naturelle, décida de quitter la maison sans en informer personne pour partir explorer une vaste forêt située à proximité. Alors qu'elle avançait prudemment à travers les arbres, elle rencontra sur son chemin un renard. Attirée par la curiosité, elle s'approcha doucement pour le caresser, mais l'animal, pris de peur ou de surprise, lui sauta soudainement dessus, la mordant violemment à la cuisse. Un cri de douleur et de terreur s'échappa des lèvres de Neremyn, alertant son frère qui se précipita immédiatement pour lui venir en aide. Malgré les soins prodigués, Neremyn garda une cicatrice de cette rencontre malheureuse, et cette expérience sema en elle une profonde phobie à l'égard des renards.</p>
+			<p class="author">Yuka</p>
         </div>
     </div>
     <div class="event">
@@ -74,6 +85,7 @@
             <h2>jour 185, année 4293</h2>
 			<h3>Mort des parents des Adelphes</h3>
 			<p>Lorsque les parents de Neremyn et Halamar moururent tragiquement, Halamar n'avait que 13 ans et Neremyn seulement 9 ans. Ce fut un moment de grande peine et de bouleversement pour les deux enfants. Malgré leur chagrin, Halamar prit immédiatement sur lui la responsabilité de s'occuper de sa jeune sœur. À l'âge où d'autres adolescents se perdent dans leurs propres préoccupations, Halamar se consacra entièrement à Neremyn, prenant soin d'elle comme s'il s'agissait de son propre enfant. Sa détermination et son sens des responsabilités firent de lui un protecteur dévoué et un modèle pour sa sœur.</p>
+			<p class="author">Yuka</p>
         </div>
     </div>
     <div class="event">
@@ -81,6 +93,7 @@
             <h2>jour 102, année 4301</h2>
 			<h3>Révélation des sentiments</h3>
 			<p>Lorsque Neremyn atteignit l'âge de 17 ans et Halamar 21 ans, une confession bouleversante eut lieu entre les deux frères et sœurs. Neremyn, dans un moment de courage et de vulnérabilité, avoua à Halamar les sentiments qu'elle éprouvait pour lui, des sentiments bien au-delà de ceux d'une simple fraternité. Ce qui aurait pu être un moment de confusion et de malaise se transforma en une conversation sincère et révélatrice. Halamar, de son côté, admit qu'il partageait depuis longtemps ces sentiments, bien qu'il n'ait jamais osé les exprimer à sa sœur. Ce moment de vérité renforça encore plus leur lien, scellant un amour qui allait bien au-delà des liens du sang.</p>
+			<p class="author">Yuka</p>
         </div>
     </div>
     <div class="event">
