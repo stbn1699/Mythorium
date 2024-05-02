@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ce1804a7711fee7e",
+        "id": "116c829ba74ebcea",
         "type": "tabs",
         "children": [
           {
-            "id": "fdb6cf9faeb12ca5",
+            "id": "a41f2c957b827001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/Sélène et Lamys.md",
+                "file": "New/2. époques/2.1 Terres Sauvages.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "dfeb0ab2d7345696"
-          }
-        ]
-      },
-      {
-        "id": "1c3dcfb5cb5b666b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "402de7f3e8df0b55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/Sélène et Lamys.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "dfeb0ab2d7345696"
+            }
           }
         ]
       }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/Sélène et Lamys.md",
+                "file": "New/2. époques/2.1 Terres Sauvages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/Sélène et Lamys.md",
+                "file": "New/2. époques/2.1 Terres Sauvages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New/3. Wiki/3.4 ère actuelle/Histoires/Sélène et Lamys.md"
+                "file": "New/2. époques/2.1 Terres Sauvages.md"
               }
             }
           }
@@ -166,50 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdb6cf9faeb12ca5",
+  "active": "a41f2c957b827001",
   "lastOpenFiles": [
+    "New/2. époques/2.3 Dieux primordiaux.md",
+    "New/2. époques/2.3 Grande époque.md",
+    "New/2. époques/2.4 ère actuelle.md",
+    "New/2. époques/2.1 Terres Sauvages.md",
+    "New/3. Wiki/Créatures - Races/Elfes/Elfes.md",
+    "New/1. Others/1.1 Images/Personnage.WymonFiore.png",
+    "New/1. Others/1.1 Images/PERSONNAGE_WymonFiore.jpg",
+    "New/1. Others/1.1 Images/PERSONNAGE_TonyaForbes.jpg",
+    "New/1. Others/1.1 Images/PERSONNAGE_ShiaoYue.jpg",
+    "New/1. Others/1.1 Images/PERSONNAGE_SeshaiYue.jpg",
+    "New/1. Others/1.1 Images/PERSONNAGE_SélèneAragorn.jpg",
+    "New/1. Others/1.1 Images/PERSONNAGE_NoName.jpg",
+    "New/1. Others/1.1 Images/PERSONNAGE_MiaAguereille.jpg",
+    "New/1. Others/1.1 Images/PERSONNAGE_LucyAstaria.jpg",
+    "New/1. Others/1.1 Images/PERSONNAGE_LamysForest.jpg",
+    "old/Fiore/Evenements/première Soirée à la Taverne.md",
+    "New/3. Wiki/Créatures - Races/Elfes/Individus/Neremyn Sarphyra.md",
+    "New/1. Others/1.1 Images/PERSONNAGE_halamarSarphyra.jpg.0.pdnSave",
+    "New/1. Others/1.1 Images/PERSONNAGE_neremynSarphyra.jpg.0.pdnSave",
+    "New/3. Wiki/Créatures - Races/Elfes/Individus/Nalaa Pavis.md",
+    "New/3. Wiki/Créatures - Races/Elfes/Individus/Halamar Sarphyra.md",
+    "New/1. Others/1.1 Images/PERSONNAGE_halamarSarphyra.jpg.crdownload",
+    "New/1. Others/1.1 Images/PERSONNAGE_neremynSarphyra.jpg.crdownload",
+    "New/3. Wiki/Créatures - Races/Elfes/Individus",
+    "New/3. Wiki/3.4 ère actuelle/Créatures - Races/Untitled.md",
+    "New/3. Wiki/Créatures - Races/Elfes",
+    "New/3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
+    "New/3. Wiki/Communautées/Royaumes/Sylvandis/Sylvandis.md",
+    "old/Royaumes/Nakasane.md",
+    "old/Royaumes/Sylvandis.md",
+    "New/3. Wiki/Histoires/les adelphes Sarphyra.md",
+    "New/3. Wiki/Communautées/Sectes/Secte Obscura.md",
+    "New/3. Wiki/Régions/Cordillera Luminis.md",
+    "old/Royaumes/Fiore.md",
+    "New/3. Wiki/Histoires/Sélène et Lamys.md",
+    "old/Fiore/Histoires/Sélène, Lamys et les Obscuris.md",
     "old/Fiore/Histoires/Lamys x Sélène.md",
-    "New/3. Wiki/3.4 ère actuelle/Histoires/Sélène et Lamys.md",
-    "New/3. Wiki/3.4 ère actuelle/Histoires/les adelphes Sarphyra.md",
-    "New/3. Wiki/3.4 ère actuelle/Régions/Insulae Aeternae.md",
+    "New/3. Wiki/Régions/Insulae Aeternae.md",
     "Mythologie/3. Naissance des dieux primordiaux.md",
     "Mythologie/Untitled.md",
     "Mythologie/2. Terres Sauvages/2.1 overview.md",
-    "New/2. époques/2.1 Terres Sauvages.md",
-    "New/2. époques/2.3 Dieux primordiaux.md",
-    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Nalaa Pavis.md",
-    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Neremyn Sarphyra.md",
-    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages/Halamar Sarphyra.md",
-    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis/Personnages",
-    "New/3. Wiki/3.4 ère actuelle/Communautées/Sectes/Secte Obscura.md",
-    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes/Sylvandis",
-    "New/3. Wiki/3.4 ère actuelle/Régions/Cordillera Luminis.md",
-    "New/3. Wiki/3.4 ère actuelle/Communautées/Sectes",
-    "New/3. Wiki/3.4 ère actuelle/Communautées/Royaumes",
-    "New/3. Wiki/3.4 ère actuelle/Régions",
-    "New/3. Wiki/3.4 ère actuelle/Histoires",
-    "New/3. Wiki/3.4 ère actuelle/Communautées",
-    "New/3. Wiki/3.4 ère actuelle",
-    "New/3. Wiki",
-    "New/2. époques/2.4 ère actuelle.md",
-    "New/2. époques/2.3 Grande époque.md",
-    "New/2. époques",
-    "New/1. Others/1.1 Images/cfg.png",
-    "New/1. Others/1.1 Images/PERSONNAGE_neremynSarphyra.jpg",
-    "New/1. Others/1.1 Images/PERSONNAGE_halamarSarphyra.jpg",
-    "New/1. Others/1.1 Images/MAP_terresSauvages.jpg",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_interieur.jpg",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur.jpg",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae_location.jpg",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae.jpg",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis_location.jpg",
-    "New/1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis.jpg",
-    "Mythologie/2. Terres Sauvages/2.1 Création.md",
-    "index.md",
-    "Mythologie/clan gris.md",
-    "Mythologie/clan lumineux.md",
-    "Mythologie/clan sombre.md",
-    "old/Sylvandis/Personnages/Nalaa Pavis.md",
-    "old/Fiore/Personnages/Jarvin Wells.md"
+    "New/3. Wiki/Communautées/Royaumes/Sylvandis/Personnages",
+    "New/3. Wiki/Communautées/Royaumes/Sylvandis",
+    "New/3. Wiki/Communautées/Sectes",
+    "New/3. Wiki/Communautées/Royaumes",
+    "Mythologie/2. Terres Sauvages/2.1 Création.md"
   ]
 }

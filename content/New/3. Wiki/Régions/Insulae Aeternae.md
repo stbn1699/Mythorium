@@ -22,7 +22,7 @@ Ainsi, la plaine classique à côté du territoire du dieu primordial est devenu
 
 ## Lieux Importants
 
-### [[Sylvandis]]
+### [[old/Royaumes/Sylvandis]]
 
 Au cœur de la plaine classique, là où les vastes étendues verdoyantes rencontrent les premières lisières de la forêt, se trouve Sylvandis, le royaume le plus naturel de la région. Une épaisse forêt de gigantesques arbres s'élève majestueusement, leurs branches touffues s'entrelaçant pour former un dôme verdoyant qui filtre la lumière du soleil, créant un spectacle de jeu d'ombres et de lumière. Les arbres séculaires, témoins muets de l'histoire ancienne, abritent une profusion de vie : des chants d'oiseaux résonnent parmi les feuillages, des ruisseaux cristallins serpentent entre les racines noueuses, et des créatures mystérieuses se cachent dans l'ombre des sous-bois.
 

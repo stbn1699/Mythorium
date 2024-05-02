@@ -6,6 +6,8 @@
 **Nom** : Sarphyra
 **Prénom** : Halamar
 
+**origine** : [[Sylvandis]]
+
 **Intimité**: 
 | **Genre Biologique**: Homme
 | **Genre Moral**: Homme

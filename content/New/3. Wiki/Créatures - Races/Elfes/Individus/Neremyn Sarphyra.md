@@ -6,11 +6,13 @@
 **Nom** : Sarphyra
 **Prénom** : Neremyn
 
+**origine** : [[Sylvandis]]
+
 **Intimité**: 
 | **Genre Biologique**: Femme
 | **Genre Moral**: Femme
 | **Orientation Sexuelle**: Hétéro
-| **Situation**: En couple
+| **Situation**: En couple avec [[Halamar Sarphyra]]
 
 ## portrait
 
