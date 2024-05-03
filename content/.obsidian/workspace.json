@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/2. époques/2.1 Terres Sauvages.md",
+                "file": "New/3. Wiki/Créatures - Races/Elfes/Elfes.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5
   },
   "right": {
     "id": "33182819bea96af5",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/2. époques/2.1 Terres Sauvages.md",
+                "file": "New/3. Wiki/Créatures - Races/Elfes/Elfes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/2. époques/2.1 Terres Sauvages.md",
+                "file": "New/3. Wiki/Créatures - Races/Elfes/Elfes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New/2. époques/2.1 Terres Sauvages.md"
+                "file": "New/3. Wiki/Créatures - Races/Elfes/Elfes.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "a41f2c957b827001",
   "lastOpenFiles": [
-    "New/2. époques/2.3 Dieux primordiaux.md",
-    "New/2. époques/2.3 Grande époque.md",
-    "New/2. époques/2.4 ère actuelle.md",
-    "New/2. époques/2.1 Terres Sauvages.md",
+    "New/3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
     "New/3. Wiki/Créatures - Races/Elfes/Elfes.md",
+    "New/2. époques/2.3 Grande époque.md",
+    "New/2. époques/2.1 Terres Sauvages.md",
+    "New/2. époques/2.3 Dieux primordiaux.md",
+    "New/2. époques/2.4 ère actuelle.md",
     "New/1. Others/1.1 Images/Personnage.WymonFiore.png",
     "New/1. Others/1.1 Images/PERSONNAGE_WymonFiore.jpg",
     "New/1. Others/1.1 Images/PERSONNAGE_TonyaForbes.jpg",
@@ -174,7 +175,6 @@
     "New/3. Wiki/Créatures - Races/Elfes/Individus",
     "New/3. Wiki/3.4 ère actuelle/Créatures - Races/Untitled.md",
     "New/3. Wiki/Créatures - Races/Elfes",
-    "New/3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
     "New/3. Wiki/Communautées/Royaumes/Sylvandis/Sylvandis.md",
     "old/Royaumes/Nakasane.md",
     "old/Royaumes/Sylvandis.md",
