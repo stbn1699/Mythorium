@@ -3,7 +3,7 @@ name: Deploy Quartz site to GitHub Pages
 on:
   push:
     tags:
-      - 'v'
+      - 'v*'
 
 permissions:
   contents: read
