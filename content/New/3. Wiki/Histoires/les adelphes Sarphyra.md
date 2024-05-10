@@ -105,9 +105,25 @@
     </div>
     <div class="event">
         <div class="event-content">
+            <h2>jour 65, année 4297</h2>
+			<h3>Années difficiles d'école de Neremyn</h3>
+			<p>Neremyn traversait des moments difficiles lorsqu'elle fréquentait l'école plus jeune. Constamment harcelée en raison de ses oreilles d'elfe, qui étaient moins développées que celles de ses pairs, elle se sentait mal à l'aise et rejetée. Ses oreilles, moins pointues et moins longues, étaient presque de forme humaine, ce qui attirait l'attention et les moqueries des autres élèves. Malgré les encouragements répétés de son frère, qui lui répétait qu'elle était parfaite telle qu'elle était, Neremyn a fini par décider de cacher ses oreilles pour éviter les remarques désobligeantes. Finalement, son frère a pris la décision de lui faire faire l'école à la maison, désireux de lui offrir un environnement où elle se sentirait acceptée et valorisée, loin des jugements et des critiques.</p>
+			<p class="author">Yuka</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
             <h2>jour 102, année 4301</h2>
 			<h3>Révélation des sentiments</h3>
 			<p>Lorsque Neremyn atteignit l'âge de 17 ans et Halamar 21 ans, une confession bouleversante eut lieu entre les deux frères et sœurs. Neremyn, dans un moment de courage et de vulnérabilité, avoua à Halamar les sentiments qu'elle éprouvait pour lui, des sentiments bien au-delà de ceux d'une simple fraternité. Ce qui aurait pu être un moment de confusion et de malaise se transforma en une conversation sincère et révélatrice. Halamar, de son côté, admit qu'il partageait depuis longtemps ces sentiments, bien qu'il n'ait jamais osé les exprimer à sa sœur. Ce moment de vérité renforça encore plus leur lien, scellant un amour qui allait bien au-delà des liens du sang.</p>
+			<p class="author">Yuka</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 146, année 4301</h2>
+			<h3>Prétendant de Neremyn</h3>
+			<p>Quelques semaines s'étaient écoulées depuis le début de leur relation naissante, et Halamar et Neremyn avaient gardé leur liaison secrète, laissant à leur amour le temps de s'épanouir à l'abri des regards indiscrets. Cependant, pendant cette période de clandestinité, un ami proche de Halamar fit une confession inattendue : il avoua à Halamar qu'il nourrissait des sentiments amoureux pour Neremyn depuis un certain temps. Lorsque ces mots atteignirent les oreilles de Halamar, une onde de contrariété se répandit dans son esprit, mêlée à une pointe d'agacement. Il réagit avec une franche surprise, mais aussi avec une légère irritation, déclarant à son ami que l'idée même de quelqu'un éprouvant des sentiments romantiques pour sa sœur le déconcertait. Dans un mélange de frustration et de fermeté, il souligna avec insistance qu'il ne pouvait tolérer l'idée que quiconque envisageât Neremyn sous un angle autre que purement amical. Pour lui, leur amitié devait rester exempte de toute ambiguïté, préservant ainsi la clarté et l'intégrité de leurs liens.</p>
 			<p class="author">Yuka</p>
         </div>
     </div>
