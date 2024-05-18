@@ -175,6 +175,41 @@ Enfin, tout à fait à droite de la tente, une commode était placée contre le 
 			</p>
         </div>
     </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 130, année 4306</h2>
+			<h3>Rêve de plus grand</h3>
+			<p>Un jour, alors que le crépuscule baignait leur campement de sa douce lumière orangée, Halamar et Neremyn s'installèrent près du feu de bois, contemplant leur abri de fortune. Leur regard se posa sur la tente, bien plus confortable qu'à leur arrivée. Ils avaient installé un poêle à bois pour les nuits fraîches, une table en bois brut près de la rivière pour leurs repas, et une barrière protectrice pour éloigner les renards.
+
+Neremyn, songeuse, murmura : "Tu sais, chaque jour que nous passons ici, cet endroit ressemble de plus en plus à un foyer." Halamar acquiesça, un sourire éclairant son visage habituellement réservé. "Je pensais la même chose. Nous avons fait tant d'aménagements... peut-être devrions-nous envisager de nous installer ici de manière permanente."
+
+Leur tente, qui autrefois n'était qu'un abri temporaire, s'était transformée en un espace accueillant, avec une cuisine rudimentaire mais fonctionnelle, et un coin confortable aménagé avec des peaux de bêtes. Ils avaient créé un vrai cocon, une base solide pour leur vie ensemble. Ensemble, ils commencèrent à rêver à voix haute de ce que pourrait devenir cet endroit, parlant de construire une véritable maison en bois, d'aménager un jardin et de vivre en harmonie avec la nature environnante.
+
+La décision fut prise ce soir-là, au coin du feu. Ils savaient que ce lieu, avec ses arbres protecteurs et sa rivière chantante, était bien plus qu'un simple campement. C'était un sanctuaire, un endroit où ils pourraient bâtir une vie, transformant leur tente de fortune en une véritable maison, un havre de paix pour leur avenir.</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 224, année 4306</h2>
+			<h3>Neremyn tombe malade</h3>
+			<p>Le chant des marteaux et des scies résonnait à travers la clairière depuis des mois maintenant. Halamar et Neremyn travaillaient sans relâche pour transformer leur tente de fortune en une véritable maison. Chaque journée apportait son lot de progrès : les fondations solides s’élevaient, les murs en bois prenaient forme, et le toit commençait à couvrir leur futur foyer. Leurs efforts infatigables étaient alimentés par leur vision commune d’un lieu de vie confortable et chaleureux.
+
+Cependant, environ une centaine de jours après le début des travaux, Neremyn commença à ressentir une fatigue inhabituelle. Au départ, elle mit cela sur le compte des longues journées de travail et des efforts physiques continus. Mais rapidement, d'autres symptômes apparurent : nausées matinales, étourdissements et une sensibilité accrue aux odeurs. Halamar, inquiet, suggéra qu'elle prenne du repos, mais Neremyn, déterminée à mener à bien leur projet, persista à travailler à ses côtés.
+
+Malgré sa volonté, sa condition ne s’améliorait pas. Ses forces semblaient la quitter par moments, et elle se retrouvait souvent à devoir s'asseoir pour reprendre son souffle. Halamar, de plus en plus préoccupé, commença à prendre en charge les tâches les plus ardues, tout en veillant à ce que Neremyn ne se surmène pas.</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 231, année 4306</h2>
+			<h3>Recherche de remède</h3>
+			<p>Une semaine après le début des symptômes de Neremyn, la situation ne s'améliorait toujours pas. Halamar, voyant l'inquiétude croissante de sa compagne, proposa finalement de consulter un guérisseur de leur royaume natal, Sylvandis. Connaissant la réputation des guérisseurs elfiques et leur expertise, ils espéraient trouver des réponses et un remède aux maux de Neremyn.
+
+Le voyage de retour à Sylvandis fut empreint d'espoir et d'appréhension. Arrivés au cœur de leur forêt natale, ils se dirigèrent vers le guérisseur le plus proche, un vieil elfe nommé [[Thalion Wynnelis]], réputé pour sa sagesse et ses compétences exceptionnelles. Après une série d'examens et de questions, Thalion leur fit part de la nouvelle qui changerait leur vie : Neremyn était enceinte.
+
+La surprise et la joie se mêlèrent à l'inquiétude. Sachant que le temps pressait, ils réalisèrent qu'ils devaient vite terminer les travaux de leur maison avant que l'enfant ne vienne au monde. Halamar et Neremyn retournèrent à leur campement avec un nouveau but : créer un foyer non seulement pour eux, mais aussi pour leur futur enfant. Chaque coup de marteau et chaque planche de bois posée devenaient alors une pierre angulaire de leur avenir familial.</p>
+        </div>
+    </div>
 </div>
 
 </body>
