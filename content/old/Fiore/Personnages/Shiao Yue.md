@@ -1,7 +1,7 @@
 #Personnage 
 
 ## image
-![[Personnage.ShiaoYue.png]]
+![[PERSONNAGE_ShiaoYue.jpg]]
 
 ## Informations
 **Nom** : Yue 

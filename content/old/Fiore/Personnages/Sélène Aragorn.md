@@ -1,7 +1,7 @@
 #Personnage 
 
 ## Image
-![[Personnage.SélèneAragorn.png]]
+![[PERSONNAGE_SélèneAragorn.jpg]]
 
 ## Informations
 **Nom**: Aragorn

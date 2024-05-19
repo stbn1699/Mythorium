@@ -1,7 +1,7 @@
 #Personnage 
 
 ## image
-![[Personnage.KamotoShigeko.png]]
+![[PERSONNAGE_KamotoShigeko.jpg]]
 
 ## Informations
 **Nom** : Shigeko 

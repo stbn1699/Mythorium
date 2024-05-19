@@ -1,6 +1,6 @@
 #Personnage 
 ## Image
-![[Personnage.EdgarSchreave.png]]
+![[PERSONNAGE_EdgarSchreave.jpg]]
 
 ## informations
 **Nom **: Schreave

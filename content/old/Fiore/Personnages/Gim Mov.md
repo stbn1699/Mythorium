@@ -1,7 +1,7 @@
 #Personnage 
 
 ## Image
-![[Personnage.GimMov.png]]
+![[PERSONNAGE_GimMov.jpg]]
 
 ## Informations
 **Nom**: Mov 

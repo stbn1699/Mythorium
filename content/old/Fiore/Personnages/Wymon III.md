@@ -1,7 +1,7 @@
 #Personnage 
 
 ## Image
-![[Personnage.WymonFiore.png]]
+![[PERSONNAGE_WymonFiore.jpg]]
 
 ## Informations
 **Nom **: Fiore

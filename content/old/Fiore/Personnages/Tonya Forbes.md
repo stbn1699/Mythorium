@@ -1,6 +1,6 @@
 #Personnage 
 ## image
-![[Personnage.TonyaForbes.png]]
+![[PERSONNAGE_TonyaForbes.jpg]]
 
 ## Informations
 **Nom** : Forbes

@@ -1,7 +1,7 @@
 #Personnage 
 
 ## image
-![[Personnage.LagerthaOsmond.png]]
+![[PERSONNAGE_LagerthaOsmond.jpg]]
 
 ## Informations
 **Nom** : Osmond 

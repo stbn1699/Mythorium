@@ -1,7 +1,7 @@
 #Personnage
 
 ## image
-![[Personnage.KawadaShigeko.png]]
+![[PERSONNAGE_KawadaShigeko.jpg]]
 
 ## Informations
 **Nom** : Shigeko

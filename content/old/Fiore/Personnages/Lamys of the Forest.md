@@ -1,6 +1,6 @@
 #Personnage 
 ## Image
-![[Personnage.LamysForest.png]]
+![[PERSONNAGE_LamysForest.jpg]]
 
 ## informations
 **Prénom **: Lamys

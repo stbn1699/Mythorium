@@ -1,7 +1,7 @@
 #Personnage 
 
 ## Image
-![[Personnage.MiaAguereille.png]]
+![[PERSONNAGE_MiaAguereille.jpg]]
 
 ## Informations
 **Nom**: Aguereille

@@ -1,5 +1,5 @@
 ## Image
-![[Personnage.LucyAstaria.png]]
+![[PERSONNAGE_LucyAstaria.jpg]]
 ## informations
 **Nom **: Astaria
 **Prénom **: Lucy
