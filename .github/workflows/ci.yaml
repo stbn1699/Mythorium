@@ -58,4 +58,4 @@ jobs:
           DISCORD_USERNAME: Wiki update notifier
         uses: Ilshidur/action-discord@master
         with:
-          args: '${{ steps.last_commit.outputs.message }}'
+          args: '@everyone nouvelle mise a jour :\n\n${{ steps.last_commit.outputs.message }}'
