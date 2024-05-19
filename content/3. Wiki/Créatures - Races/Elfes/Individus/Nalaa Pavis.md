@@ -7,6 +7,7 @@
 **Prénom** : Nalaa 
 
 **origine** : [[Sylvandis]]
+**Race** : [[Elfes]]
 
 **Intimité**: 
 | **Genre Biologique**: Femme

@@ -1,30 +1,31 @@
 ## Image
 
-![[PERSONNAGE_halamarSarphyra.jpg]]
+![[PERSONNAGE_neremynSarphyra.jpg]]
 
 ## Informations
 **Nom** : Sarphyra
-**Prénom** : Halamar
+**Prénom** : Neremyn
 
 **origine** : [[Sylvandis]]
+**Race** : [[Elfes]]
 
 **Intimité**: 
-| **Genre Biologique**: Homme
-| **Genre Moral**: Homme
+| **Genre Biologique**: Femme
+| **Genre Moral**: Femme
 | **Orientation Sexuelle**: Hétéro
-| **Situation**: En couple
+| **Situation**: En couple avec [[Halamar Sarphyra]]
 
 ## portrait
 
-Halamar est un homme en apparence austère, dont le visage impassible ne laisse filtrer aucune émotion. Son regard profond est souvent voilé d'un voile de mystère, révélant peu de choses sur les pensées qui se cachent derrière son regard scrutateur. Il préfère rester en retrait, observant silencieusement le monde qui l'entoure, plutôt que d'attirer l'attention sur lui-même.
+Neremyn est une jeune femme au tempérament unique, mêlant curiosité insatiable et douceur résolue. Sa soif de découverte est aussi vaste que l'océan, et elle ne se lasse jamais d'explorer de nouveaux horizons et d'en apprendre davantage sur le monde qui l'entoure. Son visage est souvent éclairé par une lueur d'excitation lorsque ses yeux pétillants se posent sur quelque chose de nouveau et d'inconnu.
 
-La seule exception à cette réserve apparente est sa relation avec sa sœur, Neremyn. En sa présence, le masque de froideur de Halamar s'effrite, laissant entrevoir un peu de chaleur et d'affection dans ses yeux autrement impénétrables. Il est prêt à tout pour elle, et son dévouement envers sa sœur est inébranlable.
+De nature timide, Neremyn préfère observer silencieusement son environnement avant de se lancer dans l'aventure. Cependant, une fois qu'elle se sent à l'aise, son énergie intérieure se dévoile, et elle devient une force de la nature, débordante de vivacité et de curiosité. Son esprit vif et alerte absorbe chaque détail avec une fascination émerveillée, cherchant à comprendre les mystères qui se cachent derrière chaque expérience.
 
-Bavard par nature, Halamar préfère laisser parler ses actions plutôt que ses mots. Son silence n'est pas le signe d'un manque d'intelligence, mais plutôt d'une réserve délibérée, une volonté de garder ses pensées et ses émotions soigneusement enfermées en lui-même. Il estime que les paroles sont souvent superflues et préfère agir de manière réfléchie et délibérée.
+Malgré sa vivacité d'esprit, Neremyn abhorre la violence sous toutes ses formes. Elle croit fermement en la puissance des mots pour résoudre les conflits et préfère toujours trouver un terrain d'entente plutôt que de recourir à la force. Cependant, elle n'hésitera pas à défendre ses proches si leur sécurité est menacée, déployant une détermination farouche pour les protéger des dangers qui les entourent.
 
-Protecteur envers ceux qu'il aime, Halamar veille toujours sur eux avec une vigilance sans faille. Il prend son rôle de protecteur très au sérieux et ne tolère aucune menace contre ceux qui lui sont chers. Son attitude méfiante envers les étrangers témoigne de son désir de protéger son cercle intime, et il reste sur ses gardes en présence de personnes qu'il ne connaît pas.
+Son amour pour son frère et pour ceux qu'elle considère comme sa famille est inébranlable, et elle est prête à tout pour les soutenir et les protéger. Son regard devient impitoyable lorsque quelqu'un ose s'en prendre à ceux qu'elle aime, et elle n'hésite pas à intervenir, faisant preuve d'une détermination farouche pour défendre ceux qui lui sont chers.
 
-En somme, Halamar est un homme réservé et silencieux, mais dont la loyauté envers sa sœur et ses proches est inébranlable. Sa froideur apparente dissimule en réalité une profonde affection pour ceux qui lui sont chers, et il est prêt à tout pour les protéger des dangers qui les entourent.
+En somme, Neremyn incarne la douceur et la détermination, la curiosité et la compassion. Son cœur est aussi vaste que son esprit, et elle est prête à parcourir n'importe quelle distance pour découvrir les merveilles du monde et protéger ceux qu'elle aime.
 
 ## Histoire
 

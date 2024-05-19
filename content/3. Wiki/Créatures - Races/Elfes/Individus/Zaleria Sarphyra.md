@@ -7,6 +7,7 @@
 **Prénom** : Zaleria
 
 **origine** : [[Sylvandis]]
+**Race** : [[Elfes]]
 
 **Intimité**: 
 | **Genre Biologique**: Femme

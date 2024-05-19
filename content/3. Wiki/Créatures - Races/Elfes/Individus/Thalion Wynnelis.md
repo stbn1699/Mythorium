@@ -7,6 +7,7 @@
 **Prénom** : Thalion
 
 **origine** : [[Sylvandis]]
+**Race** : [[Elfes]]
 
 **Intimité**: 
 | **Genre Biologique**: Homme

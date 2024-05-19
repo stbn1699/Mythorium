@@ -1,7 +1,7 @@
 #Personnage 
 
 ## Image
-![[Personnage.FreyaFiore.png]]
+![[PERSONNAGE_FreyaFiore.jpg]]
 
 ## Informations
 **Nom **: Fiore
