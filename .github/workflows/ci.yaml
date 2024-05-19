@@ -45,6 +45,7 @@ jobs:
         uses: actions/deploy-pages@v2
 
   discord:
+    needs: deploy
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
