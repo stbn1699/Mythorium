@@ -43,3 +43,19 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+
+  discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Get last commit message
+        id: last_commit
+        run: echo "::set-output name=message::$(git log -1 --pretty=format:%s)"
+      - name: Discord notification
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          DISCORD_USERNAME: Wiki update notifier
+        uses: Ilshidur/action-discord@master
+        with:
+          args: '${{ steps.last_commit.outputs.message }}'
