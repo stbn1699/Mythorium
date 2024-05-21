@@ -60,15 +60,19 @@
     <div class="event">
         <div class="event-content">
             <h2>jour 260, année 4280</h2>
-			<h3>Naissance de Halamar</h3>
-			<p class="content">La naissance de Halamar, le jour 260 de l'année 4280, fut un événement marquant pour toute la famille. Accueilli avec une joie immense par ses parents et par leur entourage, Halamar fit son entrée dans le monde avec une énergie vive et une curiosité déjà éveillée. Ses parents, émus par sa venue, savaient qu'ils devaient veiller sur ce petit être avec tout leur amour et leur attention. Ainsi, dès son premier souffle, Halamar était destiné à un avenir empreint de dévouement et de soutien familial.</p>
+			<h3>Naissance de [[Halamar Sarphyra]]</h3>
+			<p class="content">La naissance de Halamar, le jour 260 de l'année 4280, fut un événement marquant pour toute la famille. Accueilli avec une joie immense par ses parents et par leur entourage, Halamar fit son entrée dans le monde avec une énergie vive et une curiosité déjà éveillée. Ses parents, émus par sa venue, savaient qu'ils devaient veiller sur ce petit être avec tout leur amour et leur attention. Ainsi, dès son premier souffle, Halamar était destiné à un avenir empreint de dévouement et de soutien familial.
+			
+![[PERSONNAGE_halamarSarphyra.jpg]]</p>
         </div>
     </div>
     <div class="event">
         <div class="event-content">
             <h2>jour 8, année 4284</h2>
-			<h3>Naissance de Neremyn</h3>
-			<p>La naissance de Neremyn le 08 de 4284 fut un moment d'une grande joie pour toute la famille. Halamar, âgé de seulement 4 ans à l'époque, fut immédiatement captivé par sa petite sœur. Dès qu'il posa les yeux sur elle pour la première fois, il ressentit un lien profond et indéfectible se former entre eux. Neremyn, ce petit être rayonnant, rempli d'énergie et de bonne humeur, semblait illuminer la pièce de sa présence. Pour Halamar, elle devint instantanément sa raison de vivre, sa source de bonheur et sa plus grande motivation.</p>
+			<h3>Naissance de [[Neremyn Sarphyra]]</h3>
+			<p>La naissance de Neremyn le 08 de 4284 fut un moment d'une grande joie pour toute la famille. Halamar, âgé de seulement 4 ans à l'époque, fut immédiatement captivé par sa petite sœur. Dès qu'il posa les yeux sur elle pour la première fois, il ressentit un lien profond et indéfectible se former entre eux. Neremyn, ce petit être rayonnant, rempli d'énergie et de bonne humeur, semblait illuminer la pièce de sa présence. Pour Halamar, elle devint instantanément sa raison de vivre, sa source de bonheur et sa plus grande motivation.
+			
+![[PERSONNAGE_neremynSarphyra.jpg]]</p>
 			<p class="author">Yuka</p>
         </div>
     </div>
@@ -241,7 +245,7 @@ La surprise et la joie se mêlèrent à l'inquiétude. Sachant que le temps pres
     <div class="event">
         <div class="event-content">
             <h2>jour 231, année 4306 -> jour 35, année 4307</h2>
-			<h3>Recherche de remède</h3>
+			<h3>Continuation des travaux</h3>
 			<p>Alors que la grossesse de Neremyn avançait, Halamar et elle savaient qu'ils devaient accélérer les travaux pour terminer l'intérieur de leur maison avant l'arrivée de leur enfant, Zaleria. Les cinq mois suivants furent intenses, mais leur détermination à créer un foyer chaleureux et fonctionnel les poussa à achever chaque pièce avec soin.
 
 Le salon et la salle à manger furent les premiers à être finalisés. Situé à l'entrée de la maison, cet espace devint rapidement le cœur de leur foyer. Ils installèrent une grande table en bois massif, entourée de chaises confortables, idéale pour les repas et les discussions familiales. Un tapis coloré ajoutait une touche de chaleur à la pièce, tandis qu'un coin était aménagé en aire de jeu pour Zaleria, avec des coussins et des jouets en bois faits main.
@@ -262,6 +266,21 @@ Alors que Neremyn commençait à ressentir les premières contractions, leur mai
  
 ![[MAP_grandeEpoque_maisonSarphyra_exterieur.jpg]]
 ![[MAP_grandeEpoque_maisonSarphyra_interieur.jpg]]</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 36, année 4307</h2>
+			<h3>Naissance de [[Zaleria Sarphyra]]</h3>
+			<p>La naissance de Zaleria fut un événement intense et mémorable pour Halamar et Neremyn. Tout commença lorsque Neremyn perdit les eaux et réalisa qu'il était temps. En proie à l'adrénaline, Halamar se précipita pour préparer les chevaux et rassembler leurs affaires. Malgré la douleur des contractions de Neremyn, ils parvinrent à monter dans le carrosse et partirent en direction de la grotte.
+
+Le trajet fut éprouvant, ponctué par les cris de Neremyn lors des contractions, mais Halamar resta à ses côtés, tenant fermement sa main et les guidant avec détermination. Après plusieurs heures, ils atteignirent enfin la grotte. Halamar aida Neremyn à marcher jusqu'à l'entrée, la portant lorsqu'elle n'avait plus de forces.
+
+Neremyn entra dans la grotte, laissant Halamar attendre anxieusement à l'extérieur. Après de longues heures de silence, Neremyn réapparut, épuisée mais portant leur nouveau-né enveloppé dans une couverture. Halamar, submergé par l'émotion, se précipita pour les rejoindre, pleurant de joie en voyant leur fille, Zaleria, pour la première fois. 
+
+Neremyn, épuisée, monta dans le carrosse et s'endormit presque instantanément, tandis que Halamar contemplait leur enfant avec amour, la saluant avec tendresse : "Bienvenue dans le monde des vivants, Zaleria."
+
+![[PERSONNAGE_zaleriaSarphyra.jpg]]</p>
         </div>
     </div>
 </div>
