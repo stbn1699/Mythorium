@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ef7b970ed760fdbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Wiki/Créatures/Mélorunes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 460.5
   },
   "right": {
     "id": "33182819bea96af5",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Créatures/Mélorunes.md",
+                "file": "3. Wiki/Histoires/les adelphes Sarphyra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Créatures/Mélorunes.md",
+                "file": "3. Wiki/Histoires/les adelphes Sarphyra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Créatures/Mélorunes.md"
+                "file": "3. Wiki/Histoires/les adelphes Sarphyra.md"
               }
             }
           }
@@ -159,53 +146,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef7b970ed760fdbd",
+  "active": "a41f2c957b827001",
   "lastOpenFiles": [
-    "1. Others/1.1 Images/CREATURE_mélorune.jpg",
-    "1. Others/1.1 Images/CREATURE_mélorune.jpg.crdownload",
-    "3. Wiki/Créatures/Lunarètes.md",
-    "3. Wiki/Créatures/Mélorunes.md",
-    "3. Wiki/Histoires/les adelphes Sarphyra.md",
-    "3. Wiki/Créatures/Terragriffes.md",
-    "1. Others/1.1 Images/CREATURE_terragriffe.jpg",
-    "1. Others/1.1 Images/CREATURE_terragriffe.jpg.crdownload",
-    "3. Wiki/Régions/Insulae Aeternae.md",
+    "1. Others/1.1 Images/MAP_grandeEpoque_maisonSarphyra_interieur.jpg.crdownload",
+    "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur_V2.jpg",
+    "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur_V2.jpg.crdownload",
+    "1. Others/1.1 Images/MAP_grandeEpoque_maisonSarphyra_exterieur.jpg",
+    "1. Others/1.1 Images/MAP_grandeEpoque_maisonSarphyra_exterieur.jpg.crdownload",
+    "1. Others/1.1 Images/MAP_grandeEpoque_maisonSarphyra_interieur.jpg",
+    "2. époques/2.4 ère actuelle.md",
+    "2. époques/2.3 Grande époque.md",
+    "2. époques/2.3 Dieux primordiaux.md",
+    "2. époques/2.1 Terres Sauvages.md",
+    "2. époques",
+    "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
+    "3. Wiki/Races/Elfes/Individus/Thalion Wynnelis.md",
+    "3. Wiki/Races/Elfes/Individus/Neremyn Sarphyra.md",
     "3. Wiki/Races/Elfes/Individus/Halamar Sarphyra.md",
-    "3. Wiki/Créatures",
-    "3. Wiki/Créatures/Lunarètes",
-    "1. Others/1.1 Images/CREATURE_lunarète.jpg",
-    "1. Others/1.1 Images/CREATURE_lunarète.jpg.crdownload",
+    "3. Wiki/Races/Elfes/Individus/Nalaa Pavis.md",
+    "3. Wiki/Communautées/Royaumes/Sylvandis/Sylvandis.md",
+    "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
+    "3. Wiki/Communautées/Sectes/Secte Obscura.md",
+    "3. Wiki/Races/Elfes/Individus",
+    "3. Wiki/Races/Elfes/Elfes.md",
+    "3. Wiki/Communautées/Royaumes/Sylvandis",
+    "3. Wiki/Communautées/Sectes",
     "3. Wiki/Régions/Cordillera Luminis.md",
-    "old/Royaumes/Nakasane.md",
-    "old/Fiore/Personnages/Wymon III.md",
-    "old/Fiore/Personnages/Tonya Forbes.md",
-    "old/Fiore/Personnages/Shiao Yue.md",
-    "old/Fiore/Personnages/Seshai Yue.md",
-    "old/Fiore/Personnages/Sélène Aragorn.md",
-    "old/Fiore/Personnages/Mia Aguereille.md",
-    "old/Fiore/Personnages/Lucy Astaria.md",
-    "old/Fiore/Personnages/Marwa Fiore.md",
-    "old/Fiore/Personnages/Lamys of the Forest.md",
-    "old/Fiore/Personnages/Lagertha Osmond.md",
-    "old/Fiore/Personnages/Kawada Shigeko.md",
-    "old/Fiore/Personnages/Kamoto Shigeko.md",
-    "old/Fiore/Personnages/Jarvin Wells.md",
-    "old/Fiore/Personnages/Gim Mov.md",
-    "old/Fiore/Personnages/Freya IV.md",
-    "old/Fiore/Personnages/Edgar schreave.md",
-    "old/Fiore/Personnages/Avalone Wintchester.md",
-    "1. Others/1.1 Images/PERSONNAGE_thalionWynnelis.jpg",
-    "1. Others/1.1 Images/PERSONNAGE_thalionWynnelis.jpg.crdownload",
-    "1. Others/1.1 Images/PERSONNAGE_nalaaPavis.jpg",
-    "1. Others/1.1 Images/PERSONNAGE_zaleriaSarphyra.jpg",
-    "1. Others/1.1 Images/PERSONNAGE_zaleriaSarphyra.jpg.crdownload",
-    "New/1. Others/1.1 Images/PERSONNAGE_thalionWynnelis.jpg",
-    "New/1. Others/1.1 Images/PERSONNAGE_thalionWynnelis.jpg.crdownload",
-    "New/1. Others/1.1 Images/PERSONNAGE_zaleriaSarphyra.jpg",
-    "New/1. Others/1.1 Images/PERSONNAGE_zaleriaSarphyra.jpg.crdownload",
-    "New/1. Others/1.1 Images/Personnage.WymonFiore.png",
-    "1. Others/1.1 Images/PERSONNAGE_WymonFiore.jpg",
-    "1. Others/1.1 Images/PERSONNAGE_TonyaForbes.jpg",
-    "New/1. Others/1.1 Images/PERSONNAGE_halamarSarphyra.jpg.0.pdnSave"
+    "3. Wiki/Régions/Insulae Aeternae.md",
+    "3. Wiki/Histoires/les adelphes Sarphyra.md",
+    "3. Wiki/Histoires/Sélène et Lamys.md",
+    "3. Wiki/Races/Elfes",
+    "3. Wiki/Créatures/Terragriffes.md",
+    "3. Wiki/Créatures/Mélorunes.md",
+    "3. Wiki/Créatures/Lunarètes.md",
+    "3. Wiki/Communautées/Royaumes",
+    "3. Wiki/Régions",
+    "1. Others/1.1 Images/PERSONNAGE_SélèneAragorn.jpg",
+    "1. Others/1.1 Images/PERSONNAGE_ShiaoYue.jpg",
+    "1. Others/1.1 Images/PERSONNAGE_SeshaiYue.jpg",
+    "1. Others/1.1 Images/PERSONNAGE_NoName.jpg",
+    "1. Others/1.1 Images/PERSONNAGE_MiaAguereille.jpg",
+    "1. Others/1.1 Images/PERSONNAGE_LucyAstaria.jpg",
+    "1. Others/1.1 Images/PERSONNAGE_LamysForest.jpg",
+    "New/3. Wiki/Créatures - Races/Elfes/Elfes.md",
+    "New/3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
+    "New/2. époques/2.3 Grande époque.md",
+    "New/2. époques/2.1 Terres Sauvages.md",
+    "New/2. époques/2.3 Dieux primordiaux.md"
   ]
 }
