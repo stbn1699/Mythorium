@@ -199,6 +199,25 @@ La décision fut prise ce soir-là, au coin du feu. Ils savaient que ce lieu, av
     </div>
     <div class="event">
         <div class="event-content">
+            <h2>jour 131, année 4306 -> jour 223, année 4306</h2>
+			<h3>Recherche de remède</h3>
+			<p>Halamar et Neremyn décidèrent de construire leur nouvelle maison presque à l'emplacement exact de leur tente, estimant que cet endroit offrait une protection naturelle contre les éléments et une proximité avec la rivière. Le premier matin des travaux, ils se levèrent à l'aube, animés par l'enthousiasme de ce nouveau projet.
+
+Avant de commencer la construction de leur maison, ils entreprirent de bâtir un petit abri temporaire. Cet abri servirait à entreposer le contenu de leur tente ainsi que leur lit, leur permettant de continuer à vivre confortablement pendant les travaux. Ils choisirent un coin légèrement ombragé à proximité immédiate et commencèrent à assembler une structure simple mais solide, utilisant des branches épaisses et des morceaux de toile pour créer un toit étanche. Une fois cette tâche accomplie, ils transférèrent soigneusement leurs affaires, veillant à protéger leurs possessions des intempéries.
+
+Avec l'abri en place, Halamar traça les contours de leur future maison sur le sol, délimitant les différentes pièces avec des piquets et de la ficelle. Ils commencèrent ensuite à creuser les fondations, un travail ardu mais essentiel pour la stabilité de leur future demeure. Ensemble, ils creusèrent des tranchées et posèrent les premières pierres, alignant soigneusement chaque élément pour former une base solide.
+
+Les premières semaines furent consacrées à la construction des fondations et à l'élévation des murs en pierre. Halamar, fort de son expérience en construction, guidait Neremyn, et leur travail avançait à un bon rythme. Chaque jour apportait son lot de défis, mais leur détermination restait intacte. Leurs discussions étaient ponctuées de rires et d'encouragements, chacun apportant son énergie et son enthousiasme à l'ouvrage.
+
+Au cours des deux mois suivants, la structure de la maison prit forme. Ils érigèrent les murs en bois et en pierre, installèrent les poutres maîtresses pour soutenir le toit et commencèrent à travailler sur les ouvertures pour les fenêtres et la porte. Neremyn montrait une grande habileté dans les travaux de menuiserie, sculptant des détails délicats dans les cadres des fenêtres et des portes.
+
+Le quatrième mois, ils se concentrèrent principalement sur l'extérieur de la maison, finissant la toiture pour assurer une protection contre les intempéries. Ils installèrent les fenêtres et la porte principale, rendant la maison sécurisée. Cependant, l'intérieur restait encore en chantier. Les planchers n'étaient pas entièrement posés, et les murs intérieurs attendaient encore leur finition.
+
+Malgré quelques imprévus et les fatigues accumulées, leur progrès était notable. Halamar et Neremyn se sentaient de plus en plus proches de leur objectif, anticipant le moment où ils pourraient enfin emménager dans leur nouveau foyer. Alors que le cinquième mois approchait, l'excitation de terminer les derniers détails était palpable, même si des signes de fatigue commençaient à se manifester chez Neremyn.</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
             <h2>jour 224, année 4306</h2>
 			<h3>Neremyn tombe malade</h3>
 			<p>Le chant des marteaux et des scies résonnait à travers la clairière depuis des mois maintenant. Halamar et Neremyn travaillaient sans relâche pour transformer leur tente de fortune en une véritable maison. Chaque journée apportait son lot de progrès : les fondations solides s’élevaient, les murs en bois prenaient forme, et le toit commençait à couvrir leur futur foyer. Leurs efforts infatigables étaient alimentés par leur vision commune d’un lieu de vie confortable et chaleureux.
@@ -217,6 +236,32 @@ Malgré sa volonté, sa condition ne s’améliorait pas. Ses forces semblaient 
 Le voyage de retour à Sylvandis fut empreint d'espoir et d'appréhension. Arrivés au cœur de leur forêt natale, ils se dirigèrent vers le guérisseur le plus proche, un vieil elfe nommé [[Thalion Wynnelis]], réputé pour sa sagesse et ses compétences exceptionnelles. Après une série d'examens et de questions, Thalion leur fit part de la nouvelle qui changerait leur vie : Neremyn était enceinte.
 
 La surprise et la joie se mêlèrent à l'inquiétude. Sachant que le temps pressait, ils réalisèrent qu'ils devaient vite terminer les travaux de leur maison avant que l'enfant ne vienne au monde. Halamar et Neremyn retournèrent à leur campement avec un nouveau but : créer un foyer non seulement pour eux, mais aussi pour leur futur enfant. Chaque coup de marteau et chaque planche de bois posée devenaient alors une pierre angulaire de leur avenir familial.</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 231, année 4306 -> jour 35, année 4307</h2>
+			<h3>Recherche de remède</h3>
+			<p>Alors que la grossesse de Neremyn avançait, Halamar et elle savaient qu'ils devaient accélérer les travaux pour terminer l'intérieur de leur maison avant l'arrivée de leur enfant, Zaleria. Les cinq mois suivants furent intenses, mais leur détermination à créer un foyer chaleureux et fonctionnel les poussa à achever chaque pièce avec soin.
+
+Le salon et la salle à manger furent les premiers à être finalisés. Situé à l'entrée de la maison, cet espace devint rapidement le cœur de leur foyer. Ils installèrent une grande table en bois massif, entourée de chaises confortables, idéale pour les repas et les discussions familiales. Un tapis coloré ajoutait une touche de chaleur à la pièce, tandis qu'un coin était aménagé en aire de jeu pour Zaleria, avec des coussins et des jouets en bois faits main.
+
+La cuisine, pièce essentielle pour leur quotidien, fut équipée avec une grande attention aux détails. Halamar construisit des étagères robustes pour ranger les provisions, et une table de travail où ils pourraient préparer leurs repas. Une cheminée en pierre fut installée pour cuisiner et chauffer la pièce, créant une atmosphère accueillante.
+
+Le couloir central menait aux autres pièces de la maison, chacune étant aménagée avec soin. La chambre des adelphes, où Halamar et Neremyn dormiraient, était équipée d'un grand lit douillet et d'un bureau/dressing adjacent, parfait pour ranger leurs vêtements et travailler sur leurs projets.
+
+En face, la chambre de Zaleria fut préparée avec amour. Ils y placèrent un lit d'enfant, des étagères remplies de livres et de jouets, et un tapis moelleux pour créer un espace de jeu sûr et confortable. La pièce était décorée de couleurs apaisantes, créant un environnement serein pour le nouveau-né.
+
+Le bureau de Zaleria, situé près de sa chambre, était un espace de travail bien organisé avec un grand bureau en bois, des étagères pour ses livres et ses outils, et une lumière naturelle abondante grâce à une fenêtre bien placée.
+
+À l'extrémité du couloir, ils aménagèrent le garde-manger, une pièce essentielle pour stocker leurs provisions à l'abri de l'humidité et des nuisibles. Cette pièce était équipée d'étagères solides et bien ventilées, permettant de conserver leurs aliments de manière optimale.
+
+Les derniers jours avant l'accouchement de Neremyn furent consacrés aux finitions. Ils posèrent les derniers planchers, installèrent les portes et les fenêtres, et ajoutèrent des touches décoratives pour rendre chaque pièce unique. Les murs furent ornés de tapisseries et de tableaux, ajoutant une touche d'élégance à leur intérieur.
+
+Alors que Neremyn commençait à ressentir les premières contractions, leur maison était presque terminée. Les pièces étaient fonctionnelles et accueillantes, prêtes à accueillir leur nouvelle vie de famille. Halamar et Neremyn, malgré la fatigue, se réjouissaient de voir leur rêve se concrétiser. Leur maison, construite avec amour et dévouement, serait un havre de paix pour leur famille grandissante.
+
+![[MAP_grandeEpoque_maisonSarphyra_exterieur.jpg]]
+![[MAP_grandeEpoque_maisonSarphyra_interieur.jpg]]</p>
         </div>
     </div>
 </div>
