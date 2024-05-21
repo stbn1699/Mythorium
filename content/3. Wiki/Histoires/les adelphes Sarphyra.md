@@ -259,7 +259,7 @@ Le bureau de Zaleria, situé près de sa chambre, était un espace de travail bi
 Les derniers jours avant l'accouchement de Neremyn furent consacrés aux finitions. Ils posèrent les derniers planchers, installèrent les portes et les fenêtres, et ajoutèrent des touches décoratives pour rendre chaque pièce unique. Les murs furent ornés de tapisseries et de tableaux, ajoutant une touche d'élégance à leur intérieur.
 
 Alors que Neremyn commençait à ressentir les premières contractions, leur maison était presque terminée. Les pièces étaient fonctionnelles et accueillantes, prêtes à accueillir leur nouvelle vie de famille. Halamar et Neremyn, malgré la fatigue, se réjouissaient de voir leur rêve se concrétiser. Leur maison, construite avec amour et dévouement, serait un havre de paix pour leur famille grandissante.
-
+ 
 ![[MAP_grandeEpoque_maisonSarphyra_exterieur.jpg]]
 ![[MAP_grandeEpoque_maisonSarphyra_interieur.jpg]]</p>
         </div>
