@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Races/Thelvorns/Individus.md",
-                "mode": "preview",
+                "file": "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Races/Thelvorns/Individus.md",
+                "file": "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Races/Thelvorns/Individus.md",
+                "file": "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Races/Thelvorns/Individus.md"
+                "file": "3. Wiki/Races/Thelvorns (maudits)/Individus.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a41f2c957b827001",
+  "active": "8ad01ad1474fc3a6",
   "lastOpenFiles": [
+    "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_sylana.jpg",
+    "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_thuriel.jpg",
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_thalion.jpg",
-    "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_sylana.jpg",
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_nymeria.jpg",
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_lyriel.jpg",
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_liora.jpg",
@@ -158,7 +159,6 @@
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_felarion.jpg",
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_eldara.jpg",
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_elara.jpg",
-    "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_dorian.jpg",
     "1. Others/1.1 Images/PERSONNAGE_thelvonCursed_lyriel.jpg.crdownload",
     "1. Others/1.1 Images/PERSONNAGE_thelvonCursed_dorian.jpg.crdownload",
     "1. Others/1.1 Images/PERSONNAGE_thelvonCursed_nymeria.jpg.crdownload",
@@ -169,8 +169,7 @@
     "1. Others/1.1 Images/PERSONNAGE_thelvonCursed_sylana.jpg.crdownload",
     "1. Others/1.1 Images/PERSONNAGE_thelvonCursed_galad",
     "1. Others/1.1 Images/Non confirmé 525472.crdownload",
-    "3. Wiki/Races/Thelvorns/Thelvorns (maudits).md",
-    "3. Wiki/Races/Thelvorns/Individus.md",
+    "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
     "3. Wiki/Races/Thelvorns/Thelvorns.md",
     "New/3. Wiki/Créatures - Races/Elfes/Elfes.md",
     "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
