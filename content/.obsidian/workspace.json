@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Races/Thelvorns/Thelvorns.md",
+                "file": "3. Wiki/Races/Thelvorns/Thelvorns (maudits).md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 460.5
   },
   "right": {
     "id": "33182819bea96af5",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Races/Thelvorns/Thelvorns.md",
+                "file": "3. Wiki/Races/Thelvorns/Thelvorns (maudits).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Races/Thelvorns/Thelvorns.md",
+                "file": "3. Wiki/Races/Thelvorns/Thelvorns (maudits).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Races/Thelvorns/Thelvorns.md"
+                "file": "3. Wiki/Races/Thelvorns/Thelvorns (maudits).md"
               }
             }
           }
@@ -148,51 +148,51 @@
   },
   "active": "a41f2c957b827001",
   "lastOpenFiles": [
-    "New/3. Wiki/Créatures - Races/Elfes/Elfes.md",
-    "3. Wiki/Races/Thelvorns/Thelvorns.md",
-    "3. Wiki/Races/Thelvorns/Individus",
-    "3. Wiki/Races/Thelvorns",
-    "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
-    "3. Wiki/Races/Elfes/Individus/Thalion Wynnelis.md",
-    "3. Wiki/Races/Elfes/Individus/Neremyn Sarphyra.md",
-    "3. Wiki/Races/Elfes/Individus/Nalaa Pavis.md",
-    "3. Wiki/Races/Elfes/Individus/Halamar Sarphyra.md",
-    "3. Wiki/Communautées/Royaumes/Sylvandis/Sylvandis.md",
-    "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
-    "3. Wiki/Races/Elfes/Individus",
     "3. Wiki/Races/Elfes/Elfes.md",
-    "3. Wiki/Communautées/Sectes/Secte Obscura.md",
-    "3. Wiki/Communautées/Royaumes/Sylvandis",
-    "3. Wiki/Régions/Insulae Aeternae.md",
-    "3. Wiki/Régions/Cordillera Luminis.md",
+    "3. Wiki/Races/Thelvorns/Thelvorns (maudits).md",
     "3. Wiki/Histoires/les adelphes Sarphyra.md",
-    "3. Wiki/Histoires/Sélène et Lamys.md",
-    "3. Wiki/Races/Elfes",
-    "3. Wiki/Créatures/Terragriffes.md",
-    "3. Wiki/Créatures/Mélorunes.md",
-    "3. Wiki/Créatures/Lunarètes.md",
-    "3. Wiki/Communautées/Sectes",
-    "3. Wiki/Communautées/Royaumes",
-    "3. Wiki/Régions",
-    "3. Wiki/Histoires",
-    "3. Wiki/Races",
-    "2. époques/2.4 ère actuelle.md",
-    "2. époques/2.3 Grande époque.md",
-    "2. époques/2.3 Dieux primordiaux.md",
-    "2. époques/2.1 Terres Sauvages.md",
+    "3. Wiki/Races/Thelvorns",
+    "1. Others/1.1 Images/MAP_grandeEpoque.jpg.crdownload",
+    "1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis.jpg.crdownload",
+    "1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae.jpg.crdownload",
+    "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_interieur.jpg.crdownload",
+    "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur.jpg.crdownload",
     "1. Others/1.1 Images/cfg.png",
     "1. Others/1.1 Images/PERSONNAGE_zaleriaSarphyra.jpg",
     "1. Others/1.1 Images/PERSONNAGE_thalionWynnelis.jpg",
     "1. Others/1.1 Images/PERSONNAGE_neremynSarphyra.jpg",
     "1. Others/1.1 Images/PERSONNAGE_nalaaPavis.jpg",
-    "1. Others/1.1 Images/PERSONNAGE_FreyaFiore.jpg",
-    "1. Others/1.1 Images/PERSONNAGE_EmmaWood.jpg",
-    "1. Others/1.1 Images/PERSONNAGE_EdgarSchreave.jpg",
-    "1. Others/1.1 Images/PERSONNAGE_AvaloneWintchester.jpg",
-    "1. Others/1.1 Images/PERSONNAGE_AlanBlueQuiver.jpg",
-    "New/3. Wiki/Créatures - Races/Thelvorns/Thelvorns.md",
-    "New/3. Wiki/Histoires/les adelphes Sarphyra.md",
-    "New/3. Wiki/Créatures - Races/Elfes/Individus/Zaleria Sarphyra.md",
-    "New/3. Wiki/Créatures - Races/Elfes/Individus/Halamar Sarphyra.md"
+    "1. Others/1.1 Images/PERSONNAGE_halamarSarphyra.jpg",
+    "1. Others/1.1 Images/PERSONNAGE_WymonFiore.jpg",
+    "1. Others/1.1 Images/PERSONNAGE_TonyaForbes.jpg",
+    "1. Others/1.1 Images/MAP_grandeEpoque_maisonSarphyra_interieur.jpg.crdownload",
+    "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur_V2.jpg",
+    "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur_V2.jpg.crdownload",
+    "1. Others/1.1 Images/MAP_grandeEpoque_maisonSarphyra_exterieur.jpg",
+    "1. Others/1.1 Images/MAP_grandeEpoque_maisonSarphyra_exterieur.jpg.crdownload",
+    "2. époques/2.4 ère actuelle.md",
+    "2. époques/2.3 Grande époque.md",
+    "2. époques/2.3 Dieux primordiaux.md",
+    "2. époques/2.1 Terres Sauvages.md",
+    "2. époques",
+    "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
+    "3. Wiki/Races/Elfes/Individus/Thalion Wynnelis.md",
+    "3. Wiki/Races/Elfes/Individus/Neremyn Sarphyra.md",
+    "3. Wiki/Races/Elfes/Individus/Halamar Sarphyra.md",
+    "3. Wiki/Races/Elfes/Individus/Nalaa Pavis.md",
+    "3. Wiki/Communautées/Royaumes/Sylvandis/Sylvandis.md",
+    "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
+    "3. Wiki/Communautées/Sectes/Secte Obscura.md",
+    "3. Wiki/Régions/Cordillera Luminis.md",
+    "3. Wiki/Régions/Insulae Aeternae.md",
+    "3. Wiki/Histoires/Sélène et Lamys.md",
+    "3. Wiki/Créatures/Terragriffes.md",
+    "3. Wiki/Créatures/Mélorunes.md",
+    "3. Wiki/Créatures/Lunarètes.md",
+    "New/3. Wiki/Créatures - Races/Elfes/Elfes.md",
+    "New/3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
+    "New/2. époques/2.3 Grande époque.md",
+    "New/2. époques/2.1 Terres Sauvages.md",
+    "New/2. époques/2.3 Dieux primordiaux.md"
   ]
 }
