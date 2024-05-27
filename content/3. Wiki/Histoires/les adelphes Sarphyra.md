@@ -292,6 +292,7 @@ Neremyn, épuisée, monta dans le carrosse et s'endormit presque instantanément
 			<p>Tandis que Zaleria découvrait le monde extérieur pour la première fois, à peine quelques heures après sa naissance, une petite créature dont elle ne connaissait rien s'avança vers elle, effrayée. Zaleria, également très effrayée devant cette toute nouvelle créature, n’avait aucune idée que cette créature allait très rapidement devenir sa meilleure amie. Son père, Halamar, lui annonça alors que cette créature s'appelait Lunarète. Une créature inoffensive et très fidèle qui avait visiblement choisi Zaleria comme compagnon à vie.
 
 Les premiers instants furent marqués par une curiosité réciproque et une timidité palpable. Lunarète, avec ses grands yeux pétillants et son pelage doux, s’approcha doucement, comme pour rassurer Zaleria. Peu à peu, la peur initiale fit place à une fascination mutuelle. Zaleria tendit sa petite main, et Lunarète s’avança encore un peu, posant délicatement sa tête contre celle de Zaleria. Ce fut le début d'une amitié indéfectible, une connexion profonde qui les unirait pour toujours. Halamar, observant la scène avec tendresse, sut à cet instant que sa fille ne serait jamais seule et que cette amitié serait une source de joie et de réconfort tout au long de leur vie.</p>
+			<p class="author">Yuka</p>
         </div>
     </div>
 </div>
