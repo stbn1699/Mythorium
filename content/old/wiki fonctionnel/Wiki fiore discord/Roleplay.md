@@ -1,5 +1,3 @@
-#Wiki
-
 # règles de role play
 
 Premièrement, il faut éviter au maximum les fautes d'orthographe, bien se relire avant d'envoyer le message et ne surtout pas répondre à la va-vite entre deux vidéos TikTok.

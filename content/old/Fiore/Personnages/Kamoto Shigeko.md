@@ -1,5 +1,3 @@
-#Personnage 
-
 ## image
 ![[PERSONNAGE_KamotoShigeko.jpg]]
 

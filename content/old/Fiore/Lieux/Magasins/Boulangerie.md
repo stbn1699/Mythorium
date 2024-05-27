@@ -1,4 +1,3 @@
-#LieuInterieur
 ## Image
 ![[Lieu.Boulangerie.png]]
 

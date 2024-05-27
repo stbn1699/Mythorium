@@ -1,5 +1,3 @@
-#Personnage 
-
 ## Image
 ![[PERSONNAGE_FreyaFiore.jpg]]
 

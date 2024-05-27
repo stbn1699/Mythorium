@@ -1,5 +1,3 @@
-#Personnage
-
 ## image
 ![[PERSONNAGE_KawadaShigeko.jpg]]
 

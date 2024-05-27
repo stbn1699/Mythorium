@@ -1,5 +1,3 @@
-#Royaume
-
 ## Informations Générales
 **Nom du Royaume**: Fiore
 **Gouvernement**: Monarchie constitutionnelle 

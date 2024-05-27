@@ -1,4 +1,3 @@
-#Personnage 
 ## Image
 ![[PERSONNAGE_EdgarSchreave.jpg]]
 

@@ -1,5 +1,3 @@
-#LieuExterieur 
-
 ## Image
 ![[Lieu.Foret.png]]
 

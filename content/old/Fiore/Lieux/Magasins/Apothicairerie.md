@@ -1,4 +1,3 @@
-#LieuInterieur
 ## Image
 ![[Lieu.Apothicairerie.png]]
 

@@ -1,3 +1,5 @@
+#Creature
+
 ## Image
 
 ![[CREATURE_terragriffe.jpg]]

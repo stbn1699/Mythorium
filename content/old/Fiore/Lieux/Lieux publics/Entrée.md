@@ -1,5 +1,3 @@
-#LieuExterieur 
-
 ## Image
 ![[Lieu.entrée.png]]
 

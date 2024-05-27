@@ -1,4 +1,3 @@
-#LieuExterieur
 ## Image
 ![[Lieu.Jardin2.png]]
 

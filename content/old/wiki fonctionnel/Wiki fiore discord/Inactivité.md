@@ -1,4 +1,3 @@
-#Wiki
 Dans cette page, vous trouverez les règles concernant l'inactivité. Ces règles ont pour objectif de maintenir une participation active sur le serveur tout en offrant une flexibilité aux membres qui peuvent avoir des périodes d'indisponibilité. La communication proactive est encouragée pour assurer une expérience RP agréable pour tous les membres.
 
 #### **1. Réponse dans la Semaine :**
