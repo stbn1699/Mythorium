@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Races/Humains/Humains.md",
+                "file": "3. Wiki/Races/Demi-Elfes/Demi-Elfes.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Races/Humains/Humains.md",
+                "file": "3. Wiki/Races/Demi-Elfes/Demi-Elfes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Races/Humains/Humains.md",
+                "file": "3. Wiki/Races/Demi-Elfes/Demi-Elfes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Races/Humains/Humains.md"
+                "file": "3. Wiki/Races/Demi-Elfes/Demi-Elfes.md"
               }
             }
           }
@@ -147,14 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ad01ad1474fc3a6",
+  "active": "a41f2c957b827001",
   "lastOpenFiles": [
-    "3. Wiki/Races/Humains/Individus",
-    "3. Wiki/Races/Elfes/Elfes.md",
-    "3. Wiki/Races/Humains/Humains.md",
-    "3. Wiki/Histoires/Sélène et Lamys.md",
-    "3. Wiki/Races/Humains",
     "3. Wiki/Histoires/les adelphes Sarphyra.md",
+    "3. Wiki/Races/Humains/Humains.md",
+    "3. Wiki/Races/Demi-Elfes/Demi-Elfes.md",
+    "3. Wiki/Histoires/Sélène et Lamys.md",
+    "3. Wiki/Races/Elfes/Elfes.md",
+    "3. Wiki/Races/Demi-Elfes",
+    "3. Wiki/Races/Humains/Individus",
+    "3. Wiki/Races/Humains",
     "index.md",
     "old/wiki fonctionnel/Wiki fiore discord/welcome.md",
     "old/wiki fonctionnel/Wiki fiore discord/Roleplay.md",
@@ -192,8 +194,6 @@
     "1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis.jpg.crdownload",
     "1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae.jpg.crdownload",
     "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_interieur.jpg.crdownload",
-    "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur.jpg.crdownload",
-    "1. Others/1.1 Images/MAP_grandeEpoque_maisonSarphyra_interieur.jpg.crdownload",
-    "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur_V2.jpg.crdownload"
+    "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur.jpg.crdownload"
   ]
 }

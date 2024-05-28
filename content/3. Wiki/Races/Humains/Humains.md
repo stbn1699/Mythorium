@@ -103,7 +103,7 @@ Les humains se distinguent par une grande diversité d'apparences. Leur taille v
         <div class="event-content">
             <h2>60+ ans</h2>
             <h3>Sagesse</h3>
-            <p class="content">Les humains âgés sont respectés pour leur expérience et leur sagesse. Souvent, ils assument des rôles de conseillers ou de leaders spirituels, transmettant leurs connaissances aux générations plus jeunes./p>
+            <p class="content">Les humains âgés sont respectés pour leur expérience et leur sagesse. Souvent, ils assument des rôles de conseillers ou de leaders spirituels, transmettant leurs connaissances aux générations plus jeunes.</p>
         </div>
     </div>
 </div>
