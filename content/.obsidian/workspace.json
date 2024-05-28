@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
+                "file": "3. Wiki/Races/Humains/Humains.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
+                "file": "3. Wiki/Races/Humains/Humains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
+                "file": "3. Wiki/Races/Humains/Humains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Histoires/Sélène et Lamys.md"
+                "file": "3. Wiki/Races/Humains/Humains.md"
               }
             }
           }
@@ -147,10 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a41f2c957b827001",
+  "active": "8ad01ad1474fc3a6",
   "lastOpenFiles": [
-    "3. Wiki/Histoires/les adelphes Sarphyra.md",
+    "3. Wiki/Races/Humains/Individus",
+    "3. Wiki/Races/Elfes/Elfes.md",
+    "3. Wiki/Races/Humains/Humains.md",
     "3. Wiki/Histoires/Sélène et Lamys.md",
+    "3. Wiki/Races/Humains",
+    "3. Wiki/Histoires/les adelphes Sarphyra.md",
     "index.md",
     "old/wiki fonctionnel/Wiki fiore discord/welcome.md",
     "old/wiki fonctionnel/Wiki fiore discord/Roleplay.md",
@@ -172,9 +176,6 @@
     "old/Fiore/Personnages/Kamoto Shigeko.md",
     "old/Fiore/Personnages/Jarvin Wells.md",
     "old/Fiore/Personnages/Gim Mov.md",
-    "old/Fiore/Personnages/Freya IV.md",
-    "old/Fiore/Personnages/Edgar schreave.md",
-    "old/Fiore/Personnages/Avalone Wintchester.md",
     "3. Wiki/Races/Thelvorns (maudits)",
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_thuriel.jpg",
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_thalion.jpg",
@@ -193,7 +194,6 @@
     "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_interieur.jpg.crdownload",
     "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur.jpg.crdownload",
     "1. Others/1.1 Images/MAP_grandeEpoque_maisonSarphyra_interieur.jpg.crdownload",
-    "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur_V2.jpg.crdownload",
-    "1. Others/1.1 Images/MAP_grandeEpoque_maisonSarphyra_exterieur.jpg.crdownload"
+    "1. Others/1.1 Images/MAP_grandeEpoque_tenteSarphyra_exterieur_V2.jpg.crdownload"
   ]
 }
