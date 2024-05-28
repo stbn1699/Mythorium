@@ -4,6 +4,9 @@ tags:
 - Histoire
 ---
 
+## intro
+cette histoire raconte la relation entre [[Neremyn Sarphyra]] et [[Halamar Sarphyra]], de leur fille [[Zaleria Sarphyra]] ainsi que de leur deux animaux appartenant tout les deux a leur fille : 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

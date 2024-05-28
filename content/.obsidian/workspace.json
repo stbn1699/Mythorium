@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 317.5
   },
   "right": {
     "id": "33182819bea96af5",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "3. Wiki/Histoires/Sélène et Lamys.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +149,9 @@
   },
   "active": "a41f2c957b827001",
   "lastOpenFiles": [
+    "3. Wiki/Histoires/les adelphes Sarphyra.md",
+    "3. Wiki/Histoires/Sélène et Lamys.md",
+    "index.md",
     "old/wiki fonctionnel/Wiki fiore discord/welcome.md",
     "old/wiki fonctionnel/Wiki fiore discord/Roleplay.md",
     "old/wiki fonctionnel/Wiki fiore discord/Règlement.md",
@@ -171,9 +175,6 @@
     "old/Fiore/Personnages/Freya IV.md",
     "old/Fiore/Personnages/Edgar schreave.md",
     "old/Fiore/Personnages/Avalone Wintchester.md",
-    "old/Fiore/Mairie/Relations exterieures.md",
-    "old/Fiore/Mairie/Recensement.md",
-    "old/Fiore/Mairie/Magasins.md",
     "3. Wiki/Races/Thelvorns (maudits)",
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_thuriel.jpg",
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_thalion.jpg",
