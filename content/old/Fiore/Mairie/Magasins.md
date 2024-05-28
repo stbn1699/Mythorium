@@ -1,3 +1,9 @@
+---
+draft: true
+tags:
+- Old
+---
+
 ### [[Boulangerie]]
 tenue par [[Seshai Yue]], elle y vends des gâteaux, du pain, et des sucreries
 

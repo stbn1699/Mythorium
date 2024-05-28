@@ -1,3 +1,9 @@
+---
+draft: true
+tags:
+- Old
+---
+
 ## intro
 
 wiki a destination du serveur discord de role play texuel [Fiore Kingdom](https://discord.gg/KUHdKSgEE2)

@@ -1,3 +1,9 @@
+---
+draft: true
+tags:
+- Old
+---
+
 
 # présentation du bot
 le robot, Tupperbox, permet lorsqu'on envoie un message, de mettre un nom et une photo de profil différente de la notre afin de pouvoir jouer plusieurs personnages. 

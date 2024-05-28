@@ -1,3 +1,9 @@
+---
+draft: true
+tags:
+- Old
+---
+
 ## Informations Générales
 **Nom du Royaume**: Nakasane
 **Gouvernement**: Monarchie constitutionnelle 

@@ -1,3 +1,9 @@
+---
+draft: true
+tags:
+- Old
+---
+
 ### [[Freya IV]]
 reine du royaume avec [[Wymon III]]
 ### [[Gim Mov]]

@@ -1,3 +1,9 @@
+---
+draft: true
+tags:
+- Old
+---
+
 ## Image
 ![[Lieu.Boulangerie.png]]
 

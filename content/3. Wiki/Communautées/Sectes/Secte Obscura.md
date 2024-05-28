@@ -1,4 +1,9 @@
-#Communauté #Secte
+---
+draft: false
+tags:
+- Secte
+- Communauté
+---
 
 ## image
 ![[comunaute.Obscura.png]]

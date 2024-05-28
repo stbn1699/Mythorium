@@ -1,4 +1,8 @@
-#Creature
+---
+draft: false
+tags:
+- Creature
+---
 
 ## Image
 

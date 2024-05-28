@@ -1,3 +1,9 @@
+---
+draft: true
+tags:
+- Old
+---
+
 ## Informations Générales
 - **Date :** Mercredi 13 octobre 23, 19h
 - **Lieu :** [[Taverne]] du [[Fiore]]

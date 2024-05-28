@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Histoires/les adelphes Sarphyra.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Epoque",
+                "query": "tag:#Personnage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 391.5
   },
   "right": {
     "id": "33182819bea96af5",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Histoires/les adelphes Sarphyra.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Histoires/les adelphes Sarphyra.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Histoires/les adelphes Sarphyra.md"
+                "file": "index.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,32 +148,32 @@
   },
   "active": "a41f2c957b827001",
   "lastOpenFiles": [
-    "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
-    "index.md",
-    "3. Wiki/Régions/Insulae Aeternae.md",
-    "3. Wiki/Régions/Cordillera Luminis.md",
-    "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
-    "3. Wiki/Races/Elfes/Elfes.md",
-    "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
-    "3. Wiki/Races/Elfes/Individus/Thalion Wynnelis.md",
-    "3. Wiki/Races/Elfes/Individus/Neremyn Sarphyra.md",
-    "3. Wiki/Races/Elfes/Individus/Nalaa Pavis.md",
-    "3. Wiki/Races/Elfes/Individus/Halamar Sarphyra.md",
-    "3. Wiki/Histoires/Sélène et Lamys.md",
-    "3. Wiki/Histoires/les adelphes Sarphyra.md",
-    "3. Wiki/Créatures/Terragriffes.md",
-    "3. Wiki/Créatures/Mélorunes.md",
-    "3. Wiki/Créatures/Lunarètes.md",
-    "2. époques/2.4 ère actuelle.md",
-    "2. époques/2.3 Grande époque.md",
-    "2. époques/2.3 Dieux primordiaux.md",
-    "2. époques/2.1 Terres Sauvages.md",
-    "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
+    "old/wiki fonctionnel/Wiki fiore discord/welcome.md",
+    "old/wiki fonctionnel/Wiki fiore discord/Roleplay.md",
+    "old/wiki fonctionnel/Wiki fiore discord/Règlement.md",
+    "old/wiki fonctionnel/Wiki fiore discord/Le robot Tupperbox.md",
+    "old/wiki fonctionnel/Wiki fiore discord/Inactivité.md",
+    "old/Royaumes/Nakasane.md",
+    "old/Royaumes/Fiore.md",
     "old/Fiore/Personnages/Wymon III.md",
     "old/Fiore/Personnages/Tonya Forbes.md",
     "old/Fiore/Personnages/Shiao Yue.md",
     "old/Fiore/Personnages/Seshai Yue.md",
     "old/Fiore/Personnages/Sélène Aragorn.md",
+    "old/Fiore/Personnages/Mia Aguereille.md",
+    "old/Fiore/Personnages/Lucy Astaria.md",
+    "old/Fiore/Personnages/Lamys of the Forest.md",
+    "old/Fiore/Personnages/Lagertha Osmond.md",
+    "old/Fiore/Personnages/Kawada Shigeko.md",
+    "old/Fiore/Personnages/Kamoto Shigeko.md",
+    "old/Fiore/Personnages/Jarvin Wells.md",
+    "old/Fiore/Personnages/Gim Mov.md",
+    "old/Fiore/Personnages/Freya IV.md",
+    "old/Fiore/Personnages/Edgar schreave.md",
+    "old/Fiore/Personnages/Avalone Wintchester.md",
+    "old/Fiore/Mairie/Relations exterieures.md",
+    "old/Fiore/Mairie/Recensement.md",
+    "old/Fiore/Mairie/Magasins.md",
     "3. Wiki/Races/Thelvorns (maudits)",
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_thuriel.jpg",
     "1. Others/1.1 Images/PERSONNAGE_thelvornCursed_thalion.jpg",
