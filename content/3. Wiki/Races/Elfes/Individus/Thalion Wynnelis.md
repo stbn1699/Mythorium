@@ -7,7 +7,7 @@ tags:
 
 ## Image
 
-![[PERSONNAGE_thalionWynnelis.jpg]]
+![[PERSONNAGE_elfe_thalionWynnelis.jpg]]
 
 ## Informations
 **Nom** : Wynnelis
@@ -15,12 +15,6 @@ tags:
 
 **origine** : [[Sylvandis]]
 **Race** : [[Elfes]]
-
-**Intimité**: 
-| **Genre Biologique**: Homme
-| **Genre Moral**: Homme
-| **Orientation Sexuelle**: Hétéro
-| **Situation**: En couple
 
 ## portrait
 
