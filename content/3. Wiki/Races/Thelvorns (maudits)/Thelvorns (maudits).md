@@ -21,6 +21,8 @@ Les Thelvorns, bien que maudits, conservent une beauté étrange et mélancoliqu
 
 Les Thelvorns vivent reclus dans des grottes sombres et humides, fuyant le monde extérieur par crainte de succomber à leur besoin de chair. Ils mènent une existence solitaire, où seuls une poignée d'individus, entre dix et quinze, parviennent à survivre. Leur gentillesse innée et leur répugnance à faire du mal rendent leur survie extrêmement difficile, les plongeant dans une tristesse profonde. Ces grottes, autrefois sanctuaires de beauté, sont maintenant des lieux de désolation, où les Thelvorns luttent chaque jour contre leur malédiction.
 
+![[MAP_grandeEpoque_thelvornsCursed.jpg]]
+
 ## Relation avec les Elfes
 
 Un accord fragile et douloureux existe entre les Thelvorns et les elfes. Conscients de la malédiction qui pèse sur ces créatures, certains elfes altruistes acceptent de se donner en offrande aux Thelvorns après leur mort naturelle. Cet acte de sacrifice permet aux Thelvorns de prolonger leur existence sans succomber à la violence. Cet arrangement, bien que rare et difficile, offre une lueur d'espoir à ces êtres tourmentés. Les elfes, dans leur sagesse et compassion, espèrent qu'un jour la malédiction pourra être levée, libérant ainsi les Thelvorns de leur fardeau.

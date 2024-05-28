@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
+                "file": "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
+                "file": "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
+                "file": "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md"
+                "file": "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "a41f2c957b827001",
   "lastOpenFiles": [
+    "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
+    "1. Others/1.1 Images/MAP_grandeEpoque_thelvornsCursed.jpg",
+    "1. Others/1.1 Images/MAP_grandeEpoque_thelvornsCursed.jpg.crdownload",
+    "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
     "1. Others/1.1 Images/old/PERSONNAGE_FreyaFiore.jpg",
     "1. Others/1.1 Images/old/PERSONNAGE_EmmaWood.jpg",
     "1. Others/1.1 Images/old/PERSONNAGE_EdgarSchreave.jpg",
@@ -158,12 +162,9 @@
     "1. Others/1.1 Images/old/PERSONNAGE_SeshaiYue.jpg",
     "1. Others/1.1 Images/old/PERSONNAGE_NoName.jpg",
     "1. Others/1.1 Images/old/PERSONNAGE_nalaaPavis.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_MiaAguereille.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_LucyAstaria.jpg",
     "1. Others/1.1 Images/old",
     "1. Others/1.1 Images/Nouveau dossier",
     "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md",
-    "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
     "3. Wiki/Races/Elfes/Individus/Thalion Wynnelis.md",
     "3. Wiki/Races/Elfes/Individus/Sélène Aragorn.md",
     "3. Wiki/Races/Elfes/Individus/Neremyn Sarphyra.md",
@@ -193,7 +194,6 @@
     "3. Wiki/Races/Thelvorns (maudits)",
     "3. Wiki/Races/Thelvorns",
     "1. Others/1.1 Images/MAP_grandeEpoque.jpg.crdownload",
-    "1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis.jpg.crdownload",
-    "1. Others/1.1 Images/MAP_grandeEpoque_insulaeAeternae.jpg.crdownload"
+    "1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis.jpg.crdownload"
   ]
 }
