@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
+                "file": "3. Wiki/Races/Hybrides/Hybrides.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
+                "file": "3. Wiki/Races/Hybrides/Hybrides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
+                "file": "3. Wiki/Races/Hybrides/Hybrides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md"
+                "file": "3. Wiki/Races/Hybrides/Hybrides.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +148,12 @@
   },
   "active": "a41f2c957b827001",
   "lastOpenFiles": [
+    "3. Wiki/Races/Hybrides/Races/Elfes-Humains/Elfes-Humains.md",
+    "3. Wiki/Races/Hybrides/Hybrides.md",
+    "3. Wiki/Races/Hybrides/Races",
+    "3. Wiki/Races/Hybrides",
     "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
+    "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
     "1. Others/1.1 Images/MAP_grandeEpoque_thelvornsCursed.jpg",
     "1. Others/1.1 Images/MAP_grandeEpoque_thelvornsCursed.jpg.crdownload",
     "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
@@ -174,8 +178,7 @@
     "3. Wiki/Races/Elfes/Elfes.md",
     "3. Wiki/Histoires/Famille Sarphyra.md",
     "3. Wiki/Races/Elfes/Individus/Nalaa Pavis.md",
-    "3. Wiki/Races/Demi-Elfes/Demi-Elfes.md",
-    "3. Wiki/Races/Demi-Elfes",
+    "3. Wiki/Races/Hybrides/Races/Elfes-Humains",
     "3. Wiki/Races/Humains/Individus",
     "3. Wiki/Races/Humains",
     "index.md",
@@ -188,12 +191,7 @@
     "old/Royaumes/Fiore.md",
     "old/Fiore/Personnages/Wymon III.md",
     "old/Fiore/Personnages/Tonya Forbes.md",
-    "old/Fiore/Personnages/Shiao Yue.md",
-    "old/Fiore/Personnages/Seshai Yue.md",
-    "old/Fiore/Personnages/Mia Aguereille.md",
     "3. Wiki/Races/Thelvorns (maudits)",
-    "3. Wiki/Races/Thelvorns",
-    "1. Others/1.1 Images/MAP_grandeEpoque.jpg.crdownload",
-    "1. Others/1.1 Images/MAP_grandeEpoque_cordilleraLuminis.jpg.crdownload"
+    "3. Wiki/Races/Thelvorns"
   ]
 }

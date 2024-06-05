@@ -17,10 +17,6 @@ Les demi-elfes sont le fruit de l'union entre les humains et les elfes. Leur exi
 
 Les demi-elfes possèdent une apparence qui reflète leur double héritage. Leur taille se situe généralement entre celle des humains et des elfes, variant de 1,6 à 1,9 mètres. Leur physique est un mélange harmonieux de robustesse humaine et de la grâce elfique. Les demi-elfes ont souvent des traits fins avec des oreilles légèrement pointues, moins marquées que celles des elfes. La couleur de leur peau, cheveux et yeux peut varier considérablement, héritant des caractéristiques des deux parents.
 
-## Critères d'appartenance
-
-Pour être considéré comme appartenant à la race des demi-elfes, un individu doit posséder au moins 40% de chaque espèce (humaine et elfique). Si un individu a une proportion d'héritage inférieur à 40% de l'une des espèces, il est alors considéré comme appartenant à l'espèce dont il a la proportion la plus élevée.
-
 ## Moments importants
 <!DOCTYPE html>
 <html lang="en">
