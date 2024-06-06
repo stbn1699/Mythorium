@@ -93,7 +93,7 @@ Ainsi commence mon journal de bord.</p>
     </div>
     <div class="event">
         <div class="event-content">
-            <h2>Entrée N°1</h2>
+            <h2>Entrée N°2</h2>
 			<h3>jour 1 - soir</h3>
 			<p class="content">Aujourd'hui, j'ai consacré ma journée au nettoyage et à l'organisation de ma nouvelle salle. Le travail a été plus ardu que prévu ; des années de négligence ont laissé une épaisse couche de poussière et de débris. Mais peu à peu, la pièce a commencé à reprendre vie. Les chandeliers que j'ai allumés ont apporté une lumière douce et réconfortante, transformant l'obscurité en un espace propice à mes recherches futures.
 
