@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Races/Hybrides/Hybrides.md",
+                "file": "3. Wiki/Histoires/Famille Sarphyra.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6ee88ae6a38f8257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Wiki/Encyclopédie/Alchimie/Bible des Alchimistes.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Personnage",
+                "query": "tag:#Old",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Races/Hybrides/Hybrides.md",
+                "file": "3. Wiki/Encyclopédie/Alchimie/Bible des Alchimistes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Races/Hybrides/Hybrides.md",
+                "file": "3. Wiki/Encyclopédie/Alchimie/Bible des Alchimistes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Races/Hybrides/Hybrides.md"
+                "file": "3. Wiki/Encyclopédie/Alchimie/Bible des Alchimistes.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,14 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a41f2c957b827001",
+  "active": "6ee88ae6a38f8257",
   "lastOpenFiles": [
+    "3. Wiki/Encyclopédie/Créatures/Terragriffes.md",
+    "3. Wiki/Encyclopédie/Créatures/Mélorunes.md",
+    "3. Wiki/Encyclopédie/Créatures/Lunarètes.md",
+    "3. Wiki/Encyclopédie/Alchimie/Bible des Alchimistes.md",
+    "3. Wiki/Histoires/Famille Sarphyra.md",
+    "old/Fiore/Mairie/Relations exterieures.md",
+    "3. Wiki/Encyclopédie/Alchimie",
+    "3. Wiki/Encyclopédie",
+    "old/Fiore/Mairie/Recensement.md",
+    "old/Fiore/Mairie/Magasins.md",
     "3. Wiki/Races/Hybrides/Races/Elfes-Humains/Elfes-Humains.md",
+    "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
+    "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
     "3. Wiki/Races/Hybrides/Hybrides.md",
     "3. Wiki/Races/Hybrides/Races",
     "3. Wiki/Races/Hybrides",
-    "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
-    "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
     "1. Others/1.1 Images/MAP_grandeEpoque_thelvornsCursed.jpg",
     "1. Others/1.1 Images/MAP_grandeEpoque_thelvornsCursed.jpg.crdownload",
     "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
@@ -176,7 +199,6 @@
     "3. Wiki/Histoires/Sélène et Lamys.md",
     "3. Wiki/Races/Humains/Humains.md",
     "3. Wiki/Races/Elfes/Elfes.md",
-    "3. Wiki/Histoires/Famille Sarphyra.md",
     "3. Wiki/Races/Elfes/Individus/Nalaa Pavis.md",
     "3. Wiki/Races/Hybrides/Races/Elfes-Humains",
     "3. Wiki/Races/Humains/Individus",
@@ -184,14 +206,6 @@
     "index.md",
     "old/wiki fonctionnel/Wiki fiore discord/welcome.md",
     "old/wiki fonctionnel/Wiki fiore discord/Roleplay.md",
-    "old/wiki fonctionnel/Wiki fiore discord/Règlement.md",
-    "old/wiki fonctionnel/Wiki fiore discord/Le robot Tupperbox.md",
-    "old/wiki fonctionnel/Wiki fiore discord/Inactivité.md",
-    "old/Royaumes/Nakasane.md",
-    "old/Royaumes/Fiore.md",
-    "old/Fiore/Personnages/Wymon III.md",
-    "old/Fiore/Personnages/Tonya Forbes.md",
-    "3. Wiki/Races/Thelvorns (maudits)",
-    "3. Wiki/Races/Thelvorns"
+    "old/wiki fonctionnel/Wiki fiore discord/Règlement.md"
   ]
 }

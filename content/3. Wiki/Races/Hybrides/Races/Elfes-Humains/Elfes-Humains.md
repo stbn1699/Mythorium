@@ -2,6 +2,7 @@
 draft: false
 tags:
 - Race
+- Hybrides
 ---
 
 ## Informations générale

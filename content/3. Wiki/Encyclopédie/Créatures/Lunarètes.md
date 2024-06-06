@@ -2,6 +2,7 @@
 draft: false
 tags:
 - Creature
+- Encyclopédie
 ---
 
 ## Image
