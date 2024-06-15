@@ -114,6 +114,41 @@ Enfin, alors que les étoiles commencent à briller dans le ciel, Sélène sort 
 Lamys, caché dans l'ombre, incline légèrement la tête, comme un adieu silencieux. Il sait que leurs chemins se croiseront à nouveau, guidés par une force invisible mais inéluctable. Tandis que Sélène disparaît dans la forêt, il reste un moment, gravant dans sa mémoire chaque détail de cette journée, avant de finalement s'éloigner, son esprit encore plein de l'image de l'elfe gracieuse se baignant dans le lac féérique.</p>
 		</div>
 	</div>
+	<div class="event">
+    <div class="event-content">
+        <h2>jour 63, année 3005</h2>
+        <h3>le sauvetage</h3>
+        <p class="content">Quelques jours après leur seconde rencontre, Lamys parcourt les profondeurs de Sylvandis, toujours en quête de réponses. Ses explorations l'amènent à découvrir de nouvelles plantes et herbes qu'il n'a jamais vues auparavant. Parmi celles-ci se trouve une plante aux fleurs lumineuses et éclatantes, la "Lumenella", réputée pour ses vertus curatives dans les légendes elfiques. Ignorant que cette plante est toxique pour les humains, Lamys décide d'en goûter les feuilles.
+
+Rapidement, il ressent les effets néfastes de la Lumenella. Des douleurs intenses envahissent son corps, et une faiblesse paralysante s'empare de lui. Il s'effondre au sol, luttant pour respirer, son armure lourde pesant sur lui comme jamais auparavant. Dans son agonie, il murmure des mots incompréhensibles, appelant à l'aide d'une voix à peine audible.
+
+Par un heureux hasard, Sélène se trouve non loin de là, cueillant des herbes pour ses potions. Les cris étouffés de Lamys attirent son attention. Ses sens aiguisés perçoivent la détresse dans l'air. Elle se précipite vers la source du bruit et découvre le chevalier gisant à terre, son visage toujours caché par son heaume, mais son corps convulsant de douleur.
+
+"Sélène...," parvient-il à murmurer en la voyant arriver, ses yeux implorants cherchant les siens.
+
+Sans perdre un instant, Sélène se met à l'œuvre. Elle reconnaît immédiatement les symptômes de l'intoxication par la Lumenella. Utilisant ses pouvoirs de guérison, elle invoque la magie de la forêt pour neutraliser le poison. Ses mains, lumineuses d'une douce lueur verte, effleurent le corps de Lamys, envoyant des vagues de guérison à travers lui.
+
+"Tiens bon, Lamys. Je vais te sauver," murmure-t-elle, sa voix pleine de détermination.
+
+La magie de Sélène commence à faire effet, mais elle sait que le temps est compté. Elle décide de ramener Lamys chez lui, un endroit où elle pourra mieux le soigner. Avec une force surprenante pour sa stature délicate, elle le soulève avec précaution et l'emmène à travers les bois, ses pas rapides et assurés.
+
+Chez Lamys, Sélène prépare un remède avec des herbes qu'elle connaît bien, mêlant magie et science elfique. Elle veille sur lui toute la nuit, appliquant des onguents et murmurant des incantations de guérison. Peu à peu, la couleur revient sur le visage de Lamys, et ses souffrances diminuent.
+
+Le lendemain, Lamys ouvre les yeux, se sentant considérablement mieux. Il tourne la tête et voit Sélène à ses côtés, ses yeux émeraude pleins de soulagement et de fatigue.
+
+"Tu m'as sauvé, Sélène," dit-il, sa voix encore faible mais pleine de gratitude.
+
+"Oui, Lamys. Tu as eu de la chance que je sois passée par là. La Lumenella est mortelle pour les humains. Il faudra être plus prudent à l'avenir."
+
+Lamys incline la tête en signe de reconnaissance. "Je te dois la vie. Comment pourrais-je te remercier ?"
+
+Sélène sourit doucement. "Ne me remercie pas, Lamys. Les esprits de la forêt veillent sur nous tous. Prends soin de toi, et peut-être trouveras-tu les réponses que tu cherches ici, dans Sylvandis."
+
+Lamys se redresse avec difficulté, mais déterminé. "Je le ferai. Et je n'oublierai jamais ce que tu as fait pour moi."
+
+Avec un dernier regard rempli de respect et de gratitude, Sélène quitte la demeure de Lamys, laissant derrière elle un chevalier désormais lié à elle par des liens de vie et de magie. Tandis qu'elle s'éloigne, elle sait que leurs destins sont désormais inextricablement liés, chacun apportant quelque chose de précieux à l'autre.</p>
+    </div>
+</div>
 </div>
 
 </body>
