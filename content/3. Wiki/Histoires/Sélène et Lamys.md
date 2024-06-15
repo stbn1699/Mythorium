@@ -148,7 +148,7 @@ Lamys se redresse avec difficulté, mais déterminé. "Je le ferai. Et je n'oubl
 
 Avec un dernier regard rempli de respect et de gratitude, Sélène quitte la demeure de Lamys, laissant derrière elle un chevalier désormais lié à elle par des liens de vie et de magie. Tandis qu'elle s'éloigne, elle sait que leurs destins sont désormais inextricablement liés, chacun apportant quelque chose de précieux à l'autre.</p>
     </div>
-</div>
+</div> 
 </div>
 
 </body>
