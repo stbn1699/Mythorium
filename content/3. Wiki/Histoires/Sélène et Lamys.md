@@ -95,6 +95,25 @@ Sélène esquisse un léger sourire. "Peut-être. Que les esprits de la forêt t
 Avec un dernier regard, Lamys s'éloigne dans les profondeurs de la forêt, sa silhouette imposante se fondant dans les ombres des arbres anciens. Sélène le regarde disparaître, un sentiment étrange d'admiration et de curiosité mêlé en elle.</p>
 		</div>
 	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>jour 55, année 3005</h2> 
+			 <h3>un regard caché</h3> 
+			 <p class="content">Une semaine après leur première rencontre, Sélène se trouve au bord d'un lac féérique, un lieu où l'eau scintille comme des milliers de diamants sous la lumière du soleil. Les chants des oiseaux et le murmure du vent dans les arbres créent une symphonie naturelle qui apaise l'esprit. Sélène, en quête de tranquillité, décide de se baigner dans les eaux cristallines. Elle se débarrasse de ses vêtements délicatement tissés et plonge gracieusement dans le lac, ses mouvements aussi fluides et élégants que toujours.
+
+À l'ombre des arbres, à une certaine distance, Lamys se trouve par hasard sur ce spectacle enchanteur. Caché derrière un épais tronc de chêne, il observe Sélène avec une intensité qui dépasse la simple curiosité. Ses yeux, dissimulés derrière son heaume, suivent chaque mouvement de l'elfe, absorbant la grâce et la beauté de ses gestes. Bien qu'il soit un chevalier errant, endurci par les voyages et les batailles, quelque chose en Sélène le captive profondément.
+
+Les heures passent sans que Lamys ne s'en rende compte. Il reste immobile, fixant Sélène alors qu'elle nage et joue avec les reflets de l'eau, totalement hypnotisé par la scène devant lui. La lumière du jour commence à décliner, mais il n'a aucune intention de partir. La vue de l'elfe baignant dans le lac semble suspendre le temps, chaque seconde devenant un moment d'émerveillement silencieux.
+
+Sélène, ressentant finalement une présence, lève les yeux vers la rive où Lamys est caché. Bien qu'elle ne puisse pas le voir clairement, une intuition profonde lui murmure qu'elle n'est pas seule. Pourtant, elle ne ressent aucune menace. Au contraire, un sentiment de sécurité et de protection l'envahit, comme si les yeux qui la regardent ne sont là que pour veiller sur elle.
+
+Ignorant qu'il a été presque découvert, Lamys continue de regarder, sa fascination pour Sélène grandissant. Son visage demeure caché, mais à cet instant, ses pensées sont claires et ses émotions indéniables. Il sait qu'il est lié à cette elfe par quelque chose de plus grand que lui, quelque chose qu'il ne comprend pas encore mais qu'il accepte volontiers.
+
+Enfin, alors que les étoiles commencent à briller dans le ciel, Sélène sort du lac, sa peau scintillante de gouttes d'eau. Elle s'habille et, avant de partir, jette un dernier regard vers la rive, là où elle sent la présence de Lamys. Un léger sourire se dessine sur ses lèvres, comme une promesse de futures rencontres.
+
+Lamys, caché dans l'ombre, incline légèrement la tête, comme un adieu silencieux. Il sait que leurs chemins se croiseront à nouveau, guidés par une force invisible mais inéluctable. Tandis que Sélène disparaît dans la forêt, il reste un moment, gravant dans sa mémoire chaque détail de cette journée, avant de finalement s'éloigner, son esprit encore plein de l'image de l'elfe gracieuse se baignant dans le lac féérique.</p>
+		</div>
+	</div>
 </div>
 
 </body>
