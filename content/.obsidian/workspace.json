@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
+                "file": "3. Wiki/Encyclopédie/Flore/Lumenella.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
+                "file": "3. Wiki/Encyclopédie/Flore/Lumenella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
+                "file": "3. Wiki/Encyclopédie/Flore/Lumenella.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Histoires/Sélène et Lamys.md"
+                "file": "3. Wiki/Encyclopédie/Flore/Lumenella.md"
               }
             }
           }
@@ -148,11 +148,16 @@
   },
   "active": "ef7b970ed760fdbd",
   "lastOpenFiles": [
-    "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md",
-    "3. Wiki/Communautées/Sectes/Secte Obscura.md",
-    "3. Wiki/Histoires/Sélène et Lamys.md",
-    "3. Wiki/Histoires/Famille Sarphyra.md",
     "3. Wiki/Races/Elfes/Individus/Halamar Sarphyra.md",
+    "3. Wiki/Encyclopédie/Flore/Lumenella.md",
+    "3. Wiki/Communautées/Sectes/Secte Obscura.md",
+    "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md",
+    "3. Wiki/Encyclopédie/Flore",
+    "3. Wiki/Histoires/Sélène et Lamys.md",
+    "1. Others/1.1 Images/PLANTE_Lumenella.jpg",
+    "1. Others/1.1 Images/PLANTE_Lumenella",
+    "1. Others/1.1 Images/Non confirmé 628157.crdownload",
+    "3. Wiki/Histoires/Famille Sarphyra.md",
     "Famille Sarphyra.md",
     "3. Wiki/Races/Elfes/Individus/Neremyn Sarphyra.md",
     "3. Wiki/Races/Hybrides/Races/Elfes-Humains/Elfes-Humains.md",
@@ -173,7 +178,6 @@
     "1. Others/1.1 Images/old/PERSONNAGE_LagerthaOsmond.jpg",
     "1. Others/1.1 Images/old/PERSONNAGE_KawadaShigeko.jpg",
     "1. Others/1.1 Images/old/PERSONNAGE_KamotoShigeko.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_JarvinWells.jpg",
     "1. Others/1.1 Images/old",
     "3. Wiki/Races/Elfes/Elfes.md",
     "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
@@ -182,17 +186,12 @@
     "3. Wiki/Créatures/Mélorunes.md",
     "1. Others/1.1 Images/CREATURE_mélorune.jpg.crdownload",
     "3. Wiki/Histoires/les adelphes Sarphyra.md",
-    "1. Others/1.1 Images/CREATURE_terragriffe.jpg.crdownload",
     "3. Wiki/Régions/Insulae Aeternae.md",
-    "3. Wiki/Créatures",
-    "3. Wiki/Créatures/Lunarètes",
     "3. Wiki/Régions/Cordillera Luminis.md",
     "old/Royaumes/Nakasane.md",
     "old/Fiore/Personnages/Wymon III.md",
     "old/Fiore/Personnages/Tonya Forbes.md",
     "old/Fiore/Personnages/Shiao Yue.md",
-    "old/Fiore/Personnages/Seshai Yue.md",
-    "old/Fiore/Personnages/Sélène Aragorn.md",
-    "old/Fiore/Personnages/Mia Aguereille.md"
+    "old/Fiore/Personnages/Seshai Yue.md"
   ]
 }
