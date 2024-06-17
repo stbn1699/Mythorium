@@ -149,6 +149,26 @@ Lamys se redresse avec difficulté, mais déterminé. "Je le ferai. Et je n'oubl
 Avec un dernier regard rempli de respect et de gratitude, Sélène quitte la demeure de Lamys, laissant derrière elle un chevalier désormais lié à elle par des liens de vie et de magie. Tandis qu'elle s'éloigne, elle sait que leurs destins sont désormais inextricablement liés, chacun apportant quelque chose de précieux à l'autre.</p>
     </div>
 </div> 
+
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>jour 61, année 3005</h2> 
+			 <h3>Le sauvetage, partie 2</h3> 
+			 <p class="content">Le crépuscule tombait sur le royaume de Sylvandis, baignant la forêt d'une lueur dorée. Sélène, qui patrouillait les bois sacrés, ressentit soudain une présence hostile. Avant qu'elle ne puisse réagir, un homme émergea des ombres, ses intentions manifestement mauvaises. Sélène tenta de se défendre avec la grâce et la rapidité qui caractérisent son peuple, mais l'agresseur, plus fort et plus brutal, réussit à lui asséner de violents coups sur les côtes et le visage. La douleur la submergea, affaiblissant ses défenses.
+
+Alors que son agresseur prenait le dessus, l'intention évidente de la soumettre à des actes ignobles, une silhouette imposante apparut à la lisière de la clairière. Lamys, en armure étincelante, se précipita vers Sélène, une fureur froide dans les yeux. En quelques instants, il attrapa l'assaillant et le terrassa avec une force dévastatrice. Chaque coup de Lamys était précis et puissant, ne laissant aucune chance à l'agresseur qui s'effondra, vaincu.
+
+Sélène, affaiblie et douloureuse, tenta de se relever mais retomba immédiatement, ses forces l'abandonnant. Lamys se pencha vers elle, son visage toujours caché par son heaume. "Sélène, je suis là. Tu es en sécurité maintenant," murmura-t-il d'une voix douce mais déterminée.
+
+Avec une délicatesse surprenante pour un chevalier en armure, Lamys la souleva avec précaution. Il sentit la légèreté de son corps frêle et fragile, marqué par les coups reçus. Chaque pas qu'il faisait était empreint d'une détermination silencieuse, alors qu'il la portait à travers la forêt, ses yeux scrutant l'obscurité à la recherche de tout danger potentiel.
+
+La nuit était maintenant tombée, et seule la lumière de la lune éclairait leur chemin. Lamys avançait avec assurance, connaissant chaque sentier secret de la forêt. Finalement, ils atteignirent sa demeure, un abri simple mais solide caché au cœur des bois. Là, il la déposa doucement sur un lit fait de couvertures douces et confortables.
+
+"Repose-toi, Sélène. Je vais te soigner," dit-il, sa voix empreinte de douceur et de souci.
+
+Lamys commença à soigner ses blessures avec une précision étonnante. Il nettoya les coupures, appliqua des onguents aux herbes, et murmura des mots apaisants pour calmer la douleur de Sélène. Ses gestes étaient attentionnés, révélant une connaissance des arts de la guérison surprenante pour un chevalier.</p>
+		</div>
+	</div>
 </div>
 
 </body>
