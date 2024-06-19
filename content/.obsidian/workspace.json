@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "116c829ba74ebcea",
+        "id": "5d6c49d183d9fa95",
         "type": "tabs",
         "children": [
           {
-            "id": "a41f2c957b827001",
+            "id": "9f03be234dc888ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md",
+                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md",
+                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md",
+                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md"
+                "file": "3. Wiki/Histoires/Sélène et Lamys.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a41f2c957b827001",
+  "active": "9f03be234dc888ca",
   "lastOpenFiles": [
+    "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
+    "3. Wiki/Communautées/Sectes/Secte Obscura.md",
+    "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md",
     "3. Wiki/Histoires/Sélène et Lamys.md",
     "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md",
     "3. Wiki/Encyclopédie/Alchimie/Bible des Alchimistes.md",
@@ -157,7 +160,6 @@
     "3. Wiki/Encyclopédie/Faune/Mélorunes.md",
     "3. Wiki/Encyclopédie/Faune/Lunarètes.md",
     "3. Wiki/Encyclopédie/Faune",
-    "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md",
     "1. Others/1.1 Images/PLANTE_Lumenella.jpg",
     "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
     "3. Wiki/Races/Hybrides/Races/Elfes-Humains/Elfes-Humains.md",
@@ -191,8 +193,6 @@
     "3. Wiki/Races/Elfes/Individus/Neremyn Sarphyra.md",
     "3. Wiki/Races/Elfes/Individus/Nalaa Pavis.md",
     "3. Wiki/Races/Elfes/Individus/Halamar Sarphyra.md",
-    "3. Wiki/Communautées/Royaumes/Sylvandis/Sylvandis.md",
-    "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
-    "3. Wiki/Races/Elfes/Elfes.md"
+    "3. Wiki/Communautées/Royaumes/Sylvandis/Sylvandis.md"
   ]
 }

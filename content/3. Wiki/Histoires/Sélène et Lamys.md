@@ -163,6 +163,33 @@ La nuit était maintenant tombée, et seule la lumière de la lune éclairait le
 Lamys commença à soigner ses blessures avec une précision étonnante. Il nettoya les coupures, appliqua des onguents aux herbes, et murmura des mots apaisants pour calmer la douleur de Sélène. Ses gestes étaient attentionnés, révélant une connaissance des arts de la guérison surprenante pour un chevalier.</p>
 		</div>
 	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>jour 63-64, année 3005</h2> 
+			 <h3>Le réveil de Sélène</h3> 
+			 <p class="content">Sélène s'endormit dans le lit de Lamys, épuisée par les événements de la journée et les soins prodigués par le chevalier. Lamys, soucieux de sa sécurité, s'installa sur le canapé proche, prêt à intervenir au cas où elle aurait besoin de lui durant la nuit. Il resta éveillé un moment, écoutant le souffle régulier de Sélène avant de finalement succomber au sommeil.
+
+Le lendemain matin, le soleil perçait les rideaux, inondant la pièce d'une lumière douce. Sélène se réveilla, ses douleurs moins intenses grâce aux soins de Lamys. En sortant du lit, elle remarqua que Lamys n'était plus sur le canapé. Curieuse, elle se dirigea vers l'extérieur, attirée par une douce odeur de nourriture.
+
+Dehors, Lamys était assis à une table, profitant de son petit déjeuner, le dos tourné à l'entrée. Pour la première fois, Sélène aperçut l'arrière de sa tête, ses cheveux courts et sombres. Respectant son désir de discrétion, elle se racla légèrement la gorge pour signaler sa présence sans le surprendre.
+
+Lamys remis rapidement son heaume pour couvrir son visage. "Sélène, tu es réveillée. Comment te sens-tu ce matin ?" demanda-t-il, sa voix empreinte de sollicitude, tournant la tête vers elle.
+
+"Beaucoup mieux, grâce à toi. Merci, Lamys," répondit-elle avec un sourire. Elle s'assit à la table, où Lamys lui servit une part de son petit déjeuner.
+
+Ils commencèrent à manger en silence, chacun savourant le moment de tranquillité. Après quelques bouchées, Sélène prit la parole. "Je voulais te remercier encore une fois pour ce que tu as fait hier. Sans toi, je n'aurais pas survécu."
+
+"Je n'ai fait que ce que n'importe qui aurait fait. Tu es une gardienne de cette forêt, il est de mon devoir de te protéger," répondit Lamys modestement.
+
+Sélène secoua la tête, son regard émeraude fixant celui de Lamys à travers les fentes de son heaume. "Non, Lamys. Ce que tu as fait dépasse le simple devoir. Tu m'as sauvé la vie. Et je crois qu'il est temps que nous nous connaissions vraiment."
+
+Lamys hésita un instant, puis hocha la tête. "Tu as raison. Je suis Lamys, un chevalier errant en quête de réponses à des questions anciennes. J'appartiens au groupe des [[Gardiens de l'Aube]] Mon visage est caché non par honte, mais par nécessité par rapport au crédeau des gardiens. Il y a des choses que je ne peux pas encore révéler."
+
+"Je comprends," répondit Sélène avec douceur. "Moi aussi, j'ai mes secrets. Mais peut-être qu'ensemble, nous pourrons découvrir ce que nous cherchons."
+
+Ils continuèrent à discuter, partageant des histoires de leurs vies et de leurs quêtes respectives. La conversation était fluide et naturelle, chaque mot renforçant le lien naissant entre eux. Leurs rires résonnaient dans l'air frais du matin, et un sentiment de complicité se développait, promettant de nombreuses aventures à venir.</p>
+		</div>
+	</div>
 </div>
 </body>
 </html>

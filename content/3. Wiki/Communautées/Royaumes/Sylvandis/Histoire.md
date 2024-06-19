@@ -16,12 +16,10 @@ tags:
         margin: 50px auto;
         font-family: Arial, sans-serif;
     }
-    
     .event {
         margin-bottom: 50px;
         position: relative;
     }
-    
     .event::before {
         content: '';
         position: absolute;
@@ -31,7 +29,6 @@ tags:
         width: 5px;
         background-color: #3d4852;
     }
-    
     .event-content {
         padding: 15px;
         border-radius: 10px;
@@ -40,12 +37,10 @@ tags:
         margin-left: 25px;
         border: 2px solid #3d4852;
     }
-    
     .event h2 {
         margin-bottom: 5px;
         margin-top: 5px;
     }
-    
     .content {
         margin: 0;
     }
