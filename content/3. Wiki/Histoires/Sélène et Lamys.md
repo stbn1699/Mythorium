@@ -19,12 +19,10 @@ cette histoire raconte la relation entre [[Sélène Aragorn]] et [[Lamys of the 
         margin: 50px auto;
         font-family: Arial, sans-serif;
     }
-    
     .event {
         margin-bottom: 50px;
         position: relative;
     }
-    
     .event::before {
         content: '';
         position: absolute;
@@ -34,7 +32,6 @@ cette histoire raconte la relation entre [[Sélène Aragorn]] et [[Lamys of the 
         width: 5px;
         background-color: #3d4852;
     }
-    
     .event-content {
         padding: 15px;
         border-radius: 10px;
@@ -43,12 +40,10 @@ cette histoire raconte la relation entre [[Sélène Aragorn]] et [[Lamys of the 
         margin-left: 25px;
         border: 2px solid #3d4852;
     }
-    
     .event h2 {
         margin-bottom: 5px;
         margin-top: 5px;
     }
-    
     .content {
         margin: 0;
     }
@@ -115,11 +110,11 @@ Lamys, caché dans l'ombre, incline légèrement la tête, comme un adieu silenc
 		</div>
 	</div>
 	<div class="event">
-    <div class="event-content">
-        <h2>jour 63, année 3005</h2>
-        <h3>le sauvetage</h3>
-        <p class="content">Quelques jours après leur seconde rencontre, Lamys parcourt les profondeurs de Sylvandis, toujours en quête de réponses. Ses explorations l'amènent à découvrir de nouvelles plantes et herbes qu'il n'a jamais vues auparavant. Parmi celles-ci se trouve une plante aux fleurs lumineuses et éclatantes, la "Lumenella", réputée pour ses vertus curatives dans les légendes elfiques. Ignorant que cette plante est toxique pour les humains, Lamys décide d'en goûter les feuilles.
-
+	    <div class="event-content">
+	        <h2>jour 63, année 3005</h2>
+	        <h3>le sauvetage</h3>
+	        <p class="content">Quelques jours après leur seconde rencontre, Lamys parcourt les profondeurs de Sylvandis, toujours en quête de réponses. Ses explorations l'amènent à découvrir de nouvelles plantes et herbes qu'il n'a jamais vues auparavant. Parmi celles-ci se trouve une plante aux fleurs lumineuses et éclatantes, la "Lumenella", réputée pour ses vertus curatives dans les légendes elfiques. Ignorant que cette plante est toxique pour les humains, Lamys décide d'en goûter les feuilles.
+	
 Rapidement, il ressent les effets néfastes de la Lumenella. Des douleurs intenses envahissent son corps, et une faiblesse paralysante s'empare de lui. Il s'effondre au sol, luttant pour respirer, son armure lourde pesant sur lui comme jamais auparavant. Dans son agonie, il murmure des mots incompréhensibles, appelant à l'aide d'une voix à peine audible.
 
 Par un heureux hasard, Sélène se trouve non loin de là, cueillant des herbes pour ses potions. Les cris étouffés de Lamys attirent son attention. Ses sens aiguisés perçoivent la détresse dans l'air. Elle se précipite vers la source du bruit et découvre le chevalier gisant à terre, son visage toujours caché par son heaume, mais son corps convulsant de douleur.
@@ -147,14 +142,13 @@ Sélène sourit doucement. "Ne me remercie pas, Lamys. Les esprits de la forêt 
 Lamys se redresse avec difficulté, mais déterminé. "Je le ferai. Et je n'oublierai jamais ce que tu as fait pour moi."
 
 Avec un dernier regard rempli de respect et de gratitude, Sélène quitte la demeure de Lamys, laissant derrière elle un chevalier désormais lié à elle par des liens de vie et de magie. Tandis qu'elle s'éloigne, elle sait que leurs destins sont désormais inextricablement liés, chacun apportant quelque chose de précieux à l'autre.</p>
-    </div>
-</div> 
-
-	<div class="event"> 
+		</div>
+	</div>
+	<div class="event">
 		<div class="event-content">
-			 <h2>jour 61, année 3005</h2> 
-			 <h3>Le sauvetage, partie 2</h3> 
-			 <p class="content">Le crépuscule tombait sur le royaume de Sylvandis, baignant la forêt d'une lueur dorée. Sélène, qui patrouillait les bois sacrés, ressentit soudain une présence hostile. Avant qu'elle ne puisse réagir, un homme émergea des ombres, ses intentions manifestement mauvaises. Sélène tenta de se défendre avec la grâce et la rapidité qui caractérisent son peuple, mais l'agresseur, plus fort et plus brutal, réussit à lui asséner de violents coups sur les côtes et le visage. La douleur la submergea, affaiblissant ses défenses.
+			<h2>jour 63, année 3005</h2>
+			<h3>le sauvetage</h3>
+			<p class="content">Le crépuscule tombait sur le royaume de Sylvandis, baignant la forêt d'une lueur dorée. Sélène, qui patrouillait les bois sacrés, ressentit soudain une présence hostile. Avant qu'elle ne puisse réagir, un homme émergea des ombres, ses intentions manifestement mauvaises. Sélène tenta de se défendre avec la grâce et la rapidité qui caractérisent son peuple, mais l'agresseur, plus fort et plus brutal, réussit à lui asséner de violents coups sur les côtes et le visage. La douleur la submergea, affaiblissant ses défenses.
 
 Alors que son agresseur prenait le dessus, l'intention évidente de la soumettre à des actes ignobles, une silhouette imposante apparut à la lisière de la clairière. Lamys, en armure étincelante, se précipita vers Sélène, une fureur froide dans les yeux. En quelques instants, il attrapa l'assaillant et le terrassa avec une force dévastatrice. Chaque coup de Lamys était précis et puissant, ne laissant aucune chance à l'agresseur qui s'effondra, vaincu.
 
@@ -170,6 +164,5 @@ Lamys commença à soigner ses blessures avec une précision étonnante. Il nett
 		</div>
 	</div>
 </div>
-
 </body>
 </html>
