@@ -19,12 +19,10 @@ cette histoire raconte la relation entre [[Neremyn Sarphyra]] et [[Halamar Sarph
         margin: 50px auto;
         font-family: Arial, sans-serif;
     }
-    
     .event {
         margin-bottom: 50px;
         position: relative;
     }
-    
     .event::before {
         content: '';
         position: absolute;
@@ -34,21 +32,18 @@ cette histoire raconte la relation entre [[Neremyn Sarphyra]] et [[Halamar Sarph
         width: 5px;
         background-color: #3d4852;
     }
-    
     .event-content {
         padding: 15px;
         border-radius: 10px;
-        background-color: rgba(0, 0, 0, 0.15); /* Couleur de fond légèrement assombrie */
-        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Ombre légère */
+        background-color: rgba(0, 0, 0, 0.15);
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
         margin-left: 25px;
         border: 2px solid #3d4852;
     }
-    
     .event h2 {
         margin-bottom: 5px;
         margin-top: 5px;
     }
-    
     .content {
         margin: 0;
     }
@@ -64,7 +59,6 @@ cette histoire raconte la relation entre [[Neremyn Sarphyra]] et [[Halamar Sarph
 </style>
 </head>
 <body>
-
 <div class="timeline">
     <div class="event">
         <div class="event-content">

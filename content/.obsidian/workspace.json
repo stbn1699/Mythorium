@@ -18,6 +18,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "763f60e3b0c22a7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Others/Utilities.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -148,10 +160,13 @@
   },
   "active": "9f03be234dc888ca",
   "lastOpenFiles": [
+    "3. Wiki/Histoires/Famille Sarphyra.md",
+    "1. Others/Utilities.md",
+    "3. Wiki/Histoires/Sélène et Lamys.md",
+    "3. Wiki/Races/Elfes/Individus/Thalion Wynnelis.md",
     "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
     "3. Wiki/Communautées/Sectes/Secte Obscura.md",
     "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md",
-    "3. Wiki/Histoires/Sélène et Lamys.md",
     "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md",
     "3. Wiki/Encyclopédie/Alchimie/Bible des Alchimistes.md",
     "3. Wiki/Encyclopédie/Flore/Lumenella.md",
@@ -189,10 +204,7 @@
     "3. Wiki/Races/Thelvorns/Thelvorns.md",
     "New/3. Wiki/Créatures - Races/Elfes/Elfes.md",
     "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
-    "3. Wiki/Races/Elfes/Individus/Thalion Wynnelis.md",
     "3. Wiki/Races/Elfes/Individus/Neremyn Sarphyra.md",
-    "3. Wiki/Races/Elfes/Individus/Nalaa Pavis.md",
-    "3. Wiki/Races/Elfes/Individus/Halamar Sarphyra.md",
-    "3. Wiki/Communautées/Royaumes/Sylvandis/Sylvandis.md"
+    "3. Wiki/Races/Elfes/Individus/Nalaa Pavis.md"
   ]
 }

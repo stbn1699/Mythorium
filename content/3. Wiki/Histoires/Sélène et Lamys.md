@@ -190,6 +190,119 @@ Lamys hésita un instant, puis hocha la tête. "Tu as raison. Je suis Lamys, un 
 Ils continuèrent à discuter, partageant des histoires de leurs vies et de leurs quêtes respectives. La conversation était fluide et naturelle, chaque mot renforçant le lien naissant entre eux. Leurs rires résonnaient dans l'air frais du matin, et un sentiment de complicité se développait, promettant de nombreuses aventures à venir.</p>
 		</div>
 	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>jour 65, année 3005</h2> 
+			 <h3>Le Deuxième jour</h3> 
+			 <p class="content">Le lendemain matin, Sélène se réveilla de nouveau dans le lit confortable de Lamys. Les douleurs de ses blessures s'étaient encore atténuées, et elle se sentait presque entièrement rétablie. Elle se leva silencieusement, décidant de préparer le petit déjeuner pour Lamys en guise de remerciement pour sa gentillesse et ses soins.
+
+Elle sortit discrètement et trouva la cuisine simple mais bien équipée. Avec des gestes gracieux, elle prépara un repas avec les ingrédients disponibles, créant un petit festin de fruits, de pain frais et de thé aux herbes. Lorsque tout fut prêt, elle appela doucement Lamys.
+
+Lamys, qui avait dormi sur le canapé pour rester à proximité en cas de besoin, se réveilla avec surprise en entendant Sélène l'appeler. Il se leva, ajusta son heaume et se dirigea vers la table. "Tu n'avais pas à faire cela, Sélène," dit-il, touché par son geste.
+
+"Je tenais à te remercier pour tout ce que tu as fait pour moi," répondit-elle avec un sourire chaleureux. "Assieds-toi, profitons de ce repas ensemble."
+
+Ils prirent leur petit déjeuner dans une ambiance détendue et conviviale, échangeant des histoires et des rires. La conversation coulait naturellement, révélant encore plus de leurs personnalités et de leurs espoirs. Chaque moment passé ensemble renforçait le lien entre eux.
+
+Après le repas, Sélène se leva, sachant qu'il était temps pour elle de retourner dans son royaume. "Merci, Lamys. Pour tout. Tu m'as sauvé la vie et offert un refuge."
+
+"C'était un honneur de t'aider, Sélène. Prends soin de toi dans les bois sacrés," répondit Lamys, sa voix pleine de sincérité.
+
+Ils se dirigèrent vers la porte, Sélène se tournant une dernière fois vers Lamys. "Nos chemins se croiseront à nouveau, j'en suis sûre," dit-elle avec un sourire mystérieux.
+
+"Je l'espère," répondit Lamys en inclinant la tête.
+
+Sélène quitta la demeure de Lamys et se dirigea vers les profondeurs de la forêt. Chaque pas la rapprochait de son royaume, mais elle emportait avec elle le souvenir de ces deux jours particuliers. Alors qu'elle s'éloignait, elle savait que leur lien allait continuer à se renforcer, peu importe les défis à venir.</p>
+		</div>
+	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>jour 65, année 3005</h2> 
+			 <h3>Le Retour de Sélène au Royaume</h3> 
+			 <p class="content">Sélène quitta la demeure de Lamys et se dirigea vers les profondeurs de la forêt, ses pas légers mais déterminés. Le chemin jusqu'à son royaume était paisible, mais elle ne pouvait s'empêcher de repenser aux événements des deux derniers jours et à la gentillesse de Lamys.
+
+En arrivant à l'entrée du royaume de Sylvandis, elle fut accueillie par une patrouille d'elfes qui, immédiatement soulagés de la voir, la conduisirent rapidement au cœur du royaume. La nouvelle de son retour se répandit comme une traînée de poudre, et bientôt une petite foule s'était rassemblée, tous inquiets mais maintenant rassurés par sa présence.
+
+"Sélène ! Tu es revenue !" s'exclama un jeune elfe, visiblement soulagé.
+
+"Nous étions tellement inquiets," ajouta une autre voix dans la foule.
+
+Sélène, malgré la fatigue et la douleur encore présente, esquissa un sourire apaisant. "Je vais bien, tout va bien. J'ai simplement eu une rencontre imprévue avec une créature sauvage. Mais je suis saine et sauve."
+
+Elle choisit de ne pas mentionner Lamys, préférant garder leur rencontre secrète pour le moment. La foule, satisfaite de son explication, se dispersa lentement, chacun retournant à ses occupations.
+
+Cependant, l'un des anciens du conseil, un elfe sage du nom de [[Thalion Wynnelis]], s'approcha avec une expression sérieuse. Thalion était le guérisseur en chef du royaume, connu pour ses vastes connaissances en herboristerie et en magie de guérison.
+
+"Sélène, je dois insister pour que tu viennes immédiatement au pavillon de guérison. Tu sembles blessée et il est de mon devoir de m'assurer que tu te rétablisses complètement," dit Thalion avec une autorité douce mais ferme.
+
+Ne pouvant refuser, Sélène acquiesça et suivit Thalion jusqu'au pavillon de guérison. Là, elle fut conduite dans une pièce lumineuse et sereine, ornée de plantes médicinales et de cristaux de guérison. Thalion examina ses blessures avec soin, ses mains expertes glissant doucement sur les ecchymoses et les coupures.
+
+"Tu as subi de lourds coups. Heureusement, tes blessures ne sont pas mortelles, mais elles nécessitent des soins appropriés," déclara Thalion en préparant une pommade aux herbes.
+
+Sélène se laissa soigner en silence, ses pensées retournant sans cesse à Lamys et à la promesse tacite de se revoir. Tandis que Thalion appliquait les onguents et murmurait des incantations de guérison, elle sentit une chaleur réconfortante envahir son corps, apaisant ses douleurs et accélérant son rétablissement.
+
+"Repose-toi, Sélène. La guérison demande du temps et du calme. Si tu as besoin de quoi que ce soit, fais-le moi savoir," dit Thalion avec un sourire rassurant.
+
+"Merci, Thalion. Je ferai de mon mieux pour me rétablir rapidement," répondit Sélène, reconnaissante.
+
+Elle s'installa confortablement, sachant que malgré les épreuves qu'elle avait traversées, elle était entourée de son peuple, prête à se remettre sur pied et à protéger Sylvandis avec encore plus de détermination. Les pensées de Lamys restaient présentes, un secret précieux qu'elle gardait en elle, attendant avec impatience le jour où leurs chemins se croiseraient à nouveau.</p>
+		</div>
+	</div>
+	<div class="event">
+	    <div class="event-content">
+	        <h2>Jour 70, année 3005</h2>
+	        <h3>La visite surprise - Matinée</h3>
+	        <p>Une semaine après son retour au royaume de Sylvandis, Sélène se sentait beaucoup mieux grâce aux soins attentifs de Thalion Wynnelis. Cependant, ses pensées retournaient souvent à Lamys. Ayant maintenant une idée précise de l'endroit où il vivait, elle décida de lui rendre une visite surprise pour le remercier de nouveau et en savoir plus sur cet énigmatique chevalier.
+
+En fin de matinée, elle se faufila hors du royaume et suivit les sentiers forestiers menant à la demeure de Lamys. La forêt était paisible, baignée par la lumière dorée du soleil filtrant à travers les feuillages. Après une marche agréable, elle aperçut enfin la modeste cabane où Lamys résidait.
+
+Sélène s'approcha de la porte et frappa doucement. Elle entendit des bruits de pas à l'intérieur, puis la porte s'ouvrit, révélant Lamys, son visage toujours caché par son heaume.
+
+"Sélène, quelle surprise agréable ! Que me vaut l'honneur de ta visite ?" demanda-t-il, visiblement ravi de la voir.
+
+"Je voulais simplement te remercier encore une fois pour tout ce que tu as fait pour moi. Et aussi… je me demandais si tu serais d'accord pour que nous passions un peu de temps ensemble, à discuter et à partager des histoires," répondit-elle avec un sourire chaleureux.
+
+Lamys inclina la tête. "Bien sûr, entre donc. Je suis heureux de te voir en si bonne santé."
+
+Ils s'installèrent à l'intérieur, où Lamys proposa de préparer un repas simple mais délicieux. Ensemble, ils concoctèrent un festin de pain frais, de fruits de la forêt, de fromage de chèvre et de viande séchée, accompagnés d'une infusion de plantes aromatiques. Le repas était rustique mais réconfortant, et ils s'installèrent à la table pour manger.
+
+Pendant le repas, Sélène raconta comment elle avait guéri et ce qui s'était passé depuis son retour au royaume. Elle parla de Thalion Wynnelis et des soins qu'il lui avait prodigués, ainsi que de la réaction de son peuple à son retour.
+
+En retour, Lamys partagea quelques anecdotes de ses voyages et de ses quêtes. Il parla de contrées lointaines, de créatures étranges et de mystères anciens qu'il avait rencontrés. Chaque histoire révélait un peu plus de son passé mystérieux, mais toujours avec une certaine réserve.
+
+La matinée passa rapidement, remplie de rires et de conversations profondes. La connexion entre Sélène et Lamys se renforçait, chacun appréciant la compagnie de l'autre.</p>
+	    </div>
+	</div>
+	<div class="event">
+	    <div class="event-content">
+	        <h2>Jour 70, année 3005</h2>
+	        <h3>La visite surprise - Après-midi</h3>
+	        <p>Après le repas, Lamys proposa à Sélène de faire une promenade dans la forêt environnante. Sélène accepta avec enthousiasme, désireuse de passer plus de temps en compagnie de Lamys et de découvrir davantage les environs.
+
+Ils quittèrent la cabane et s'engagèrent sur un sentier qui serpentait à travers les arbres anciens. La lumière de l'après-midi créait des motifs de lumière et d'ombre sur le sol forestier, ajoutant à l'atmosphère magique du lieu. Les oiseaux chantaient et le murmure du vent dans les feuilles ajoutait une mélodie apaisante à leur balade.
+
+Au cours de leur promenade, ils continuèrent à échanger des histoires et des connaissances. Sélène montra à Lamys des plantes médicinales et des herbes rares, expliquant leurs propriétés et leurs usages. Lamys, en retour, parla des techniques de survie qu'il avait apprises et des défis qu'il avait surmontés lors de ses quêtes.
+
+Ils arrivèrent bientôt à une clairière où un petit ruisseau serpentait paisiblement. L'endroit était idyllique, parfait pour une pause. Ils s'assirent près du ruisseau, écoutant le doux clapotis de l'eau.
+
+"Cette forêt est vraiment magnifique," dit Lamys, brisant le silence. "Je comprends pourquoi tu te bats tant pour la protéger."
+
+"Sylvandis est plus qu'une maison pour moi," répondit Sélène. "C'est un lieu de magie et de mystère, et je ferai tout ce qui est en mon pouvoir pour préserver son équilibre."
+
+Lamys hocha la tête, respectant la dévotion de Sélène pour son royaume. "Et moi, je ferai ce que je peux pour t'aider dans cette tâche."
+
+Ils restèrent un moment dans la clairière, profitant de la tranquillité de l'endroit. Le lien entre eux devenait de plus en plus fort, une alliance forgée par le respect mutuel et le désir de protéger la forêt.
+
+Lorsque le soleil commença à décliner, ils retournèrent lentement vers la cabane de Lamys. Sélène savait qu'il était temps pour elle de rentrer à Sylvandis, mais elle se sentait plus connectée que jamais à Lamys.
+
+"Merci pour cette journée, Lamys. C'était merveilleux de passer du temps avec toi," dit-elle en se préparant à partir.
+
+"Le plaisir était partagé, Sélène. Reviens quand tu le souhaites," répondit Lamys avec un sourire dans la voix.
+
+Sélène quitta la demeure de Lamys avec un sentiment de satisfaction et d'anticipation. Leur amitié se renforçait, et elle savait que leur alliance serait bénéfique pour eux deux et pour la protection de Sylvandis. Alors qu'elle rentrait chez elle, elle souriait à l'idée des futures rencontres et des aventures à venir.</p>
+	    </div>
+	</div>
+
 </div>
 </body>
 </html>
