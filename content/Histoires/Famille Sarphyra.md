@@ -296,6 +296,16 @@ Les premiers instants furent marqués par une curiosité réciproque et une timi
 			<p class="author">Yuka</p>
         </div>
     </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 54, année 4311</h2>
+			<h3>Accident marin</h3>
+			<p>Par une fin d'après-midi dorée, alors que le soleil se couchait près de la modeste habitation de la famille Sarphyra, une ambiance paisible baignait les environs. Les derniers rayons du jour dansaient sur la rivière scintillante, créant une scène de sérénité et de beauté naturelle. Zaleria, une fillette espiègle de quatre ans, observait les poissons dans la rivière avec une curiosité sans bornes. Ses parents, Neremyn et Halamar, discutaient tranquillement à proximité, leur amour et leur complicité évidents dans leurs regards échangés et leurs sourires discrets. La quiétude de ce moment fut soudainement interrompue par un poisson espiègle qui sauta hors de l'eau, éclaboussant Zaleria et la faisant sursauter. Déséquilibrée, elle tomba dans l'eau peu profonde, un cri de surprise s'échappant de ses lèvres.
+
+Ce qui suivit fut aussi inattendu qu'hilarant. Dans sa chute, Zaleria attrapa instinctivement un poisson dans sa bouche. Elle resta un instant figée, les yeux écarquillés par l'étonnement. La scène, si cocasse, fit éclater de rire ses parents, qui assistèrent avec amusement à cette mésaventure aquatique. Neremyn et Halamar, toujours attentifs à leur petite fille, la sortirent de l'eau, leurs rires résonnant encore dans l'air du soir. Ils décidèrent de préparer le poisson qu'elle avait capturé avec tant d'ingéniosité accidentelle, en faisant un festin pour la famille. Ce soir-là, autour d'un feu crépitant, ils savourèrent le fruit de cette aventure inattendue, tissant des souvenirs inoubliables et renforçant encore un peu plus les liens qui les unissaient.</p>
+			<p class="author">Yuka</p>
+        </div>
+    </div>
 </div>
 
 </body>
