@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Communautées/Royaumes/Eloria/Eloria.md",
+                "file": "Communautées/Royaumes/Eloria/Eloria.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Races/Humains/Individus/Alistair Ravenswood.md",
+                "file": "Races/Humains/Individus/Alistair Ravenswood.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Communautées/Royaumes/Eloria/Eloria.md",
+                "file": "Communautées/Royaumes/Eloria/Eloria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Communautées/Royaumes/Eloria/Eloria.md",
+                "file": "Communautées/Royaumes/Eloria/Eloria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Communautées/Royaumes/Eloria/Eloria.md"
+                "file": "Communautées/Royaumes/Eloria/Eloria.md"
               }
             }
           }
@@ -158,53 +158,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f03be234dc888ca",
+  "active": "8ad01ad1474fc3a6",
   "lastOpenFiles": [
-    "3. Wiki/Histoires/Famille Sarphyra.md",
-    "3. Wiki/Communautées/Royaumes/Eloria/Eloria.md",
-    "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md",
-    "3. Wiki/Communautées/Royaumes/Eloria",
-    "3. Wiki/Races/Humains/Individus/Alistair Ravenswood.md",
-    "1. Others/Utilities.md",
-    "3. Wiki/Communautées/Royaumes/Méridia/Histoire.md",
-    "1. Others/1.1 Images/PERSONNAGE_humain_AlistairRavenswood.jpg",
+    "Histoires/Famille Sarphyra.md",
+    "Communautées/Royaumes/Eloria/Eloria.md",
+    "Races/Humains/Individus/Lamys of the Forest.md",
+    "Communautées/Royaumes/Eloria",
+    "Races/Humains/Individus/Alistair Ravenswood.md",
+    "Others/Utilities.md",
+    "Communautées/Royaumes/Méridia/Histoire.md",
+    "Others/1.1 Images/PERSONNAGE_humain_AlistairRavenswood.jpg",
     "1. Others/1.1 Images/PERSONNAGE_humain_AlistairRavenswood.jpg.0.pdnSave",
-    "3. Wiki/Communautées/Royaumes/Méridia/Méridia.md",
-    "3. Wiki/Histoires/Sélène et Lamys.md",
-    "3. Wiki/Communautées/Royaumes/Méridia",
-    "3. Wiki/Races/Elfes/Individus/Thalion Wynnelis.md",
-    "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
-    "3. Wiki/Communautées/Sectes/Secte Obscura.md",
-    "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md",
-    "3. Wiki/Encyclopédie/Alchimie/Bible des Alchimistes.md",
-    "3. Wiki/Encyclopédie/Flore/Lumenella.md",
-    "3. Wiki/Encyclopédie/Flore",
-    "3. Wiki/Encyclopédie/Faune/Terragriffes.md",
-    "3. Wiki/Encyclopédie/Faune/Mélorunes.md",
-    "3. Wiki/Encyclopédie/Faune/Lunarètes.md",
-    "3. Wiki/Encyclopédie/Faune",
-    "1. Others/1.1 Images/PLANTE_Lumenella.jpg",
-    "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
-    "3. Wiki/Races/Hybrides/Races/Elfes-Humains/Elfes-Humains.md",
-    "3. Wiki/Races/Hybrides/Races/Elfes-Humains",
-    "3. Wiki/Races/Hybrides/Races",
-    "3. Wiki/Races/Hybrides/Hybrides.md",
-    "3. Wiki/Races/Hybrides",
+    "Communautées/Royaumes/Méridia/Méridia.md",
+    "Histoires/Sélène et Lamys.md",
+    "Communautées/Royaumes/Méridia",
+    "Races/Elfes/Individus/Thalion Wynnelis.md",
+    "Communautées/Royaumes/Sylvandis/Histoire.md",
+    "Communautées/Sectes/Secte Obscura.md",
+    "Communautées/Sectes/Gardiens de l'Aube.md",
+    "Encyclopédie/Alchimie/Bible des Alchimistes.md",
+    "Encyclopédie/Flore/Lumenella.md",
+    "Encyclopédie/Flore",
+    "Encyclopédie/Faune/Terragriffes.md",
+    "Encyclopédie/Faune/Mélorunes.md",
+    "Encyclopédie/Faune/Lunarètes.md",
+    "Encyclopédie/Faune",
+    "Others/1.1 Images/PLANTE_Lumenella.jpg",
+    "Races/Thelvorns (maudits)/Thelvorns (maudits).md",
+    "Races/Hybrides/Races/Elfes-Humains/Elfes-Humains.md",
+    "Races/Hybrides/Races/Elfes-Humains",
+    "Races/Hybrides/Races",
+    "Races/Hybrides/Hybrides.md",
+    "Races/Hybrides",
     "3. Wiki/Encyclopédie/Créatures/Terragriffes.md",
     "3. Wiki/Encyclopédie/Créatures/Mélorunes.md",
     "3. Wiki/Encyclopédie/Créatures/Lunarètes.md",
     "3. Wiki/Encyclopédie/Créatures",
-    "3. Wiki/Encyclopédie/Alchimie",
+    "Encyclopédie/Alchimie",
     "2. époques/2.2 Dieux primordiaux.md",
-    "1. Others/1.1 Images/old/PERSONNAGE_ShiaoYue.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_SeshaiYue.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_NoName.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_nalaaPavis.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_MiaAguereille.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_LucyAstaria.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_LagerthaOsmond.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_KawadaShigeko.jpg",
-    "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
+    "Others/1.1 Images/old/PERSONNAGE_ShiaoYue.jpg",
+    "Others/1.1 Images/old/PERSONNAGE_SeshaiYue.jpg",
+    "Others/1.1 Images/old/PERSONNAGE_NoName.jpg",
+    "Others/1.1 Images/old/PERSONNAGE_nalaaPavis.jpg",
+    "Others/1.1 Images/old/PERSONNAGE_MiaAguereille.jpg",
+    "Others/1.1 Images/old/PERSONNAGE_LucyAstaria.jpg",
+    "Others/1.1 Images/old/PERSONNAGE_LagerthaOsmond.jpg",
+    "Others/1.1 Images/old/PERSONNAGE_KawadaShigeko.jpg",
+    "Races/Thelvorns (maudits)/Individus.md",
     "3. Wiki/Races/Thelvorns/Thelvorns.md"
   ]
 }
