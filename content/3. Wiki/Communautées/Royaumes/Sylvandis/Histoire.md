@@ -77,6 +77,3 @@ Au fil des ans, Sylvandis demeurera un joyau préservé au nord du monde, un té
 
 </body>
 </html>
-
-
-

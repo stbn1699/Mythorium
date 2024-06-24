@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Histoires/Famille Sarphyra.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6ee88ae6a38f8257",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
+                "file": "3. Wiki/Communautées/Royaumes/Méridia/Histoire.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
+                "file": "3. Wiki/Communautées/Royaumes/Méridia/Histoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
+                "file": "3. Wiki/Communautées/Royaumes/Méridia/Histoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md"
+                "file": "3. Wiki/Communautées/Royaumes/Méridia/Histoire.md"
               }
             }
           }
@@ -159,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ee88ae6a38f8257",
+  "active": "a41f2c957b827001",
   "lastOpenFiles": [
+    "3. Wiki/Histoires/Famille Sarphyra.md",
+    "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
+    "3. Wiki/Communautées/Royaumes/Sylvandis/Sylvandis.md",
+    "3. Wiki/Communautées/Royaumes/Méridia/Histoire.md",
+    "3. Wiki/Communautées/Royaumes/Méridia/Méridia.md",
+    "2. époques/2.4 ère actuelle.md",
+    "3. Wiki/Communautées/Royaumes/Méridia",
     "3. Wiki/Histoires/Sélène et Lamys.md",
     "3. Wiki/Encyclopédie/Flore/Lumenella.md",
     "3. Wiki/Encyclopédie/Flore",
@@ -175,9 +169,7 @@
     "3. Wiki/Encyclopédie/Créatures/Mélorunes.md",
     "3. Wiki/Encyclopédie/Créatures/Lunarètes.md",
     "3. Wiki/Encyclopédie/Créatures",
-    "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
     "3. Wiki/Encyclopédie/Alchimie/Bible des Alchimistes.md",
-    "3. Wiki/Histoires/Famille Sarphyra.md",
     "old/Fiore/Mairie/Relations exterieures.md",
     "3. Wiki/Encyclopédie/Alchimie",
     "3. Wiki/Encyclopédie",
@@ -201,11 +193,6 @@
     "1. Others/1.1 Images/old/PERSONNAGE_SeshaiYue.jpg",
     "1. Others/1.1 Images/old/PERSONNAGE_NoName.jpg",
     "1. Others/1.1 Images/old",
-    "1. Others/1.1 Images/Nouveau dossier",
-    "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md",
-    "3. Wiki/Races/Elfes/Individus/Thalion Wynnelis.md",
-    "3. Wiki/Races/Elfes/Individus/Sélène Aragorn.md",
-    "3. Wiki/Races/Elfes/Individus/Neremyn Sarphyra.md",
-    "3. Wiki/Races/Elfes/Individus/Halamar Sarphyra.md"
+    "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md"
   ]
 }
