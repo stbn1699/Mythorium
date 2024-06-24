@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5d6c49d183d9fa95",
+        "id": "116c829ba74ebcea",
         "type": "tabs",
         "children": [
           {
-            "id": "9f03be234dc888ca",
+            "id": "a41f2c957b827001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
+                "file": "3. Wiki/Histoires/Famille Sarphyra.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "763f60e3b0c22a7d",
+            "id": "6ee88ae6a38f8257",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Others/Utilities.md",
+                "file": "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Old",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317.5
   },
   "right": {
     "id": "33182819bea96af5",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
+                "file": "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Histoires/Sélène et Lamys.md",
+                "file": "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -137,16 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Histoires/Sélène et Lamys.md"
+                "file": "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,53 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f03be234dc888ca",
+  "active": "6ee88ae6a38f8257",
   "lastOpenFiles": [
-    "3. Wiki/Histoires/Famille Sarphyra.md",
-    "1. Others/Utilities.md",
     "3. Wiki/Histoires/Sélène et Lamys.md",
-    "3. Wiki/Races/Elfes/Individus/Thalion Wynnelis.md",
-    "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
-    "3. Wiki/Communautées/Sectes/Secte Obscura.md",
-    "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md",
-    "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md",
-    "3. Wiki/Encyclopédie/Alchimie/Bible des Alchimistes.md",
     "3. Wiki/Encyclopédie/Flore/Lumenella.md",
     "3. Wiki/Encyclopédie/Flore",
     "3. Wiki/Encyclopédie/Faune/Terragriffes.md",
     "3. Wiki/Encyclopédie/Faune/Mélorunes.md",
     "3. Wiki/Encyclopédie/Faune/Lunarètes.md",
     "3. Wiki/Encyclopédie/Faune",
+    "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md",
+    "1. Others/Utilities.md",
     "1. Others/1.1 Images/PLANTE_Lumenella.jpg",
-    "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
-    "3. Wiki/Races/Hybrides/Races/Elfes-Humains/Elfes-Humains.md",
-    "3. Wiki/Races/Hybrides/Races/Elfes-Humains",
-    "3. Wiki/Races/Hybrides/Races",
-    "3. Wiki/Races/Hybrides/Hybrides.md",
-    "3. Wiki/Races/Hybrides",
     "3. Wiki/Encyclopédie/Créatures/Terragriffes.md",
     "3. Wiki/Encyclopédie/Créatures/Mélorunes.md",
     "3. Wiki/Encyclopédie/Créatures/Lunarètes.md",
     "3. Wiki/Encyclopédie/Créatures",
+    "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
+    "3. Wiki/Encyclopédie/Alchimie/Bible des Alchimistes.md",
+    "3. Wiki/Histoires/Famille Sarphyra.md",
+    "old/Fiore/Mairie/Relations exterieures.md",
     "3. Wiki/Encyclopédie/Alchimie",
     "3. Wiki/Encyclopédie",
-    "2. époques/2.2 Dieux primordiaux.md",
+    "old/Fiore/Mairie/Recensement.md",
+    "old/Fiore/Mairie/Magasins.md",
+    "3. Wiki/Races/Hybrides/Races/Elfes-Humains/Elfes-Humains.md",
+    "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
+    "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
+    "3. Wiki/Races/Hybrides/Hybrides.md",
+    "3. Wiki/Races/Hybrides/Races",
+    "3. Wiki/Races/Hybrides",
+    "1. Others/1.1 Images/MAP_grandeEpoque_thelvornsCursed.jpg",
+    "1. Others/1.1 Images/MAP_grandeEpoque_thelvornsCursed.jpg.crdownload",
+    "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
+    "1. Others/1.1 Images/old/PERSONNAGE_FreyaFiore.jpg",
+    "1. Others/1.1 Images/old/PERSONNAGE_EmmaWood.jpg",
+    "1. Others/1.1 Images/old/PERSONNAGE_EdgarSchreave.jpg",
+    "1. Others/1.1 Images/old/PERSONNAGE_AvaloneWintchester.jpg",
+    "1. Others/1.1 Images/old/PERSONNAGE_AlanBlueQuiver.jpg",
     "1. Others/1.1 Images/old/PERSONNAGE_ShiaoYue.jpg",
     "1. Others/1.1 Images/old/PERSONNAGE_SeshaiYue.jpg",
     "1. Others/1.1 Images/old/PERSONNAGE_NoName.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_nalaaPavis.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_MiaAguereille.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_LucyAstaria.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_LagerthaOsmond.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_KawadaShigeko.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_KamotoShigeko.jpg",
     "1. Others/1.1 Images/old",
-    "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
-    "1. Others/1.1 Images/PERSONNAGE_thelvonCursed_lyriel.jpg.crdownload",
-    "3. Wiki/Races/Thelvorns/Thelvorns.md",
-    "New/3. Wiki/Créatures - Races/Elfes/Elfes.md",
-    "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
+    "1. Others/1.1 Images/Nouveau dossier",
+    "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md",
+    "3. Wiki/Races/Elfes/Individus/Thalion Wynnelis.md",
+    "3. Wiki/Races/Elfes/Individus/Sélène Aragorn.md",
     "3. Wiki/Races/Elfes/Individus/Neremyn Sarphyra.md",
-    "3. Wiki/Races/Elfes/Individus/Nalaa Pavis.md"
+    "3. Wiki/Races/Elfes/Individus/Halamar Sarphyra.md"
   ]
 }

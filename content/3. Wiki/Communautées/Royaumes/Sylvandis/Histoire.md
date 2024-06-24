@@ -60,7 +60,7 @@ tags:
 <div class="timeline">
     <div class="event">
         <div class="event-content">
-            <h2>entre 3600 et 3800</h2>
+            <h2>entre 1400 et 1800</h2>
 			<h3></h3>
 			<p class="content">Au cœur des terres du nord, là où les tempêtes rugissantes de l'hiver rencontrent la douceur des premiers rayons de soleil printaniers, un groupe de pionniers intrépides a cherché refuge dans une forêt dense et mystique. C'était une époque de tumulte, marquée par des conflits et des migrations, mais au sein de cette tourmente, ces fondateurs avaient une vision commune de paix et de coexistence avec la nature. Ils ont jeté les bases de ce qui allait devenir Sylvandis, un royaume enveloppé dans le mystère de la forêt éternelle.
 
