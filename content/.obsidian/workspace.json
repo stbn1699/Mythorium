@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "116c829ba74ebcea",
+        "id": "5d6c49d183d9fa95",
         "type": "tabs",
         "children": [
           {
-            "id": "a41f2c957b827001",
+            "id": "9f03be234dc888ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Wiki/Communautées/Royaumes/Méridia/Histoire.md",
+                "file": "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "763f60e3b0c22a7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Wiki/Races/Humains/Individus/Alistair Ravenswood.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Old",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 300
   },
   "right": {
     "id": "33182819bea96af5",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Wiki/Communautées/Royaumes/Méridia/Histoire.md",
+                "file": "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Wiki/Communautées/Royaumes/Méridia/Histoire.md",
+                "file": "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +127,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -125,16 +137,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Wiki/Communautées/Royaumes/Méridia/Histoire.md"
+                "file": "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,53 +158,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a41f2c957b827001",
+  "active": "9f03be234dc888ca",
   "lastOpenFiles": [
-    "3. Wiki/Histoires/Famille Sarphyra.md",
-    "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
-    "3. Wiki/Communautées/Royaumes/Sylvandis/Sylvandis.md",
+    "3. Wiki/Races/Humains/Individus/Alistair Ravenswood.md",
+    "1. Others/Utilities.md",
+    "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md",
     "3. Wiki/Communautées/Royaumes/Méridia/Histoire.md",
+    "1. Others/1.1 Images/PERSONNAGE_humain_AlistairRavenswood.jpg",
+    "1. Others/1.1 Images/PERSONNAGE_humain_AlistairRavenswood.jpg.0.pdnSave",
     "3. Wiki/Communautées/Royaumes/Méridia/Méridia.md",
-    "2. époques/2.4 ère actuelle.md",
-    "3. Wiki/Communautées/Royaumes/Méridia",
     "3. Wiki/Histoires/Sélène et Lamys.md",
+    "3. Wiki/Communautées/Royaumes/Méridia",
+    "3. Wiki/Histoires/Famille Sarphyra.md",
+    "3. Wiki/Races/Elfes/Individus/Thalion Wynnelis.md",
+    "3. Wiki/Communautées/Royaumes/Sylvandis/Histoire.md",
+    "3. Wiki/Communautées/Sectes/Secte Obscura.md",
+    "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md",
+    "3. Wiki/Encyclopédie/Alchimie/Bible des Alchimistes.md",
     "3. Wiki/Encyclopédie/Flore/Lumenella.md",
     "3. Wiki/Encyclopédie/Flore",
     "3. Wiki/Encyclopédie/Faune/Terragriffes.md",
     "3. Wiki/Encyclopédie/Faune/Mélorunes.md",
     "3. Wiki/Encyclopédie/Faune/Lunarètes.md",
     "3. Wiki/Encyclopédie/Faune",
-    "3. Wiki/Communautées/Sectes/Gardiens de l'Aube.md",
-    "1. Others/Utilities.md",
     "1. Others/1.1 Images/PLANTE_Lumenella.jpg",
+    "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
+    "3. Wiki/Races/Hybrides/Races/Elfes-Humains/Elfes-Humains.md",
+    "3. Wiki/Races/Hybrides/Races/Elfes-Humains",
+    "3. Wiki/Races/Hybrides/Races",
+    "3. Wiki/Races/Hybrides/Hybrides.md",
+    "3. Wiki/Races/Hybrides",
     "3. Wiki/Encyclopédie/Créatures/Terragriffes.md",
     "3. Wiki/Encyclopédie/Créatures/Mélorunes.md",
     "3. Wiki/Encyclopédie/Créatures/Lunarètes.md",
     "3. Wiki/Encyclopédie/Créatures",
-    "3. Wiki/Encyclopédie/Alchimie/Bible des Alchimistes.md",
-    "old/Fiore/Mairie/Relations exterieures.md",
     "3. Wiki/Encyclopédie/Alchimie",
     "3. Wiki/Encyclopédie",
-    "old/Fiore/Mairie/Recensement.md",
-    "old/Fiore/Mairie/Magasins.md",
-    "3. Wiki/Races/Hybrides/Races/Elfes-Humains/Elfes-Humains.md",
-    "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
-    "3. Wiki/Races/Thelvorns (maudits)/Thelvorns (maudits).md",
-    "3. Wiki/Races/Hybrides/Hybrides.md",
-    "3. Wiki/Races/Hybrides/Races",
-    "3. Wiki/Races/Hybrides",
-    "1. Others/1.1 Images/MAP_grandeEpoque_thelvornsCursed.jpg",
-    "1. Others/1.1 Images/MAP_grandeEpoque_thelvornsCursed.jpg.crdownload",
-    "3. Wiki/Races/Elfes/Individus/Zaleria Sarphyra.md",
-    "1. Others/1.1 Images/old/PERSONNAGE_FreyaFiore.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_EmmaWood.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_EdgarSchreave.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_AvaloneWintchester.jpg",
-    "1. Others/1.1 Images/old/PERSONNAGE_AlanBlueQuiver.jpg",
+    "2. époques/2.2 Dieux primordiaux.md",
     "1. Others/1.1 Images/old/PERSONNAGE_ShiaoYue.jpg",
     "1. Others/1.1 Images/old/PERSONNAGE_SeshaiYue.jpg",
     "1. Others/1.1 Images/old/PERSONNAGE_NoName.jpg",
-    "1. Others/1.1 Images/old",
-    "3. Wiki/Races/Humains/Individus/Lamys of the Forest.md"
+    "1. Others/1.1 Images/old/PERSONNAGE_nalaaPavis.jpg",
+    "1. Others/1.1 Images/old/PERSONNAGE_MiaAguereille.jpg",
+    "1. Others/1.1 Images/old/PERSONNAGE_LucyAstaria.jpg",
+    "1. Others/1.1 Images/old/PERSONNAGE_LagerthaOsmond.jpg",
+    "1. Others/1.1 Images/old/PERSONNAGE_KawadaShigeko.jpg",
+    "3. Wiki/Races/Thelvorns (maudits)/Individus.md",
+    "3. Wiki/Races/Thelvorns/Thelvorns.md",
+    "New/3. Wiki/Créatures - Races/Elfes/Elfes.md"
   ]
 }
