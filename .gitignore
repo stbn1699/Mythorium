@@ -2,4 +2,6 @@
 /public
 .idea
 content.zip
+content/.obsidian/themes
+content/.obsidian/appearance.json
 content/.obsidian/workspace.json
