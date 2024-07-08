@@ -120,6 +120,20 @@ cette histoire raconte la relation entre [[Neremyn Sarphyra]] et [[Halamar Sarph
     </div>
     <div class="event">
         <div class="event-content">
+            <h2>année 4300</h2>
+			<h3>La Dévotion de Neremyn</h3>
+			<p>À l'âge de vingt ans, Halamar, le fier et intrépide elfe, fut frappé par une maladie elfique très rare. Bien que cette affliction ne fût pas dangereuse pour lui, elle inquiéta profondément sa sœur, Neremyn. Elle, dont le cœur débordait d'amour et de tendresse pour son frère, décida de rester à son chevet tout au long de cette épreuve.
+
+Neremyn, malgré sa peur palpable, fit preuve d'une incroyable résilience. Elle choisit de rester positive, transformant chaque instant en une occasion de réconfort et de gaieté. Halamar ne connut jamais un moment d'ennui sous la garde vigilante de sa sœur. Elle préparait des repas délicieux qu'elle lui apportait au lit, avec toujours une plaisanterie à la clé pour alléger l'atmosphère. Les journées étaient remplies de rires et de jeux simples, des moments de complicité qui renforçaient leur lien fraternel.
+
+Pour Halamar, voir Neremyn rester fidèle à elle-même, joyeuse et dynamique même en ces temps difficiles, était un véritable baume au cœur. Sa présence constante et son dévouement sans faille le rassurèrent et l'aidèrent à traverser cette épreuve avec sérénité. Il lui était immensément reconnaissant, admirant la force et la lumière qui émanaient d'elle, transformant des jours sombres en instants de bonheur partagé.
+
+Ainsi, cette période de convalescence devint un chapitre précieux dans leur vie, un témoignage de l'amour fraternel et de la résilience face à l'adversité. Halamar n'oubliera jamais la dévotion de sa sœur, et Neremyn, elle, conserva la satisfaction d'avoir pu être une source de réconfort et de joie pour son frère bien-aimé.</p>
+			<p class="author">Yuka</p>
+        </div>
+    </div>
+    <div class="event">
+        <div class="event-content">
             <h2>jour 102, année 4301</h2>
 			<h3>Révélation des sentiments</h3>
 			<p>Lorsque Neremyn atteignit l'âge de 17 ans et Halamar 21 ans, une confession bouleversante eut lieu entre les deux frères et sœurs. Neremyn, dans un moment de courage et de vulnérabilité, avoua à Halamar les sentiments qu'elle éprouvait pour lui, des sentiments bien au-delà de ceux d'une simple fraternité. Ce qui aurait pu être un moment de confusion et de malaise se transforma en une conversation sincère et révélatrice. Halamar, de son côté, admit qu'il partageait depuis longtemps ces sentiments, bien qu'il n'ait jamais osé les exprimer à sa sœur. Ce moment de vérité renforça encore plus leur lien, scellant un amour qui allait bien au-delà des liens du sang.</p>
