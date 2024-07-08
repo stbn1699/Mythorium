@@ -368,6 +368,18 @@ Des années plus tard, cette plante demeure un symbole vivant de l'amour et de l
 	        <p class="author">Yuka</p>
 	    </div>
 	</div>
+	<div class="event">
+	    <div class="event-content">
+	        <h2>année 4310</h2>
+	        <h3>Les Échappées Nocturnes de Starla</h3>
+	        <p>Tandis que le soleil se couchait sur la maison de Halamar et Neremyn après une journée particulièrement chaude, Starla profita de la fraîcheur de la nuit pour sortir et aller boire de l'eau dans la rivière à côté de la maison. En levant la tête, elle aperçut un mâle de la même espèce qu'elle, en train de boire dans la même rivière. Sur le coup, elle sursauta et fit de petits bruits pour essayer d'effrayer le mâle, qui était légèrement plus gros qu'elle.
+        
+Le mâle, loin d'être intimidé, répondit en faisant une petite danse pour essayer d'impressionner Starla et la séduire. Après plusieurs tentatives rejetées par celle-ci, Starla finit par tomber sous son charme et l'accepter. Depuis ce jour, Starla devenait impatiente que la nuit tombe pour rejoindre en cachette son amoureux, sans que Halamar, Neremyn et Zaleria ne soient au courant.
+
+Cependant, Zaleria, qui avait le sommeil léger, savait très bien ce qui se passait. Les escapades nocturnes de Starla la réveillaient chaque nuit. Curieuse et amusée par le secret de Starla, Zaleria finit par en parler à ses parents. Halamar et Neremyn, surpris mais compréhensifs, furent alors au courant des aventures nocturnes de leur chère Starla.</p>
+	        <p class="author">Yuka</p>
+	    </div>
+	</div>
     <div class="event">
         <div class="event-content">
             <h2>jour 54, année 4311</h2>
