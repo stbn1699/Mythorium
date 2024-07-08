@@ -235,7 +235,7 @@ La décision fut prise ce soir-là, au coin du feu. Ils savaient que ce lieu, av
     <div class="event">
         <div class="event-content">
             <h2>jour 131, année 4306 -> jour 223, année 4306</h2>
-			<h3>Recherche de remède</h3>
+			<h3>Construction</h3>
 			<p>Halamar et Neremyn décidèrent de construire leur nouvelle maison presque à l'emplacement exact de leur tente, estimant que cet endroit offrait une protection naturelle contre les éléments et une proximité avec la rivière. Le premier matin des travaux, ils se levèrent à l'aube, animés par l'enthousiasme de ce nouveau projet.
 
 Avant de commencer la construction de leur maison, ils entreprirent de bâtir un petit abri temporaire. Cet abri servirait à entreposer le contenu de leur tente ainsi que leur lit, leur permettant de continuer à vivre confortablement pendant les travaux. Ils choisirent un coin légèrement ombragé à proximité immédiate et commencèrent à assembler une structure simple mais solide, utilisant des branches épaisses et des morceaux de toile pour créer un toit étanche. Une fois cette tâche accomplie, ils transférèrent soigneusement leurs affaires, veillant à protéger leurs possessions des intempéries.
@@ -324,6 +324,17 @@ Les premiers instants furent marqués par une curiosité réciproque et une timi
 			<p class="author">Yuka</p>
         </div>
     </div>
+    <div class="event">
+	    <div class="event-content">
+	        <h2>année 4309</h2>
+	        <h3>L'Incident de la Colle</h3>
+	        <p>Zaleria, qui avait deux ans, avait pour mauvaise habitude de toucher à tout. Un jour, elle trouva le pot de colle que Halamar avait pourtant très bien caché. Curieuse et sans se douter du désastre à venir, elle plongea ses petites mains dans la colle et en étala partout sur elle-même et dans la pièce.
+        
+Lorsque Halamar entendit les pleurs de Zaleria, il accourut rapidement. À sa grande surprise, il ne s'inquiéta pas des meubles ou de la maison désormais tachés de colle, mais de la santé de la petite. Zaleria, dans sa maladresse, s'était collé les mains sur une table. Sans perdre une seconde, Halamar prit Zaleria et la table entière pour les emmener d'urgence au village natal afin de la faire soigner et de la décoller.</p>
+	        <p class="author">Yuka</p>
+	    </div>
+	</div>
+
     <div class="event">
         <div class="event-content">
             <h2>jour 54, année 4311</h2>
