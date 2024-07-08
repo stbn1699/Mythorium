@@ -334,7 +334,16 @@ Lorsque Halamar entendit les pleurs de Zaleria, il accourut rapidement. À sa gr
 	        <p class="author">Yuka</p>
 	    </div>
 	</div>
+	<div class="event">
+	    <div class="event-content">
+	        <h2>année 4310</h2>
+	        <h3>La Plante Précieuse de Halamar</h3>
+	        <p>Quand Halamar avait 13 ans, il reçut un cadeau inestimable de sa sœur Neremyn : une plante magnifique qu'elle avait cueillie avec amour. Halamar s'attacha immédiatement à cette plante, la chérissant et la soignant avec une dévotion presque obsessionnelle. Chaque jour, il veillait à ce qu'elle reçoive la lumière, l'eau et les soins nécessaires, comme si sa propre vitalité en dépendait.
 
+Des années plus tard, cette plante demeure un symbole vivant de l'amour et de l'attention minutieuse de Halamar. Il continue de la soigner avec la même tendresse et la même attention qu'à l'époque, prouvant que certaines attaches, comme celles du cœur, ne fanent jamais.</p>
+	        <p class="author">Yuka</p>
+	    </div>
+	</div>
     <div class="event">
         <div class="event-content">
             <h2>jour 54, année 4311</h2>
