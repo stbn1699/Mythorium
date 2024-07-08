@@ -133,6 +133,20 @@ Ainsi, cette période de convalescence devint un chapitre précieux dans leur vi
         </div>
     </div>
     <div class="event">
+	    <div class="event-content">
+	        <h2>année 4293</h2>
+	        <h3>Le Jeu de Cache-Cache dans les Bois</h3>
+	        <p>Quand Neremyn avait 13 ans et Halamar 15 ans, ils décidèrent de jouer à cache-cache dans les bois mystérieux entourant leur village. Tandis que Halamar comptait patiemment jusqu'à cent, Neremyn s'élança à toute vitesse, ses pieds légers volant presque au-dessus des feuilles mortes et des brindilles. Elle se glissa derrière un grand chêne, se cachant habilement parmi les ombres dansantes des arbres.
+
+Le temps passa, et bientôt une heure s'était écoulée. Halamar, d'abord confiant, commença à sentir l'inquiétude le gagner. Les bois, si familiers et accueillants, prenaient maintenant une tournure inquiétante. Son cœur battait plus fort à chaque appel sans réponse. L'inquiétude se transforma en peur lorsque la lumière du jour commença à faiblir.
+
+Juste au moment où Halamar pensait devoir retourner chercher de l'aide, Neremyn émergea d'elle-même de sa cachette, un sourire innocent sur les lèvres. Elle riait, ignorant l'angoisse de son frère. Halamar, soulagé mais encore tremblant, la prit par les épaules et lui interdit formellement de recommencer ce genre de jeu dangereux.
+
+Cette aventure, bien que troublante, renforça leur lien. Halamar apprit ce jour-là à quel point il tenait à sa sœur, et Neremyn comprit l'importance de la prudence. Ils se firent la promesse de toujours veiller l'un sur l'autre, quoi qu'il arrive.</p>
+	        <p class="author">Yuka</p>
+	    </div>
+	</div>
+    <div class="event">
         <div class="event-content">
             <h2>jour 102, année 4301</h2>
 			<h3>Révélation des sentiments</h3>
