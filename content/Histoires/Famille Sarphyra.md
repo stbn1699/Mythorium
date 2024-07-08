@@ -326,6 +326,18 @@ Les premiers instants furent marqués par une curiosité réciproque et une timi
     </div>
     <div class="event">
 	    <div class="event-content">
+	        <h2>année 4307</h2>
+	        <h3>Les Bulles de Zaleria</h3>
+	        <p>Quand Zaleria était bébé, elle avait pris l'habitude de faire des bulles avec sa bave et son nez. Cette habitude rendait Neremyn complètement folle ; elle ne supportait pas de voir cela et en était totalement dégoûtée. Chaque fois que Zaleria s'amusait à produire ces bulles, Neremyn exprimait son dégoût avec des grimaces et des soupirs exaspérés, se demandant comment une si petite créature pouvait être aussi désordonnée.
+        
+Halamar, quant à lui, trouvait la situation extrêmement divertissante. Il prenait un plaisir malin à voir Neremyn se mettre dans un tel état pour quelque chose d'aussi insignifiant. Parfois, il allait même jusqu'à encourager Zaleria à faire des bulles, simplement pour voir la réaction outrée de leur sœur aînée. Le contraste entre la joie innocente de Zaleria et le dégoût exagéré de Neremyn le faisait toujours rire.
+        
+Ce petit jeu devint une source de divertissement pour Halamar. Il adorait voir la tête dégoûtée de Neremyn, qu'il trouvait adorablement comique. Ces moments de légèreté apportaient une touche de rires et de complicité dans leur quotidien, forgeant des souvenirs amusants qu'ils chériraient longtemps.</p>
+	        <p class="author">Yuka</p>
+	    </div>
+	</div>
+    <div class="event">
+	    <div class="event-content">
 	        <h2>année 4309</h2>
 	        <h3>L'Incident de la Colle</h3>
 	        <p>Zaleria, qui avait deux ans, avait pour mauvaise habitude de toucher à tout. Un jour, elle trouva le pot de colle que Halamar avait pourtant très bien caché. Curieuse et sans se douter du désastre à venir, elle plongea ses petites mains dans la colle et en étala partout sur elle-même et dans la pièce.
