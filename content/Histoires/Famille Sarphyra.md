@@ -146,6 +146,18 @@ Cette aventure, bien que troublante, renforça leur lien. Halamar apprit ce jour
 	        <p class="author">Yuka</p>
 	    </div>
 	</div>
+	<div class="event">
+	    <div class="event-content">
+	        <h2>année 4296</h2>
+	        <h3>Les Étoiles Filantes</h3>
+	        <p>Un jour de pluie où Neremyn et Halamar devaient rester à l'intérieur, Neremyn, âgée de 13 ans, était plongée dans la lecture d'un livre fascinant qui parlait des étoiles filantes. Curieuse, elle demanda à Halamar pourquoi elle n'en avait jamais vu. Halamar lui répondit avec douceur que ces phénomènes étaient très rares et spéciaux.
+        
+Neremyn, toujours avide de connaissances, lui demanda alors s'il en avait déjà vu. Halamar, avec un petit sourire en coin, lui raconta qu'au jour de sa naissance, il y avait eu un événement exceptionnel. Ce jour-là, un rare phénomène astronomique s'était produit : une pluie d'étoiles filantes avait illuminé le ciel, des centaines de traînées lumineuses tombant simultanément, rendant la nuit aussi brillante que le jour.
+        
+Fascinée par cette révélation, Neremyn écoutait attentivement, ses yeux s'illuminant d'émerveillement. Halamar poursuivit en disant que cet événement était considéré comme un signe de bonne fortune et de bénédiction, rendant sa naissance encore plus spéciale. Ce souvenir précieux, partagé en ce jour pluvieux, renforça leur lien, apportant une touche de magie à leur quotidien.</p>
+	        <p class="author">Yuka</p>
+	    </div>
+	</div>
     <div class="event">
         <div class="event-content">
             <h2>jour 102, année 4301</h2>
