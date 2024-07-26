@@ -22,6 +22,6 @@
 - **Reine Lyrindra Thaloril** : Réputée pour sa beauté et sa sagesse, mais aussi pour son aveuglement face à la misère des artisans.
 - **Roi Faelar Thaloril** : Un souverain juste en apparence, mais souvent influencé par les intérêts des nobles et des entrepreneurs.
 - **Lyara Thaloril** : Sœur aînée d'Eryndor, destinée à hériter du trône, connue pour son dévouement aux coutumes et sa volonté de maintenir le statu quo.
-- **Eryndor Thaloril** : Fils de la famille royale, ayant renoncé à sa vie de noble pour partir à l'aventure, en quête d'une existence plus authentique et libre.
+- [[Eryndor Thaloril]] : Fils de la famille royale, ayant renoncé à sa vie de noble pour partir à l'aventure, en quête d'une existence plus authentique et libre.
 
 L'Empire d'Ovrusea incarne un royaume de contrastes, où la beauté et la magie de la capitale dissimulent une réalité dure et inégalitaire. Les disparités économiques poussent des individus comme Eryndor à fuir la vie opulente de la noblesse pour chercher une existence plus authentique et équitable.
