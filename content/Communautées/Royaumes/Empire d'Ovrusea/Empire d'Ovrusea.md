@@ -14,7 +14,7 @@
 
 **Lieux Remarquables** :
 - [[La Tour de l'étoile]] : Une imposante tour au cœur de Veridell, siège du pouvoir royal et centre de la magie.
-- [[Les Jardins Éthérés]]Les Jardins Éthérés : Un chef-d'œuvre de l'architecture, ces jardins luxuriants sont le symbole de la richesse de la capitale.
+- [[Les Jardins Éthérés]] : Un chef-d'œuvre de l'architecture, ces jardins luxuriants sont le symbole de la richesse de la capitale.
 - [[La Forêt d'Ithilion]] : Une forêt ancienne et sacrée, abritant des créatures mythiques et des secrets ancestraux.
 - [[Les Quartiers Artisans]] : En dehors de Veridell, ces quartiers sont marqués par la pauvreté, contrastant violemment avec l'opulence de la capitale.
 
