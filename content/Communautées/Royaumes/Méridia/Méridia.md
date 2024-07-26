@@ -4,15 +4,15 @@ Au cœur des mers scintillantes de l'Archipel d'Émeraude, se trouve le charmant
 
 Méridia est constitué de cinq îles principales, chacune ayant sa propre personnalité et ses propres merveilles à offrir :
 
-1. **Ile de Solara** : La plus grande et la plus habitée, connue pour ses plages dorées et ses falaises escarpées où les fleurs sauvages fleurissent abondamment. Les villages ici sont construits en pierre blanche, ornés de vignes et de bougainvilliers.
+1. [[Ile de Solara]] : La plus grande et la plus habitée, connue pour ses plages dorées et ses falaises escarpées où les fleurs sauvages fleurissent abondamment. Les villages ici sont construits en pierre blanche, ornés de vignes et de bougainvilliers.
 
-2. **Ile de Luminis** : Réputée pour ses forêts luxuriantes et ses rivières cristallines. C'est un lieu de sérénité, parfait pour les voyageurs en quête de paix et de connexion avec la nature. Les habitants vivent dans des maisons en bois, cachées parmi les arbres.
+2. [[Ile de Luminis]] : Réputée pour ses forêts luxuriantes et ses rivières cristallines. C'est un lieu de sérénité, parfait pour les voyageurs en quête de paix et de connexion avec la nature. Les habitants vivent dans des maisons en bois, cachées parmi les arbres.
 
-3. **Ile de Marelys** : Un joyau culturel, où l'art et la musique sont à l'honneur. Les marchés sont remplis de peintures, de sculptures et de mélodies envoûtantes. Les ruelles pavées et les places animées invitent à la flânerie et à la découverte.
+3. [[Ile de Marelys]] : Un joyau culturel, où l'art et la musique sont à l'honneur. Les marchés sont remplis de peintures, de sculptures et de mélodies envoûtantes. Les ruelles pavées et les places animées invitent à la flânerie et à la découverte.
 
-4. **Ile de Nautilia** : Connue pour ses ports pittoresques et ses traditions maritimes. Les pêcheurs y sont des conteurs talentueux, partageant des légendes de la mer autour de feux de camp sur la plage. Les bateaux colorés animent les eaux turquoise.
+4. [[Ile de Nautilia]] : Connue pour ses ports pittoresques et ses traditions maritimes. Les pêcheurs y sont des conteurs talentueux, partageant des légendes de la mer autour de feux de camp sur la plage. Les bateaux colorés animent les eaux turquoise.
 
-5. **Ile de Ventara** : Dominée par des collines douces et des prairies fleuries, elle est idéale pour les randonnées et les pique-niques. Les vents marins y apportent une fraîcheur bienvenue et les couchers de soleil y sont spectaculaires.
+5. [[Ile de Ventara]] : Dominée par des collines douces et des prairies fleuries, elle est idéale pour les randonnées et les pique-niques. Les vents marins y apportent une fraîcheur bienvenue et les couchers de soleil y sont spectaculaires.
 
 ### La vie quotidienne
 
