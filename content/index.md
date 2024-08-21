@@ -1,4 +1,4 @@
-## À propos
+## Introduction
 
 Bienvenue dans l'univers de Mythorium, un monde en constante expansion, rempli de royaumes mystérieux, de personnages intrigants et d'aventures palpitantes. Ce wiki est dédié à la création et à l'exploration de cet univers en perpétuelle évolution.
 
