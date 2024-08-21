@@ -123,6 +123,17 @@ La deuxième porte, par contre, c'était une autre histoire. Pas de serrure, jus
 Voilà pour aujourd'hui. J'ai l'impression que cet endroit commence vraiment à devenir un refuge. C'est loin d'être parfait, mais c'est un début. Je vais continuer d'explorer, de m'installer et de découvrir ce que ces murs ont à m'offrir.</p>
         </div>
     </div>
+    <div class="event"> 
+		<div class="event-content">
+			 <h2>Entrée N°4</h2> 
+			 <h3>jour 4 - matin (très tôt)</h3> 
+			 <p class="content">Pas beaucoup à dire ce matin. Je n'ai pas fermé l'œil de la nuit. L'excitation, je suppose… Trop de choses à penser. Du coup, j'en ai profité pour réfléchir un peu à ce que je vais faire de cet endroit.
+
+J'ai un plan d'action maintenant. D'abord, il faut que j'aménage cette pièce. J'ai décidé d'y mettre un lit, une armoire, et surtout un bureau avec une chaise. Ce sera pas du luxe. Je me dis que si je m'y mets sérieusement, ça devrait avancer assez vite, mais j'ai aucune idée de combien de temps ça va vraiment me prendre. En tout cas, le plus urgent, c'est un lit et un bureau. Coucher sur du bois plutôt que sur la pierre, ça serait déjà une grosse amélioration.
+
+Je vais sortir aujourd'hui pour trouver du bois. J'espère en ramener assez pour tout ce que j'ai en tête. Mes outils sont prêts, il ne reste plus qu'à me lancer.</p>
+		</div>
+	</div>
 </div>
 
 </body>
