@@ -1,3 +1,10 @@
+---
+draft: false
+tags:
+- Royaume
+- Communauté
+---
+
 **Nom du Royaume** : Empire d'Ovrusea
 
 **Capitale** : Veridell

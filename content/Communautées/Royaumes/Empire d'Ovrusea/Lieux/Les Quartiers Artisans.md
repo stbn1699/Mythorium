@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+- lieu_ovrusea
+---
 
 ![[LIEU_ovrusea_quartiersArtisans.png]]
 

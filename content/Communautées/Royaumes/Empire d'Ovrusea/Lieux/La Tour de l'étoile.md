@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+- lieu_ovrusea
+---
+
 ![[LIEU_ovrusea_tourDeLEtoile.png]]
 
 ## Ambiance Générale
