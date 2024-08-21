@@ -134,6 +134,17 @@ J'ai un plan d'action maintenant. D'abord, il faut que j'aménage cette pièce. 
 Je vais sortir aujourd'hui pour trouver du bois. J'espère en ramener assez pour tout ce que j'ai en tête. Mes outils sont prêts, il ne reste plus qu'à me lancer.</p>
 		</div>
 	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>Entrée N°5</h2> 
+			 <h3>jour 4 - soir</h3> 
+			 <p class="content">Me voilà enfin installé, assis sur une vraie chaise, à un vrai bureau. C'est loin d'être parfait, mais c'est déjà un sacré progrès. J'ai réussi à terminer le lit aussi. Les pieds sont un peu bancals, et tout n'est pas bien droit, mais bon… ça tient, c'est déjà ça. J'ai tout assemblé avec de la corde, faute de clous, et ça a pris un peu plus de temps, mais au moins, ça devrait tenir. Je me dis que je pourrais toujours faire des améliorations plus tard, mais pour l'instant, c'est utilisable, et c'est tout ce qui compte.
+
+J'espère que je vais bien dormir cette nuit. Après cette journée à scier, tailler, et nouer tout ce bois, j'en ai bien besoin. Le lit a l'air plus confortable que la pierre froide du sol, ça c'est sûr.
+
+Demain, il faudra que je sorte pour chasser et cueillir de quoi manger. Si je n'ai pas assez de place sur les étagères encore debout dans le garde-manger, j'utiliserai le bois qu'il me reste pour en réparer quelques-unes. J'aimerais bien avoir tout ça en ordre avant que les choses ne deviennent vraiment compliquées.</p>
+		</div>
+	</div>
 </div>
 
 </body>
