@@ -108,6 +108,21 @@ Demain, je serai mieux préparé pour affronter ces nouvelles découvertes. Ce s
 Ainsi se termine cette entrée. La fatigue me gagne, mais l'excitation de ce que je pourrais découvrir demain me maintient éveillé encore un moment. Que ces pages soient le reflet de mes efforts et de mes découvertes à venir.</p>
         </div>
     </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>Entrée N°3</h2>
+			<h3>jour 3 - soir</h3>
+			<p class="content">Bon, j'écris enfin. Hier, impossible de prendre le temps de poser le moindre mot sur ce carnet. J'étais complètement absorbé par l'aménagement de cet endroit. Je pensais que ce serait rapide, mais non… Entre les inscriptions étranges sur les murs et l'exploration des pièces cachées, j'ai eu de quoi faire.
+
+D'abord, j'ai trouvé ces inscriptions dans une langue qui m'est totalement inconnue. Elles sont gravées directement dans la pierre, juste à côté de la première porte. Je n'ai aucune idée de ce qu'elles signifient, mais elles donnent une sacrée atmosphère au lieu. Je me demande si elles racontent une histoire ou si elles cachent quelque chose d'autre. En tout cas, c'est intrigant, et je me dis qu'il faudra que je creuse ça plus tard… enfin, si j'arrive à décrypter ce charabia.
+
+Ensuite, parlons de cette première porte. Je pensais tomber sur une simple pièce, mais c'est bien plus que ça. Une sorte d'espace plus intime, un peu à l'écart, comme une petite alcôve. Je réfléchis encore à quoi en faire. Peut-être une chambre ? Ou un coin pour écrire ce journal ? L'idée d'en faire un bureau me plaît bien aussi, mais pour l'instant, je n'ai pas encore tranché. Ce qui est sûr, c'est que j'en ai marre d'écrire par terre comme un mendiant. Ce n'est vraiment pas pratique. Si je peux me débrouiller, je compte bien installer un vrai bureau ici, quelque chose de solide où je pourrais m'asseoir confortablement et coucher mes pensées sur le papier.
+
+La deuxième porte, par contre, c'était une autre histoire. Pas de serrure, juste une entrée béante vers… eh bien, une sorte de garde-manger. La pièce n'est pas très grande, mais elle est pleine d'étagères taillées directement dans la roche. Le problème, c'est que certaines sont effondrées, comme si le temps avait eu raison d'elles. Je vais devoir bricoler un peu pour réparer ça. Du bois ferait l'affaire, je pense. Ça ne sera pas parfait, mais au moins je pourrais y ranger mes provisions sans risquer qu'elles s'écrasent par terre.
+
+Voilà pour aujourd'hui. J'ai l'impression que cet endroit commence vraiment à devenir un refuge. C'est loin d'être parfait, mais c'est un début. Je vais continuer d'explorer, de m'installer et de découvrir ce que ces murs ont à m'offrir.</p>
+        </div>
+    </div>
 </div>
 
 </body>
