@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+- Royaume
+---
+
 Dans les vastes contrées du Mythorium, se trouve un royaume discret et enchanteur nommé **Valoria**. Ce royaume, bien que petit, est riche en histoire et en culture. Au cœur de Valoria repose sa seule et unique ville éponyme, une perle cachée parmi les forêts denses et les collines verdoyantes.
 
 ### Valoria, le Royaume Oublié

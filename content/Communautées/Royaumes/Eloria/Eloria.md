@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+- Royaume
+---
+
 Au cœur des vastes plaines verdoyantes de Mythorium se trouve le petit royaume enchanteur d'Eloria. Ce royaume, bien que modeste en taille, est un véritable bijou perdu dans l'immensité des prairies ondulantes. Eloria est une terre de légendes et de mystères, où chaque brise murmure les histoires d'un passé révolu et chaque colline cache des secrets oubliés.
 
 La seule et unique ville d'Eloria, portant le même nom que le royaume, est nichée au centre de cette vaste mer de verdure. Eloria est une cité pittoresque, entourée de remparts en pierre blanche ornés de lierre grimpant. Ses rues pavées serpentent entre de charmantes maisons à colombages, aux toits de chaume et aux fenêtres fleuries. Les habitants d'Eloria sont des gens simples et accueillants, vivant en harmonie avec la nature et honorant les anciennes traditions.

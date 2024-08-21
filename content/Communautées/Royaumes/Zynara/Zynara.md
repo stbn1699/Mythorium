@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+- Royaume
+---
+
 Dans les vastes contrées du Mythorium, se trouve un royaume discret et enchanteur nommé **Zynara**. Ce royaume, bien que petit, est riche en histoire et en culture. Au cœur de Zynara repose sa seule et unique ville éponyme, une perle nichée parmi les prairies vallonnées et les champs dorés.
 
 ### Zynara, le Royaume Tranquille

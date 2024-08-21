@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+- Royaume
+---
+
 Au cœur des mers scintillantes de l'Archipel d'Émeraude, se trouve le charmant royaume maritime de Méridia. C'est un territoire où le soleil semble toujours briller et où les vagues dansent éternellement dans une douce symphonie. Méridia n'est pas grand, mais il est riche en beauté naturelle et en hospitalité chaleureuse.
 
 ### Géographie
