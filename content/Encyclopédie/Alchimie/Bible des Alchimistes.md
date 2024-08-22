@@ -145,6 +145,19 @@ J'espère que je vais bien dormir cette nuit. Après cette journée à scier, ta
 Demain, il faudra que je sorte pour chasser et cueillir de quoi manger. Si je n'ai pas assez de place sur les étagères encore debout dans le garde-manger, j'utiliserai le bois qu'il me reste pour en réparer quelques-unes. J'aimerais bien avoir tout ça en ordre avant que les choses ne deviennent vraiment compliquées.</p>
 		</div>
 	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>Entrée N°6</h2> 
+			 <h3>jour 5 - soir</h3> 
+			 <p class="content">Aujourd'hui, c'était une bonne journée. J'ai réussi à chasser quelques petits gibiers, juste de quoi me nourrir pour les jours à venir. En explorant un peu plus loin, je suis tombé sur une clairière magnifique, baignée de soleil, avec plein de baies sauvages. J'en ai rempli mon sac autant que possible. En voyant cet endroit, j'ai commencé à réfléchir à l'idée d'y installer un potager. La terre y semble fertile, et ça serait bien d'avoir des légumes frais à portée de main. Ça me trotte dans la tête, mais il faudra d'abord que je termine d'aménager ici.
+
+De retour à mon refuge, j'ai passé un bon moment à réparer les étagères dans le garde-manger. Avec les nouvelles planches que j'ai installées, j'ai maintenant pas mal de place pour stocker tout ce que je ramasse. C'est un soulagement de voir les choses prendre forme petit à petit.
+
+En fin de journée, j'ai aussi rassemblé quelques bouts de parchemin et du charbon, de quoi commencer à tracer une carte de la région. Ça pourrait m'être utile pour ne pas me perdre et pour noter les endroits intéressants comme cette clairière. C'est un projet pour les jours à venir, mais c'est rassurant de savoir que j'ai tout ce qu'il faut pour commencer.
+
+Je vais dormir tranquille ce soir, avec l'impression d'avoir bien avancé.</p>
+		</div>
+	</div>
 </div>
 
 </body>
