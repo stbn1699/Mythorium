@@ -158,6 +158,19 @@ En fin de journée, j'ai aussi rassemblé quelques bouts de parchemin et du char
 Je vais dormir tranquille ce soir, avec l'impression d'avoir bien avancé.</p>
 		</div>
 	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>Entrée N°7</h2> 
+			 <h3>jour 8 - soir</h3> 
+			 <p class="content">Quelques jours ont passé, et ça commence vraiment à ressembler à quelque chose ici. Ma chambre est presque terminée. J'ai ajouté quelques touches personnelles, et même si tout n'est pas encore parfait, je m'y sens bien. Le garde-manger est aussi en bon état maintenant, avec assez de place pour tout ce que je ramène de mes expéditions.
+
+Mais ce qui m'excite le plus, c'est que je viens de commencer à m'attaquer à l'installation de mon laboratoire. C'est pour ça que j'ai quitté mon royaume, c'est la raison pour laquelle je suis venu ici. L'idée d'avoir enfin un endroit à moi, où je pourrai expérimenter en paix, ça me fait presque trembler d'impatience.
+
+J'ai déjà tout le plan en tête. Chaque étagère, chaque outil, chaque espace pour les différents matériaux… Je sais exactement comment je veux que ça soit, et je vais tout faire pour que ça devienne une réalité. Les prochains jours vont être consacrés à ça, et je ne pourrais pas être plus motivé.
+
+Tout ce que j'ai fait jusqu'à maintenant, c'était juste pour préparer le terrain. Maintenant, les choses sérieuses commencent.</p>
+		</div>
+	</div>
 </div>
 
 </body>
