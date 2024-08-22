@@ -171,6 +171,25 @@ J'ai déjà tout le plan en tête. Chaque étagère, chaque outil, chaque espace
 Tout ce que j'ai fait jusqu'à maintenant, c'était juste pour préparer le terrain. Maintenant, les choses sérieuses commencent.</p>
 		</div>
 	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>Entrée N°8</h2> 
+			 <h3>jour 10 - soir</h3> 
+			 <p class="content">Ça y est, deux jours intenses de travail, et mon laboratoire est enfin prêt. Je ne pensais pas que ça irait aussi vite, mais quand on est motivé, on trouve l'énergie pour tout faire. Je suis tellement fier de ce que j'ai réussi à créer ici.
+
+Dès qu'on entre, on est accueilli par une grande table en bois massif, le cœur de mon laboratoire. C'est ici que je vais passer la majorité de mon temps, à mélanger, distiller, et observer les réactions de mes concoctions. Juste à côté, il y a un petit fourneau rudimentaire que j'ai bricolé, mais il ne va pas suffire. La cheminée présente dans la pièce est dans un état lamentable, totalement inexploitable. Du coup, j'ai pris la décision de me rendre demain dans un royaume voisin, à quelques heures de marche, pour y acquérir un vrai four en métal. Ce sera un investissement, mais nécessaire pour que mes expériences soient à la hauteur de mes attentes.
+
+Sur les murs, j'ai installé des étagères sur lesquelles sont posés mes fioles, bocaux, et récipients en tout genre, chacun rempli de poudres, herbes, et liquides que j'ai soit apportés avec moi, soit collectés ici depuis mon arrivée. Chaque élément a sa place, organisé selon un ordre précis que seul moi pourrais comprendre. J'ai aussi quelques bocaux remplis de spécimens rares que je compte utiliser pour des expériences futures.
+
+Dans un coin, j'ai aménagé un petit espace pour la distillation, avec des alambics et des tubes de verre soigneusement reliés. Je me suis assuré que tout soit bien stable, pour éviter tout accident. La lumière naturelle, filtrée par une petite fenêtre en hauteur, éclaire parfaitement cet espace, ce qui est idéal pour observer les réactions les plus subtiles.
+
+Il y a aussi un petit bureau à l'extrémité, où je vais pouvoir prendre des notes sur mes observations. C'est simple, mais fonctionnel, avec quelques parchemins déjà prêts pour être remplis de découvertes.
+
+En regardant autour de moi, je ressens une satisfaction immense. Tout est enfin en place. C'est exactement comme je l'avais imaginé, peut-être même mieux. Cet endroit est à moi, entièrement dédié à mon art, à mes recherches. Rien que d'y penser, ça me donne des frissons.
+
+Les choses sérieuses vont pouvoir commencer, et je suis prêt.</p>
+		</div>
+	</div>
 </div>
 
 </body>
