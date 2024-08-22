@@ -202,6 +202,29 @@ En plus du four, j'en ai profité pour acheter tout un tas d'autres éléments d
 
 Je suis épuisé, mais c'était une journée productive. Demain, je commencerai à installer tout ce matériel dans le laboratoire. Les choses prennent vraiment forme, et je suis impatient de voir ce que je vais pouvoir accomplir avec tout ça.</p>
 		</div>
+	</div>	
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>Entrée N°10</h2> 
+			 <h3>jour 12 - matin</h3> 
+			 <p class="content">Maintenant que tout est enfin en place, je pense qu'il est temps que je mette par écrit pourquoi je suis vraiment ici. Ce laboratoire, ces outils, cet isolement… Tout ça a un but bien précis. Pour comprendre, il faut remonter à mes débuts, à une époque où ma vie était bien différente.
+
+Avant tout ça, j'étais cuisinier. Pas un grand chef, juste un simple cuisinier dans une petite auberge du royaume. J'aimais mon travail, préparer des plats, jouer avec les saveurs, trouver le bon équilibre entre les ingrédients. Mais un jour, quelque chose d'étrange s'est produit. Alors que je préparais un plat ordinaire, un mélange d'herbes et de racines pour une sauce, j'ai ressenti un changement, quelque chose d'indéfinissable.
+
+D'abord, ce n'était qu'une sensation vague, un léger élargissement de mon champ de vision. J'ai cru rêver, mais plus je me concentrais sur ce que je faisais, plus cette sensation devenait nette. Mon regard semblait s'étendre, je pouvais voir plus large, percevoir des détails que je n'aurais jamais remarqués auparavant. C'était comme si le monde s'ouvrait devant moi d'une manière nouvelle et mystérieuse.
+
+Intrigué, j'ai commencé à reproduire ce mélange, à essayer de comprendre ce qui se passait. Mais le phénomène ne se produisait pas à chaque fois, ce qui rendait les choses encore plus mystérieuses. J'ai cherché des réponses dans toutes les bibliothèques que je pouvais trouver, des plus petites aux plus grandes des royaumes. Mais rien, absolument rien ne mentionnait ce genre de phénomène. Pas un mot sur des ingrédients capables d'altérer la perception de cette manière.
+
+C'est là que j'ai compris que si je voulais percer ce mystère, je devais le faire moi-même. Le problème, c'est que la vie de cuisinier est prenante. Entre les heures passées en cuisine et celles nécessaires pour gagner ma vie, je n'avais pas le temps de mener des expériences sérieuses. Mes observations étaient sporadiques, interrompues, et je sentais que je n'arriverais à rien de concret dans ces conditions.
+
+Alors j'ai pris une décision radicale. J'ai quitté ma vie d'avant, abandonné mon poste, et je suis parti. Mon but était clair : trouver un endroit isolé où je pourrais vivre de mes propres récoltes et consacrer tout mon temps à mes recherches. Je savais que ce serait difficile, mais c'était le seul moyen pour moi de vraiment explorer ce phénomène et, peut-être, de découvrir quelque chose d'important.
+
+Me voilà donc ici, dans ce laboratoire que j'ai construit de mes mains. Loin du monde, j'ai maintenant tout le temps et l'espace nécessaire pour mener mes expériences. Mon rêve, c'est d'écrire une encyclopédie, un recueil de toutes les découvertes que je pourrais faire sur ces propriétés étranges des ingrédients. Si tant est, bien sûr, que je fasse des découvertes.
+
+Mais je suis optimiste. Il y a tellement de choses que nous ignorons encore sur les plantes, les herbes, et les minéraux. Peut-être que ce phénomène que j'ai perçu n'était qu'un début, un aperçu de quelque chose de bien plus grand. Et peut-être que ce quelque chose changera notre compréhension du monde.
+
+Je me sens prêt. Tout ce que j'ai fait jusqu'à maintenant m'a conduit à ce moment. Les choses sérieuses commencent aujourd'hui, et je suis déterminé à découvrir la vérité, coûte que coûte.</p>
+		</div>
 	</div>
 </div>
 
