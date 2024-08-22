@@ -190,6 +190,19 @@ En regardant autour de moi, je ressens une satisfaction immense. Tout est enfin 
 Les choses sérieuses vont pouvoir commencer, et je suis prêt.</p>
 		</div>
 	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>Entrée N°9</h2> 
+			 <h3>jour 11 - soir</h3> 
+			 <p class="content">Il est très tard, et je viens à peine de m'asseoir pour écrire ces quelques lignes. La journée a été longue, bien plus que je ne l'avais prévu. Le voyage jusqu'au royaume voisin m'a pris beaucoup de temps, mais c'était nécessaire.
+
+Je suis parvenu à acquérir le four en métal dont j'avais besoin. Ça n'a pas été simple de le transporter, mais je suis vraiment content de l'avoir. Il va complètement changer la façon dont je travaille ici. La vieille cheminée était inutilisable, mais avec ce nouveau four, je vais pouvoir mener des expériences beaucoup plus précises.
+
+En plus du four, j'en ai profité pour acheter tout un tas d'autres éléments dont j'avais besoin. J'ai trouvé des ingrédients rares que je n'avais pas encore ici, des outils supplémentaires pour compléter mon équipement, et même de la verrerie en plus, au cas où je casserais quelque chose en cours de route – ce qui, entre nous, est presque inévitable.
+
+Je suis épuisé, mais c'était une journée productive. Demain, je commencerai à installer tout ce matériel dans le laboratoire. Les choses prennent vraiment forme, et je suis impatient de voir ce que je vais pouvoir accomplir avec tout ça.</p>
+		</div>
+	</div>
 </div>
 
 </body>
