@@ -226,6 +226,38 @@ Mais je suis optimiste. Il y a tellement de choses que nous ignorons encore sur 
 Je me sens prêt. Tout ce que j'ai fait jusqu'à maintenant m'a conduit à ce moment. Les choses sérieuses commencent aujourd'hui, et je suis déterminé à découvrir la vérité, coûte que coûte.</p>
 		</div>
 	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>Entrée N°11</h2> 
+			 <h3>jour 12 - soir</h3> 
+			 <p class="content">---
+
+### Entrée 15 : Premier Jour d'Expérimentations
+
+Aujourd'hui, j'ai enfin commencé à essayer de reproduire ces effets étranges que j'avais expérimentés en cuisine, il y a de cela des mois. Tout est en place maintenant, et je n'avais plus aucune excuse pour attendre. J'ai passé la matinée à préparer mon espace de travail, à nettoyer les fioles, à m'assurer que tout était bien rangé et facile d'accès. Ensuite, je me suis mis au travail.
+
+J'ai commencé par reprendre les mêmes ingrédients que j'avais utilisés lors de ma première expérience, celle qui avait déclenché ce phénomène d'élargissement de mon champ de vision. J'ai soigneusement mesuré chaque composant : des feuilles de fenouil sauvage, des racines de belladone (en très petite quantité, bien sûr), une pincée de sel de mer que j'avais récupéré lors de mon voyage au royaume voisin, et quelques gouttes de sève de saule pleureur. Ce mélange, en soi, n'avait rien d'extraordinaire… Du moins, c'est ce que je croyais à l'époque.
+
+Cette fois, j'ai pris le temps de bien noter chaque étape. J'ai commencé par broyer les feuilles et les racines ensemble, jusqu'à obtenir une pâte fine et homogène. Ensuite, j'ai ajouté la pincée de sel et la sève, tout en continuant à mélanger lentement. J'ai remarqué que le mélange dégageait une légère fumée bleutée, un détail qui m'avait échappé lors de mes essais en cuisine. Cette fumée… elle avait une odeur particulière, douce, presque sucrée. C'était un bon signe, me suis-je dit.
+
+Une fois le mélange terminé, je l'ai laissé reposer quelques minutes, puis je l'ai transféré dans une fiole. J'ai chauffé le tout doucement sur le four en métal que j'avais acheté la veille. La fumée a commencé à s'épaissir, à s'enrouler comme un serpent autour de ma main, mais je n'ai pas ressenti d'effet immédiat. J'ai inhalé légèrement, espérant que cela déclenche quelque chose. Au début, rien. Puis, lentement, j'ai senti cette même sensation étrange s'insinuer en moi.
+
+C'était subtil, mais là. Mon champ de vision s'est légèrement élargi, comme si les bords de la pièce s'étaient recourbés vers moi, dévoilant des détails que je ne percevais pas normalement. C'était fascinant et terrifiant à la fois. Mon cœur battait plus fort. L'effet n'a duré que quelques secondes, mais c'était suffisant pour confirmer que ce phénomène n'était pas une illusion de mon esprit. Il y avait bien quelque chose dans ce mélange.
+
+Je n'ai pas pu reproduire l'effet tout de suite après. J'ai essayé plusieurs variations, en modifiant légèrement les quantités ou en changeant l'ordre des étapes, mais rien n'a fonctionné de la même manière. Pourtant, je ne suis pas découragé. Cette petite réussite, même éphémère, est une preuve que je suis sur la bonne voie. Je dois continuer à explorer, à tester, à prendre des notes. Ce phénomène est réel, et je suis déterminé à comprendre comment il fonctionne.
+
+Je pense passer les prochains jours à approfondir cette piste. Peut-être que la fumée a un rôle plus important que je ne le pensais… ou bien que certains ingrédients réagissent à des températures spécifiques. Il y a tant de variables à prendre en compte, tant de combinaisons possibles. Mais c'est ça qui rend tout ça excitant. 
+
+Pour la première fois depuis que je suis ici, je sens que je touche à quelque chose de tangible, quelque chose qui dépasse tout ce que j'avais imaginé. Demain, je recommence. Avec plus de précautions, et plus de patience. Qui sait ce que je pourrais découvrir d'autre ?
+
+pour le moment, j'ai quelques hypotèses :
+- le mélange a vraiment un effet, mais il n'agit pas toujours
+- le mélange agit a chaque fois, excepté si on en reprend trop rapidement derrière
+- il y a un ingrédient ou un mélange d'ingrédients qui permettent d'augmenter le champ de vision
+- il y a un ingrédient ou un mélange d'ingrédients qui permettent d'augmenter la puissance de l'efet
+- il y a un ingrédient ou un mélange d'ingrédients qui permettent d'augmenter la durée de l'effet</p>
+		</div>
+	</div>
 </div>
 
 </body>
