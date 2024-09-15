@@ -7,7 +7,7 @@ tags:
 
 ## Image
 
-![[PERSONNAGE_elfe_thalionWynnelis.jpg]]
+![[PERSONNAGE_elfe_sylvandiens_thalionWynnelis.jpg]]
 
 ## Informations
 **Nom** : Wynnelis
@@ -18,7 +18,7 @@ tags:
 
 ## portrait
 
-Thalion est un elfe âgé, dont l'apparence dégage une sagesse ancestrale. Ses longs cheveux argentés, soigneusement tressés, tombent en cascade sur ses épaules, symbolisant les siècles de connaissances accumulées. Ses yeux, d'un vert profond, sont perçants et pleins de bienveillance, reflétant sa compréhension intime de la nature et de la vie. Il porte une robe simple mais élégante, faite de tissus naturels, ornée de motifs représentant des feuilles et des plantes médicinales.
+Thalion est un sylvandien âgé, dont l'apparence dégage une sagesse ancestrale. Ses longs cheveux argentés, soigneusement tressés, tombent en cascade sur ses épaules, symbolisant les siècles de connaissances accumulées. Ses yeux, d'un vert profond, sont perçants et pleins de bienveillance, reflétant sa compréhension intime de la nature et de la vie. Il porte une robe simple mais élégante, faite de tissus naturels, ornée de motifs représentant des feuilles et des plantes médicinales.
 
 Le visage de Thalion est marqué par de fines rides, témoignant de son âge avancé et de l'expérience qu'il a acquise au fil du temps. Sa voix est douce et apaisante, capable de rassurer les cœurs les plus inquiets. Il est toujours accompagné d'une sacoche en cuir usé, contenant une multitude de fioles, de plantes séchées et de parchemins anciens.
 

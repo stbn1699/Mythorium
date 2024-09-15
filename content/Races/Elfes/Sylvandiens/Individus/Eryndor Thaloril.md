@@ -7,7 +7,7 @@ tags:
 
 ## Image
 
-![[PERSONNAGE_elfe_eryndorThaloril.jpg]]
+![[PERSONNAGE_elfe_sylvandiens_eryndorThaloril.jpg]]
 
 ## Informations
 **Nom** : Thaloril
@@ -18,7 +18,7 @@ tags:
 
 ## portrait
 
-Eryndor est un elfe égoïste, marqué par son mépris pour son passé de noble. Ayant renié ses origines, il est déterminé à oublier la vie de luxe et de privilège qu'il a connue. Il pense avant tout à lui-même et son désir de se détacher de son ancienne vie pour embrasser une existence d'aventurier. Sa quête personnelle est guidée par un profond désir de découvrir sa propre identité loin des attentes et des contraintes de la noblesse.
+Eryndor est un sylvandien égoïste, marqué par son mépris pour son passé de noble. Ayant renié ses origines, il est déterminé à oublier la vie de luxe et de privilège qu'il a connue. Il pense avant tout à lui-même et son désir de se détacher de son ancienne vie pour embrasser une existence d'aventurier. Sa quête personnelle est guidée par un profond désir de découvrir sa propre identité loin des attentes et des contraintes de la noblesse.
 
 ## Histoire
 

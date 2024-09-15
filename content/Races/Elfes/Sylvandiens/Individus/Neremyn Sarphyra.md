@@ -7,7 +7,7 @@ tags:
 
 ## Image
 
-![[PERSONNAGE_elfe_neremynSarphyra.jpg]]
+![[PERSONNAGE_elfe_sylvandiens_neremynSarphyra.jpg]]
 
 ## Informations
 **Nom** : Sarphyra
@@ -16,15 +16,9 @@ tags:
 **origine** : [[Sylvandis]]
 **Race** : [[Sylvandiens]]
 
-**Intimité**: 
-| **Genre Biologique**: Femme
-| **Genre Moral**: Femme
-| **Orientation Sexuelle**: Hétéro
-| **Situation**: En couple avec [[Halamar Sarphyra]]
-
 ## portrait
 
-Neremyn est une jeune femme au tempérament unique, mêlant curiosité insatiable et douceur résolue. Sa soif de découverte est aussi vaste que l'océan, et elle ne se lasse jamais d'explorer de nouveaux horizons et d'en apprendre davantage sur le monde qui l'entoure. Son visage est souvent éclairé par une lueur d'excitation lorsque ses yeux pétillants se posent sur quelque chose de nouveau et d'inconnu.
+Neremyn est une jeune sylvandienne au tempérament unique, mêlant curiosité insatiable et douceur résolue. Sa soif de découverte est aussi vaste que l'océan, et elle ne se lasse jamais d'explorer de nouveaux horizons et d'en apprendre davantage sur le monde qui l'entoure. Son visage est souvent éclairé par une lueur d'excitation lorsque ses yeux pétillants se posent sur quelque chose de nouveau et d'inconnu.
 
 De nature timide, Neremyn préfère observer silencieusement son environnement avant de se lancer dans l'aventure. Cependant, une fois qu'elle se sent à l'aise, son énergie intérieure se dévoile, et elle devient une force de la nature, débordante de vivacité et de curiosité. Son esprit vif et alerte absorbe chaque détail avec une fascination émerveillée, cherchant à comprendre les mystères qui se cachent derrière chaque expérience.
 
