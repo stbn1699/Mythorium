@@ -14,7 +14,7 @@ tags:
 **Prénom** : Sélène
 
 **Origine** : [[Sylvandis]]
-**Race** : [[Elfes]]
+**Race** : [[Sylvandiens]]
 
 ## portrait
 

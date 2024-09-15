@@ -4,116 +4,45 @@ tags:
 - Race
 ---
 
-## Informations générale
+### **Présentation des Elfes**
 
-**nom** : Elfes
-**Longévité** : ~300 ans
+**Nom de l'Espèce :** Elfes  
+**Description Générale :** Les Elfes sont une espèce ancestrale et diversifiée, connue pour leur longévité, leur affinité avec la magie et leur connexion profonde avec la nature et les forces mystiques. Ils constituent une famille de peuples aux caractéristiques variées, répartis en plusieurs races distinctes qui partagent des traits communs tout en possédant des spécificités propres à chacune.
 
-## Origine 
-  
-Les elfes, élégants et mystérieux, trouvent leurs origines dans les terres sacrées du dieu lumineux Aetherius, là où la lumière et la vie se mêlent en une harmonie éblouissante. Selon la légende, ces terres étaient autrefois des étendues stériles et désolées, mais avec la bénédiction d'Aetherius, elles ont été transformées en un royaume de beauté et de splendeur. C'est là, dans cet éclat divin, que les premiers elfes ont vu le jour, nés de la lumière elle-même et imprégnés de sa pure essence. Leur lien avec Aetherius est profondément ancré dans leur être, et ils sont les gardiens dévoués des secrets sacrés de leur terre natale. À travers les âges, les elfes ont prospéré dans les terres lumineuses, préservant leur héritage divin et veillant avec amour sur les dons précieux que leur dieu bienveillant leur a accordés.
+---
 
-## Apparence
+### **Caractéristiques Générales des Elfes :**
 
-Les elfes, façonnés par la lumière sacrée de Solarius, se distinguent par leur apparence gracieuse et élégante. Leur silhouette est élancée et svelte, leurs membres longs et agiles leur conférant une grâce naturelle. Leurs traits du visage sont fins et délicats, avec des pommettes hautes et des mentons délicatement ciselés. Leurs yeux, souvent d'une couleur lumineuse et vibrante, reflètent la pureté de leur lien avec leur divinité tutélaire. Mais ce qui les distingue le plus, ce sont leurs oreilles pointues, un héritage de leur ascendance divine, qui témoigne de leur lien étroit avec le monde naturel et leur don pour percevoir les mystères de la lumière et de la nature.
+- **Apparence Physique :** Les Elfes possèdent une silhouette élancée et gracile, avec des traits fins et des oreilles pointues, caractéristiques de leur espèce. Leur peau varie du pâle au brun doré, selon leur environnement d'origine, et leurs cheveux peuvent être de nombreuses couleurs, souvent en harmonie avec les teintes naturelles de leur habitat. Leurs yeux, généralement plus grands et plus expressifs que ceux des humains, brillent souvent d’une lueur particulière qui reflète leur affinité avec la magie.
 
-## Moments importants
+- **Longévité et Vitalité :** Les Elfes jouissent d'une longévité exceptionnelle, vivant souvent plusieurs siècles sans que l'âge ne marque véritablement leur apparence. Ils conservent leur agilité, leur force et leur santé bien plus longtemps que les autres espèces humanoïdes. Les Elfes atteignent l'âge adulte plus lentement, mais une fois adulte, leur vieillissement est extrêmement lent.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Timeline</title>
-<style>
-    .timeline {
-        max-width: 800px;
-        margin: 50px auto;
-        font-family: Arial, sans-serif;
-    }
-    
-    .event {
-        margin-bottom: 50px;
-        position: relative;
-    }
-    
-    .event::before {
-        content: '';
-        position: absolute;
-        top: 0;
-        left: -15px;
-        height: 100%;
-        width: 5px;
-        background-color: #3d4852;
-    }
-    
-    .event-content {
-        padding: 15px;
-        border-radius: 10px;
-        background-color: rgba(0, 0, 0, 0.15); /* Couleur de fond légèrement assombrie */
-        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Ombre légère */
-        margin-left: 25px;
-        border: 2px solid #3d4852;
-    }
-    
-    .event h2 {
-        margin-bottom: 5px;
-        margin-top: 5px;
-    }
-    
-    .content {
-        margin: 0;
-    }
-    .author{
-        margin-top: 10px;
-        margin-bottom: 0px;
-        font-style: italic;
-        text-align: end;
-    }
-    .author::before{
-        content: 'auteur.e.s : ';
-    }
-</style>
-</head>
-<body>
+- **Affinité avec la Magie :** Tous les Elfes possèdent une affinité innée avec la magie, qu’elle soit élémentaire, naturelle, ou mystique. Cette capacité se manifeste différemment selon les races d'Elfes, mais ils sont tous capables de percevoir les flux magiques qui parcourent le monde, et beaucoup d'entre eux peuvent les manipuler instinctivement.
 
-<div class="timeline">
-    <div class="event">
-        <div class="event-content">
-            <h2>Av. année 0</h2>
-            <h3>Gestation</h3>
-            <p class="content">Pour les elfes, la gestation est un processus délicat et sacré, empreint de la lumière et de la magie de leur divinité tutélaire, Solarius. Le développement de l'elfe dans le ventre maternel est particulièrement rapide par rapport aux autres races, prenant environ cinq mois. Pendant cette période, la mère elfe est enveloppée dans un halo de lumière dorée, symbolisant la protection divine de Solarius sur son enfant à naître. Les elfes embryonnaires sont baignés dans cette lumière, absorbant ses énergies régénératrices qui favorisent leur croissance et leur développement. À mesure que le temps passe, les elfes se développent rapidement, acquérant leurs caractéristiques distinctives, telles que leurs oreilles pointues et leur agilité, bien avant leur naissance.</p>
-        </div>
-    </div>
-    <div class="event">
-        <div class="event-content">
-            <h2>an 0</h2>
-            <h3>Naissance</h3>
-            <p class="content">Lorsque vient le moment de la naissance, c'est un événement sacré et solennel pour les elfes. La mère elfe, entourée de ses proches et de sages, se retire dans un sanctuaire sacré dédié à Solarius pour accoucher. Là, baignée dans la lumière divine, elle met au monde son enfant avec grâce et dévotion. À la naissance, l'elfe nouveau-né est enveloppé dans une aura de lumière dorée, symbole de la bénédiction de Solarius. Ses premiers instants sont empreints de magie et de splendeur, tandis qu'il prend ses premières respirations dans ce monde lumineux. Les premiers regards entre la mère et l'enfant sont empreints de tendresse et de connexion, renforçant le lien sacré entre l'elfe et sa divinité tutélaire.
+- **Connexion avec la Nature :** La majorité des Elfes entretiennent une relation symbiotique avec leur environnement, qu’il soit forestier, montagneux, ou maritime. Ils ressentent une profonde connexion avec la terre, les plantes, les animaux, et les énergies qui les entourent. Cette communion avec la nature leur permet de se régénérer plus rapidement en milieu naturel et de ressentir les changements subtils de leur environnement.
 
-Dès ses premiers instants, l'elfe nouveau-né démontre une agilité remarquable, étant déjà capable de se tenir debout sur ses deux jambes, bien que ses mouvements soient encore maladroits et hésitants. Ses grands yeux brillent de curiosité alors qu'il explore son environnement, absorbant chaque détail avec émerveillement. Bien qu'il ne puisse pas encore parler, ses expressions faciales et ses gestes communiquent déjà une gamme d'émotions, allant de la joie à la curiosité en passant par le contentement. C'est ainsi, entouré de la lumière et de l'amour de sa famille, que l'elfe nouveau-né entre dans ce monde, portant avec lui la promesse d'un avenir lumineux et plein de potentiel.</p>
-        </div>
-    </div>
-    <div class="event">
-        <div class="event-content">
-            <h2>environ jour 200, an (environ)</h2>
-            <h3>Premières paroles</h3>
-            <p class="content">Lorsque l'elfe prononce son premier mot, c'est un moment de grande émotion pour sa famille et sa communauté. Ses proches, émerveillés, accueillent avec joie ce premier signe de communication. Les sons doux et mélodieux de la langue elfique emplissent l'air, porteurs de promesses et d'avenir. Avec chaque tentative, l'elfe gagne en assurance, explorant les nuances de sa voix nouvellement découverte et tissant ainsi des liens plus profonds avec ceux qui l'entourent. C'est un moment de célébration et de connexion, symbolisant le début d'un voyage vers la découverte et l'expression de soi dans le monde lumineux des elfes.</p>
-        </div>
-    </div>
-    <div class="event">
-        <div class="event-content">
-            <h2>10 ème année (courant)</h2>
-            <h3>Découverte des pouvoirs</h3> 
-            <p class="content">Au cours de leur dixième année de vie, les elfes atteignent un moment crucial de leur développement : la découverte de leurs pouvoirs innés, toujours en rapport avec la nature. Que ce soit de manière simultanée ou séparée, la plupart des elfes révèlent leurs dons magiques au cours de cette période. Cet événement peut survenir de manière inattendue, déclenché par une expérience significative ou un événement marquant. Guidés par la sagesse de leur communauté, les elfes apprennent à comprendre et à maîtriser ces pouvoirs, les utilisant pour le bien de leur peuple et de leur monde. C'est le début d'un voyage de croissance personnelle et de connexion avec la magie qui imprègne chaque aspect de leur existence.</p>
-        </div>
-    </div>
-        <div class="event-content">
-            <h2>15 ème année (environ)</h2>
-            <h3>Attribution du genre</h3> 
-            <p class="content">Aux alentours de leur quinzième année de vie, les elfes connaissent un changement fondamental dans leur corps. Avant cela, les elfes étaient dépourvus de sexe, ne présentant aucun attribut masculin ou féminin, à l'exception d'un petit orifice leur permettant d'uriner. Cependant, à l'approche de leurs quinze ans, les elfes voient leur identité sexuelle se former. Certains deviennent des hommes, d'autres des femmes. Toutefois, il est important de noter qu'il est tout à fait possible pour les elfes de choisir de ne pas franchir cette étape et de rester sans genre aussi longtemps qu'ils le souhaitent. Cette liberté de choix reflète la compréhension et le respect de la diversité qui caractérisent la société elfique, offrant ainsi à chaque individu la possibilité de vivre en accord avec sa propre identité.</p>
-        </div>
-    </div>
-</div>
-</body>
-</html>
+- **Sens Accrus :** Les Elfes ont une ouïe, une vue et un odorat plus aiguisés que la plupart des autres espèces. Ils peuvent entendre des sons à des fréquences plus basses ou plus élevées, détecter des mouvements légers à une grande distance, et percevoir des odeurs subtiles dans l'air. Leur vision nocturne est particulièrement développée, leur permettant de voir dans des conditions de faible luminosité.
+
+- **Agilité et Habileté au Combat :** Bien que pacifiques de nature, les Elfes sont réputés pour leur agilité et leur habileté au combat. Leur légèreté et leur souplesse naturelle en font des archers, des épéistes et des tacticiens redoutables. Leur style de combat favorise la rapidité, la précision, et l’utilisation intelligente du terrain.
+
+- **Langue et Culture Commune :** Les Elfes partagent une langue ancienne, l’**Eldaryn**, bien que chaque race possède ses propres dialectes et nuances linguistiques. Leur culture met l’accent sur la connaissance, l’art, la musique, la poésie, et le respect des anciens. Ils vénèrent généralement une multitude de divinités, principalement liées à la nature et aux éléments.
+
+- **Rapport au Temps et à l’Histoire :** En raison de leur longévité, les Elfes perçoivent le temps différemment des autres races. Ils ont tendance à prendre des décisions à long terme et sont souvent perçus comme prudents, voire lents, par les autres espèces. Les Elfes chérissent leur histoire et leur tradition orale, transmettant les récits de leurs ancêtres et les légendes de leur peuple avec une fidélité sans pareille.
+
+### **Histoire et Origines :**
+Les Elfes sont considérés comme l'une des premières espèces à avoir foulé les terres de Mythorium. Leur origine est entourée de mystère et de légendes, et chaque race d'Elfes possède sa propre version des récits fondateurs. Selon certaines traditions, les Elfes descendraient des êtres célestes qui auraient choisi de s’installer sur terre pour protéger ses mystères et ses secrets. D’autres mythes parlent de l’éveil des Elfes à partir des arbres ou des pierres par des divinités aimantes. Ce qui est certain, c’est que les Elfes étaient déjà présents bien avant l’avènement des royaumes humains et des autres races.
+
+### **Diversité et Races Connues :**
+Les Elfes se divisent en plusieurs races, chacune ayant évolué en harmonie avec son environnement spécifique, développant ainsi des caractéristiques uniques :
+
+1. **Les Sylvandiens :** Elfes des forêts, proches de la nature, ayant une affinité particulière avec les arbres, les animaux, et la magie sylvestre. Ils possèdent une grande sagesse et une connaissance approfondie des plantes médicinales et de l’herboristerie.
+
+2. **Les Thelvorns :** Une ancienne race d'Elfes qui existaient bien avant l'apparition des Thelvorns Maudits. Les Thelvorns originels sont des érudits de la magie et des gardiens des secrets occultes. Ils possédaient un savoir étendu sur les arts mystiques et vivaient en harmonie avec les énergies obscures qu'ils manipulaient avec soin et respect.
+
+3. **Les Thelvorns Maudits :** Résultat d'une malédiction qui a frappé certains Thelvorns après une série d'événements tragiques. Cette malédiction a altéré leur apparence et intensifié leurs pouvoirs magiques de manière imprévisible, les condamnant à une existence marquée par la souffrance et la corruption. Les Thelvorns Maudits ont souvent une peau pâle presque translucide, marquée de veines sombres qui pulsent d'une énergie sinistre. Leurs yeux sont d’un noir profond, sans iris visible, et ils émettent parfois une lueur inquiétante. La malédiction leur confère de puissants pouvoirs destructeurs et la capacité de manipuler les ombres, mais elle les rend également instables et vulnérables aux influences maléfiques. Leur esprit est souvent en proie à des visions cauchemardesques et à des tourments intérieurs qui les poussent parfois à des actes de cruauté. Leur existence est une lutte constante contre la corruption qui les ronge de l'intérieur.
+
+### **Relations avec les Autres Espèces :**
+Les Elfes sont connus pour leur retenue et leur discrétion dans leurs relations avec les autres espèces. Ils privilégient les alliances stratégiques et les échanges culturels limités, préférant souvent l'isolement afin de préserver leur mode de vie et leur environnement. Cependant, les relations varient considérablement selon les races d'Elfes et les royaumes qu’ils occupent. Certains Elfes, comme les Sylvandiens, ont des relations amicales avec d'autres peuples de la nature, tandis que d'autres, comme les Thelvorns Maudits, sont craints et méprisés, perçus comme une menace par de nombreux peuples.
+
+### **Mystères et Secrets :**
+Les Elfes sont entourés de mystères et de secrets, leur savoir ancien étant jalousement gardé par les plus sages d'entre eux. Beaucoup de leurs cités et de leurs sanctuaires sont dissimulés aux yeux des étrangers, protégés par des sorts puissants et des enchantements. Certains Elfes maîtrisent des arts occultes ou possèdent des connaissances perdues pour le reste du monde, ce qui en fait des alliés précieux ou des adversaires redoutables.

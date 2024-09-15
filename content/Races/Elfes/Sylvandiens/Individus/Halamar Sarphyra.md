@@ -14,7 +14,7 @@ tags:
 **Prénom** : Halamar
 
 **origine** : [[Sylvandis]]
-**Race** : [[Elfes]]
+**Race** : [[Sylvandiens]]
 
 ## portrait
 

@@ -14,7 +14,7 @@ tags:
 **Prénom** : Neremyn
 
 **origine** : [[Sylvandis]]
-**Race** : [[Elfes]]
+**Race** : [[Sylvandiens]]
 
 **Intimité**: 
 | **Genre Biologique**: Femme

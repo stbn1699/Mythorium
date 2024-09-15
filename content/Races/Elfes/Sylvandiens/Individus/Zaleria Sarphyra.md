@@ -14,7 +14,7 @@ tags:
 **Prénom** : Zaleria
 
 **origine** : [[Sylvandis]]
-**Race** : [[Elfes]]
+**Race** : [[Sylvandiens]]
 
 ## portrait
 

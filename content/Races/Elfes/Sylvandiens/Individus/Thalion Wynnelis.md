@@ -14,7 +14,7 @@ tags:
 **Prénom** : Thalion
 
 **origine** : [[Sylvandis]]
-**Race** : [[Elfes]]
+**Race** : [[Sylvandiens]]
 
 ## portrait
 

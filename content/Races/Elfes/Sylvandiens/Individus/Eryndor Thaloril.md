@@ -14,7 +14,7 @@ tags:
 **Prénom** : Eryndor
 
 **origine** : [[Empire d'Ovrusea]]
-**Race** : [[Elfes]]
+**Race** : [[Sylvandiens]]
 
 ## portrait
 
