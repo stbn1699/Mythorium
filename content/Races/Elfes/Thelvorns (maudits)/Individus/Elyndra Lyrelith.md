@@ -1,6 +1,6 @@
 ## **Image**
 
-_(Ajouter une image représentant Lyrelith, une Thelvorn maudite exploratrice avec des cheveux noir de jais et des yeux vert émeraude.)_
+![[PERSONNAGE_elfe_thelvornsMaudits_elyndraLyrelith.jpg]]
 
 ## **Informations**
 
