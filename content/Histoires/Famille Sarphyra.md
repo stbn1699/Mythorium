@@ -390,6 +390,42 @@ Ce qui suivit fut aussi inattendu qu'hilarant. Dans sa chute, Zaleria attrapa in
 			<p class="author">Yuka</p>
         </div>
     </div>
+    <div class="event">
+        <div class="event-content">
+            <h2>jour 100, année 4311</h2>
+			<h3>Fin.</h3>
+			<p>Le crépuscule s’étendait doucement sur la vallée tranquille où vivait la famille Sarphyra. La lumière dorée du soleil couchant baignait encore leur modeste maison, située à l'écart des protections magiques du royaume de Sylvandis. Ici, loin de la vigilance des gardiens de Sylvandis, les Sarphyra n'étaient qu'une famille isolée, des proies faciles pour ceux qui rôdaient dans l'ombre. Les elfes de Sylvandis avaient leurs propres défenses, des remparts de magie ancienne et des guerriers aguerris, mais ici, au bord de la rivière argentée, seuls les jeunes elfes Sarphyra étaient laissés à eux-mêmes.
+
+À l'intérieur de la maison, Halamar et Neremyn conversaient paisiblement, profitant de ce moment de calme. Leur fille, Zaleria, observait les poissons dans la rivière, accompagnée de Starla. Ce soir-là, Starla semblait particulièrement agitée, ses petits yeux brillants scrutant les ombres qui s’allongeaient autour d'eux. Zaleria rit doucement de son inquiétude, pensant qu'il ne s'agissait que d'un caprice de plus de son compagnon.
+
+Mais dans les bois sombres, des yeux guettaient, des ombres se mouvaient en silence. Les membres de la secte Obscura, adeptes du dieu Noctifer Divinus, avaient choisi cette famille pour cible. Leur credo était clair : traquer et éliminer tous ceux qui possédaient des pouvoirs magiques autres que les leurs. La famille Sarphyra, des jeunes elfes sans protection, était une proie facile, une cible parfaite pour assouvir leur soif de domination et renforcer leur emprise sur les arts sombres.
+
+Le Grand Maître Lyrkan se tenait à l’orée des bois, observant la scène avec des yeux froids et calculateurs. Ce soir, les Obscuris frapperaient. Pas pour des raisons de justice divine ou de quête mystique, mais simplement parce que ces elfes étaient vulnérables, une cible facile, isolée des autres royaumes protégés. Un faible sourire se dessina sur ses lèvres tandis qu’il levait une main, donnant silencieusement l’ordre d’attaquer.
+
+Les ombres s’étendirent soudainement, enveloppant la maison dans une brume épaisse et oppressante. Halamar, sentant le changement dans l’air, se redressa, son regard inquiet se tournant vers l'extérieur. « Quelque chose approche… », murmura-t-il, juste avant que la lumière de leur foyer ne vacille et ne s’éteigne.
+
+Neremyn accourut vers Zaleria et Starla, leur disant de se mettre à l’abri. Mais à peine avait-elle parlé qu'une onde de ténèbres jaillit, frappant les portes de la maison, les faisant éclater en une pluie de bois et de poussière. Les Obscuris envahirent la demeure, se déplaçant comme des ombres vivantes, sans un bruit, leurs yeux reflétant la lueur froide d'une détermination sans faille.
+
+Zaleria attrapa instinctivement Starla, la petite créature tremblant de peur contre elle. Halamar se dressa devant sa famille, essayant de repousser les intrus avec un sort de lumière éblouissante. Mais la magie des Obscura absorba l'éclat de sa défense, et les ténèbres continuèrent de se refermer sur eux. « Ils sont trop nombreux ! » cria Halamar, la voix brisée par la panique.
+
+Neremyn tenta de guider Zaleria et Starla vers une sortie secrète, mais les Obscuris les encerclèrent rapidement, coupant toute retraite. Lyrkan avança avec calme, sa main s’élevant doucement alors qu’il chantonnait une sombre incantation. Une lueur noire s’échappa de sa paume, frappant Neremyn et l'immobilisant sur place. Halamar, voyant sa compagne paralysée, se tourna vers Lyrkan avec désespoir et colère. « Pourquoi ? » cria-t-il, « Pourquoi vous en prendre à nous, à des enfants ? »
+
+Lyrkan esquissa un sourire froid. « Parce que vous êtes seuls, faibles… et que personne ne viendra vous sauver. »
+
+D’un geste, il abattit sa main, et les Obscuris se jetèrent sur la famille. Halamar se battit jusqu’à son dernier souffle, mais il fut rapidement submergé par les ombres. Neremyn, impuissante, sentit la poigne glaciale de la mort l’étreindre, tandis que Zaleria serrait Starla contre elle, les larmes coulant silencieusement sur ses joues.
+
+Le Grand Maître Lyrkan s’approcha, levant sa dague rituelle ornée de symboles obscurs. « Aucun témoin, aucune pitié », murmura-t-il. Il plongea la lame dans le cœur de Halamar, puis se tourna vers Neremyn, qui tomba peu après sous la même lame implacable.
+
+Zaleria, les yeux écarquillés de terreur, tenta de fuir avec Starla, mais il n’y avait nulle part où aller. Un des Obscuris la saisit, la ramenant devant Lyrkan. « Terminez-en », ordonna Lyrkan, d’une voix aussi froide que la nuit autour d’eux.
+
+Un des disciples s’approcha de Zaleria, levant une lame sombre au-dessus de sa tête. Starla, dans un ultime geste de courage, tenta de se dresser entre eux, mais l’Obscuris abattit l’arme sans hésiter. Le cri de la petite créature se perdit dans l’obscurité.
+
+Un instant plus tard, Zaleria tomba à son tour, et la maison des Sarphyra, autrefois pleine de vie et de lumière, s'enfonça dans un silence éternel. Les Obscuris, satisfaits d'avoir accompli leur sombre tâche, disparurent dans la nuit, laissant derrière eux seulement le vide et les ténèbres.
+
+Ainsi s’éteignit la lignée des Sarphyra, balayée par les ombres de Noctifer Divinus, victimes d'une cruauté sans fin.</p>
+        </div>
+    </div>
+</div>
 </div>
 
 </body>
