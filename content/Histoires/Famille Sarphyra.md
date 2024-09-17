@@ -400,7 +400,7 @@ Ce qui suivit fut aussi inattendu qu'hilarant. Dans sa chute, Zaleria attrapa in
 
 Mais dans les bois sombres, des yeux guettaient, des ombres se mouvaient en silence. Les membres de la secte Obscura, adeptes du dieu Noctifer Divinus, avaient choisi cette famille pour cible. Leur credo était clair : traquer et éliminer tous ceux qui possédaient des pouvoirs magiques autres que les leurs. La famille Sarphyra, des jeunes elfes sans protection, était une proie facile, une cible parfaite pour assouvir leur soif de domination et renforcer leur emprise sur les arts sombres.
 
-Le Grand Maître Lyrkan se tenait à l’orée des bois, observant la scène avec des yeux froids et calculateurs. Ce soir, les Obscuris frapperaient. Pas pour des raisons de justice divine ou de quête mystique, mais simplement parce que ces elfes étaient vulnérables, une cible facile, isolée des autres royaumes protégés. Un faible sourire se dessina sur ses lèvres tandis qu’il levait une main, donnant silencieusement l’ordre d’attaquer.
+Le [[Grand Maître Lyrkan]] se tenait à l’orée des bois, observant la scène avec des yeux froids et calculateurs. Ce soir, les Obscuris frapperaient. Pas pour des raisons de justice divine ou de quête mystique, mais simplement parce que ces elfes étaient vulnérables, une cible facile, isolée des autres royaumes protégés. Un faible sourire se dessina sur ses lèvres tandis qu’il levait une main, donnant silencieusement l’ordre d’attaquer.
 
 Les ombres s’étendirent soudainement, enveloppant la maison dans une brume épaisse et oppressante. Halamar, sentant le changement dans l’air, se redressa, son regard inquiet se tournant vers l'extérieur. « Quelque chose approche… », murmura-t-il, juste avant que la lumière de leur foyer ne vacille et ne s’éteigne.
 
