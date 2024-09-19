@@ -1,6 +1,8 @@
-**Race Nouvelle : Les Féliniens**
-
-**Nom de la Race :** Féliniens
+---
+draft: false
+tags:
+- Race
+---
 
 **Description Physique :**
 Les Féliniens sont une race humanoïde qui partage de nombreuses caractéristiques avec les humains, mais avec une apparence distinctement féline. Leur corps est recouvert d'une douce fourrure, qui peut varier en couleur et en motif : certains arborent des teintes uniformes de noir, de blanc, ou de brun, tandis que d'autres présentent des rayures, des taches ou des motifs uniques rappelant ceux des grands félins. Leurs visages possèdent des traits délicats, avec des yeux de forme légèrement amandée et de couleurs souvent vives comme le vert émeraude, le doré, ou le bleu azur. Ils ont des oreilles pointues et mobiles semblables à celles des chats, qui se dressent au sommet de leur tête et bougent selon leurs émotions ou leur environnement. Une queue agile et expressive, couverte de fourrure, prolonge leur colonne vertébrale, offrant un équilibre parfait et une grâce naturelle dans leurs mouvements.

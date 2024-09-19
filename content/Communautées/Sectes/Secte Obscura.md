@@ -10,7 +10,7 @@ tags:
 
 ## infos globales
 - **Nom de la Secte:** La Secte Obscura
-- **Nom du Dieu:** Noctifer Divinus
+- **Nom du Dieu:** [[Noctifer]] Divinus
 - **Nom des membres** Obscuris
 - **Ancienneté:** Inconnue
 - **Type de Secte:** Religieux

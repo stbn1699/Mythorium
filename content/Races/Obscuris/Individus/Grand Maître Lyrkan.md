@@ -20,7 +20,7 @@ tags:
 
 ## portrait
 
-Lyrkan est le chef incontesté de la secte Obscura, un être dont la loyauté envers Noctifer Divinus est absolue. Froid et calculateur, il ne montre jamais la moindre émotion et commande avec une autorité impitoyable. Il incarne les valeurs de la secte : la discrétion, le secret, et l'efficacité mortelle. Chaque mouvement qu’il fait est réfléchi, chaque mot qu’il prononce est un écho de la volonté de son dieu. Il inspire la peur même parmi les Obscuris les plus loyaux, qui voient en lui l'expression la plus pure du pouvoir de Noctifer Divinus.
+Lyrkan est le chef incontesté de la secte Obscura, un être dont la loyauté envers [[Noctifer]] Divinus est absolue. Froid et calculateur, il ne montre jamais la moindre émotion et commande avec une autorité impitoyable. Il incarne les valeurs de la secte : la discrétion, le secret, et l'efficacité mortelle. Chaque mouvement qu’il fait est réfléchi, chaque mot qu’il prononce est un écho de la volonté de son dieu. Il inspire la peur même parmi les Obscuris les plus loyaux, qui voient en lui l'expression la plus pure du pouvoir de Noctifer Divinus.
 
 ## Descriptif du masque
 

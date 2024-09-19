@@ -12,6 +12,15 @@ Les Vextris croient que la vie n'a qu'un seul but : l'expérience des plaisirs t
 
 Leur philosophie se résume en une quête de la beauté et du plaisir dans toutes ses expressions : charnelle, artistique, musicale, et gastronomique. La douleur et la souffrance sont vues comme des distorsions inutiles de l'existence, des états à éviter ou à transcender à travers l’extase.
 
+#### **Panthéon des Divinités de l'Amour** 
+Les Vextris vénèrent un panthéon de divinités lié à l’amour, au désir et aux plaisirs sensoriels. Ce panthéon contient trois divinités principales :
+
+- **[[Amorae]]** : Déesse de l'Amour Pur, elle incarne l'attachement et les relations basées sur la confiance et la loyauté. Elle est souvent représentée entourée de fleurs écloses et symbolise l'amour véritable et éternel.
+    
+- **[[Vesyra]]** : Déesse du Désir Charnel, elle représente la passion et l'exploration des plaisirs physiques. Vesyra est la divinité de la séduction et du plaisir sensuel, vénérée pour sa beauté envoûtante.
+    
+- **[[Lyssira]]** : Déesse des Extases Éphémères, elle règne sur les substances récréatives et les états de conscience altérés. Lyssira est célébrée pour l'expérience des visions et des sensations transcendantales.
+
 #### **Apparence :**
 
 Les Vextris sont des êtres d'une beauté surnaturelle, chaque détail de leur physique étant minutieusement sculpté pour séduire et attirer. Leur peau est lisse et lumineuse, variant entre des teintes dorées, bronzées ou nacrées. Leurs yeux sont souvent d'une couleur vive et profonde, comme des joyaux, pouvant aller du violet lumineux au bleu océan. Leurs cheveux, toujours soyeux et parfumés, sont portés longs et peuvent varier du noir de jais au blanc éclatant, avec des reflets irisés.

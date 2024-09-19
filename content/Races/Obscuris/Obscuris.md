@@ -1,4 +1,10 @@
-Les Obscuris ne sont pas une race naturelle, mais des êtres façonnés par la secte Obscura au service de leur dieu, Noctifer Divinus. Toute créature — humaine, elfique ou autre — peut devenir un Obscuris en jurant allégeance à ce dieu des ténèbres.
+---
+draft: false
+tags:
+- Race
+---
+
+Les Obscuris ne sont pas une race naturelle, mais des êtres façonnés par la secte Obscura au service de leur dieu, [[Noctifer]] Divinus. Toute créature — humaine, elfique ou autre — peut devenir un Obscuris en jurant allégeance à ce dieu des ténèbres.
 
 Personne ne sait vraiment à quoi ils ressemblent. Les Obscuris sont toujours enveloppés d’une cape noire et portent un masque qui varie selon leur rang : simple pour les novices, complexe et orné pour les plus hauts gradés. Leur vraie nature reste inconnue, car quiconque a vu un Obscuris sans son masque n’a pas vécu assez longtemps pour le raconter.
 

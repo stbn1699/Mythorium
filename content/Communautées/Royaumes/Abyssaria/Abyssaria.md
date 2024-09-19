@@ -22,7 +22,7 @@ Au cœur de la cité se trouve le **Palais des Profondeurs**, la résidence roya
 ### **Lieux Remarquables :**
 
 - **Le [[Temple de Nyhalis]] :**  
-  Ce sanctuaire, creusé dans une caverne abyssale, est dédié à **Nyhalis**, déesse des océans et des abysses. Les prêtres et prêtresses Ondrilis y accomplissent des rituels de purification et de communion avec les esprits des eaux profondes. C’est également ici que se déroulent les grandes cérémonies, comme les couronnements royaux ou les fêtes spirituelles.
+  Ce sanctuaire, creusé dans une caverne abyssale, est dédié à **[[Nyhalis]]**, déesse des océans et des abysses. Les prêtres et prêtresses Ondrilis y accomplissent des rituels de purification et de communion avec les esprits des eaux profondes. C’est également ici que se déroulent les grandes cérémonies, comme les couronnements royaux ou les fêtes spirituelles.
 
 - **Les [[Grottes Chantantes de Syrlis]] :**  
   Ces cavernes naturelles, situées près des abysses, produisent des sons mélodieux créés par les courants marins et les cristaux résonants. Les Ondrilis considèrent ces lieux comme des sources de méditation et de sagesse, et on raconte que les voix des anciens résonnent parfois à travers les murs des grottes.
