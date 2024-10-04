@@ -6,7 +6,8 @@ tags:
 ---
 
 ## Image  
-![[PERSONNAGE_Connexarque.jpg]]  
+
+![[PERSONNAGE_symbiote_Connexarque.jpg]]
 
 ## Informations  
 **Nom complet** : Kyros Septimus, Connexarque de l’Ordre des Hyloïdes  
