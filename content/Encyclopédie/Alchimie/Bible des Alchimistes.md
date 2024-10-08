@@ -230,11 +230,7 @@ Je me sens prêt. Tout ce que j'ai fait jusqu'à maintenant m'a conduit à ce mo
 		<div class="event-content">
 			 <h2>Entrée N°11</h2> 
 			 <h3>jour 12 - soir</h3> 
-			 <p class="content">---
-
-### Entrée 15 : Premier Jour d'Expérimentations
-
-Aujourd'hui, j'ai enfin commencé à essayer de reproduire ces effets étranges que j'avais expérimentés en cuisine, il y a de cela des mois. Tout est en place maintenant, et je n'avais plus aucune excuse pour attendre. J'ai passé la matinée à préparer mon espace de travail, à nettoyer les fioles, à m'assurer que tout était bien rangé et facile d'accès. Ensuite, je me suis mis au travail.
+			 <p class="content">Aujourd'hui, j'ai enfin commencé à essayer de reproduire ces effets étranges que j'avais expérimentés en cuisine, il y a de cela des mois. Tout est en place maintenant, et je n'avais plus aucune excuse pour attendre. J'ai passé la matinée à préparer mon espace de travail, à nettoyer les fioles, à m'assurer que tout était bien rangé et facile d'accès. Ensuite, je me suis mis au travail.
 
 J'ai commencé par reprendre les mêmes ingrédients que j'avais utilisés lors de ma première expérience, celle qui avait déclenché ce phénomène d'élargissement de mon champ de vision. J'ai soigneusement mesuré chaque composant : des feuilles de fenouil sauvage, des racines de belladone (en très petite quantité, bien sûr), une pincée de sel de mer que j'avais récupéré lors de mon voyage au royaume voisin, et quelques gouttes de sève de saule pleureur. Ce mélange, en soi, n'avait rien d'extraordinaire… Du moins, c'est ce que je croyais à l'époque.
 
