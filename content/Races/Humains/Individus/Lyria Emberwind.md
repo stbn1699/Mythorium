@@ -14,7 +14,7 @@ tags:
 **Nom** : Emberwind  
 **Prénom** : Lyria
 
-**Origine** : [[Empire d'Ovrusea]]  
+**Origine** : [[Empire d Ovrusea]]  
 **Race** : [[Humains]] 
 
 ## portrait

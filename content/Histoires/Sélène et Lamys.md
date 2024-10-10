@@ -183,7 +183,7 @@ Ils commencèrent à manger en silence, chacun savourant le moment de tranquilli
 
 Sélène secoua la tête, son regard émeraude fixant celui de Lamys à travers les fentes de son heaume. "Non, Lamys. Ce que tu as fait dépasse le simple devoir. Tu m'as sauvé la vie. Et je crois qu'il est temps que nous nous connaissions vraiment."
 
-Lamys hésita un instant, puis hocha la tête. "Tu as raison. Je suis Lamys, un chevalier errant en quête de réponses à des questions anciennes. J'appartiens au groupe des [[Gardiens de l'Aube]] Mon visage est caché non par honte, mais par nécessité par rapport au crédeau des gardiens. Il y a des choses que je ne peux pas encore révéler."
+Lamys hésita un instant, puis hocha la tête. "Tu as raison. Je suis Lamys, un chevalier errant en quête de réponses à des questions anciennes. J'appartiens au groupe des [[Gardiens de l Aube]] Mon visage est caché non par honte, mais par nécessité par rapport au crédeau des gardiens. Il y a des choses que je ne peux pas encore révéler."
 
 "Je comprends," répondit Sélène avec douceur. "Moi aussi, j'ai mes secrets. Mais peut-être qu'ensemble, nous pourrons découvrir ce que nous cherchons."
 

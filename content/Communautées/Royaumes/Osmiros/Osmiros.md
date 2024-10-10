@@ -15,9 +15,9 @@ Osmiros était niché au cœur d’une vallée entourée de falaises abruptes et
 Les Osmirosiens étaient un peuple fier, valorisant l'ingéniosité et le travail de la matière brute. Chaque citoyen, qu’il soit noble ou paysan, possédait une connaissance basique des mécanismes et des automates, et il n’était pas rare de voir des enfants manipuler de petits outils dès leur plus jeune âge. L’architecture d’Osmiros, tout en angles et en symétries parfaites, reflétait cette mentalité : chaque pierre et chaque machine devait avoir sa place et sa fonction. La religion locale vénérait les anciens forgerons et inventeurs, considérés comme des guides spirituels vers la compréhension du monde matériel.
 
 **Lieux Notables :**  
-- **[[La Grande Forge de Tor’Mir]]** : Le cœur industriel du royaume, une forge titanesque où les métaux étaient fondus pour créer les plus grands chefs-d’œuvre d’Osmiros. Les vapeurs et la lumière des fours illuminaient la vallée comme un phare dans la nuit.
+- **[[La Grande Forge de Tor Mir]]** : Le cœur industriel du royaume, une forge titanesque où les métaux étaient fondus pour créer les plus grands chefs-d’œuvre d’Osmiros. Les vapeurs et la lumière des fours illuminaient la vallée comme un phare dans la nuit.
 - **[[Le Temple des Rouages Harmonieux]]** : Un lieu de culte dédié à la symbiose entre la matière et l’esprit. Les Osmirosiens y méditaient sur le mouvement des rouages, cherchant à aligner leurs pensées avec l’équilibre parfait des machines.
-- **[[Les Archives Mécaniques d’Osmereth]]** : Une bibliothèque unique, rassemblant des schémas, des plans et des traités techniques datant de plusieurs siècles. Elle représentait le savoir accumulé du royaume et son patrimoine inestimable.
+- **[[Les Archives Mécaniques d Osmereth]]** : Une bibliothèque unique, rassemblant des schémas, des plans et des traités techniques datant de plusieurs siècles. Elle représentait le savoir accumulé du royaume et son patrimoine inestimable.
 
 ### Histoire :  
 

@@ -13,7 +13,7 @@ tags:
 **Nom** : Thaloril
 **Prénom** : Eryndor
 
-**origine** : [[Empire d'Ovrusea]]
+**origine** : [[Empire d Ovrusea]]
 **Race** : [[Sylvandiens]]
 
 ## portrait

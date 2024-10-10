@@ -22,9 +22,9 @@ tags:
 **Économie** : L'économie de l'Empire repose sur le commerce de produits artisanaux exquis, de bijoux sertis de gemmes magiques et d'herbes rares aux propriétés curatives. Veridell est un centre commercial dynamique où les entrepreneurs et les nobles amassent des fortunes, tandis que les artisans des régions rurales vivent dans des conditions précaires, leurs créations vendues à des prix exorbitants en ville.
 
 **Lieux Remarquables** :
-- [[La Tour de l'étoile]] : Une imposante tour au cœur de Veridell, siège du pouvoir royal et centre de la magie.
+- [[La Tour de l étoile]] : Une imposante tour au cœur de Veridell, siège du pouvoir royal et centre de la magie.
 - [[Les Jardins Éthérés]] : Un chef-d'œuvre de l'architecture, ces jardins luxuriants sont le symbole de la richesse de la capitale.
-- [[La Forêt d'Ithilion]] : Une forêt ancienne et sacrée, abritant des créatures mythiques et des secrets ancestraux.
+- [[La Forêt d Ithilion]] : Une forêt ancienne et sacrée, abritant des créatures mythiques et des secrets ancestraux.
 - [[Les Quartiers Artisans]] : En dehors de Veridell, ces quartiers sont marqués par la pauvreté, contrastant violemment avec l'opulence de la capitale.
 
 **Personnages notables : **

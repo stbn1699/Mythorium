@@ -27,7 +27,7 @@ Au cœur de la cité se trouve le **Palais des Profondeurs**, la résidence roya
 - **Les [[Grottes Chantantes de Syrlis]] :**  
   Ces cavernes naturelles, situées près des abysses, produisent des sons mélodieux créés par les courants marins et les cristaux résonants. Les Ondrilis considèrent ces lieux comme des sources de méditation et de sagesse, et on raconte que les voix des anciens résonnent parfois à travers les murs des grottes.
 
-- **Les [[Forêts d'Algues d'Ithaor]] :**  
+- **Les [[Forêts d Algues d Ithaor]] :**  
   Une immense forêt d'algues géantes entourant une partie de l'Abyssaria. Ces algues, aussi hautes que des arbres terrestres, abritent une biodiversité incroyable, avec des créatures marines rares et précieuses. Les Ondrilis y récoltent des plantes pour préparer leurs remèdes et potions.
 
 ### **Culture et Vie Locale :**
