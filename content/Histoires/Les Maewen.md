@@ -512,6 +512,112 @@ Alenya se redressa, prête à suivre Eliara dans cette nouvelle aventure, les ye
 Et, dans la douce lueur du soir qui emplissait la taverne, les deux femmes s’activèrent ensemble, chaque geste empreint de complicité retrouvée, chaque sourire partagé scellant un peu plus leur amour et leur renaissance commune.</p>
 		</div>
 	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>08 - Un Nouveau Souffle</h2> 
+			 <h3>Année 3564</h3>
+			 <p class="content">La taverne bourdonnait de rires et de conversations joyeuses. La lumière douce des lanternes suspendues au plafond projetait une lueur chaleureuse sur les tables de bois, où clients et habitués échangeaient nouvelles et anecdotes de la journée. Alenya, derrière le comptoir, s’affairait à servir des chopes débordantes d’hydromel et des assiettes de pâtisseries fumantes, ses gestes rapides et précis créant une harmonie parfaite avec le chaos vivant de la salle.
+
+Assise à une table près de la cheminée, Eliara observait la scène avec un sourire tranquille. C’était sa première soirée complète à travailler à la taverne depuis… depuis des mois. Et cette fois, pas comme une invitée, pas comme une convalescente hésitante. Elle faisait partie du tableau. Une main posée sur la hanche, elle observait les clients avec une attention paisible, ses yeux suivant le mouvement des serveurs et les sourires reconnaissants des villageois.
+
+Elle ressentait encore une légère appréhension, un pincement au creux de l’estomac chaque fois qu’elle pensait à se lever et aller porter elle-même une commande, mais aujourd’hui, ce n’était pas son rôle. Alenya lui avait confié une tâche plus en accord avec ses nouvelles capacités : la conception des infusions et des boissons spéciales. Elle se sentait étrangement à l’aise derrière ce nouveau comptoir d’alchimiste des saveurs.
+
+Elle leva les yeux alors qu’Alenya lui jetait un regard par-dessus son épaule, un sourire complice sur les lèvres.
+
+— *Prête pour le service du soir ?* lui lança Alenya d’un ton léger, bien que son regard trahissait une pointe de fierté. *J’ai eu quelques demandes spéciales pour tes nouvelles créations. Il paraît que ton "Elixir des Brumes Matinales" a fait sensation hier.*
+
+Eliara rougit légèrement, secouant la tête avec modestie.
+
+— *Je suis encore en train de comprendre comment équilibrer les saveurs… Ce n’est pas aussi facile que ça en a l’air,* répondit-elle en se levant finalement, son sac de plantes à la main. Elle se dirigea vers le petit coin réservé à ses préparations, derrière le comptoir principal. *Mais, je dois dire…* Elle laissa son regard errer sur les ingrédients soigneusement disposés devant elle. *J’aime beaucoup ce nouveau rôle.*
+
+Alenya se rapprocha, posant une main légère sur l’épaule d’Eliara.
+
+— *Je savais que tu y arriverais. Et maintenant, montre-moi ce que tu nous prépares ce soir.* Elle laissa sa main glisser lentement avant de s’éloigner, revenant accueillir un nouveau groupe de clients.
+
+Eliara prit une inspiration profonde et laissa ses doigts effleurer les pots de verre qui contenaient les herbes séchées, les zestes de fruits et les épices rares. Son esprit, si longtemps accaparé par la frustration de ses tremblements, semblait maintenant s’ouvrir à un monde de possibilités. Elle choisit une pincée de pétales de cinabre, une touche d’écorce de citron et quelques grains de baies de suca. Chaque geste était accompagné d’une pensée précise, d’une intention.
+
+— *Un arôme floral au début… et une touche d’acidité pour rafraîchir en fin de bouche…* Elle chuchotait pour elle-même, ses mains agiles malgré leur lenteur.
+
+Une fois les ingrédients assemblés, elle les laissa infuser dans l’eau chaude. La vapeur s’éleva, libérant une fragrance délicate et harmonieuse. Elle respira profondément, les yeux fermés, appréciant le mariage subtil des odeurs.
+
+— *Ça a l’air d’être quelque chose de très spécial,* fit une voix masculine à sa droite.
+
+Eliara sursauta légèrement et se retourna pour trouver Thalion Wynnelis, le guérisseur du royaume, appuyé contre le comptoir. Ses cheveux argentés reflétaient la lumière des lanternes, et ses yeux, d’un vert profond, pétillaient de malice.
+
+— *Thalion !* s’exclama-t-elle, sa surprise se transformant rapidement en un sourire chaleureux. *Je ne savais pas que tu viendrais ce soir.*
+
+Le druide haussa les épaules, un sourire tranquille flottant sur ses lèvres.
+
+— *Je ne pouvais pas rater l’occasion de goûter aux créations d’Eliara Maewen, la fameuse maîtresse des saveurs de Sylvandis.* Il lui adressa un clin d’œil complice. *Alenya n’a cessé de parler de toi ces derniers jours.*
+
+Eliara sentit ses joues s’empourprer sous le compliment. Elle s’empressa de verser une petite quantité de l’infusion dans une coupe de céramique, et la tendit à Thalion.
+
+— *Alors, dis-moi ce que tu en penses. C’est… une sorte d’essai. Je ne sais pas encore ce que ça vaut.*
+
+Thalion prit la coupe avec délicatesse, porta la boisson à ses lèvres et en but une gorgée. Son expression se fit pensive, presque introspective, avant de s’éclairer d’un sourire sincère.
+
+— *Un équilibre parfait,* dit-il doucement. *Floral, avec une pointe d’amertume juste ce qu’il faut pour laisser un arrière-goût rafraîchissant. C’est… une infusion qui raconte une histoire. Celle d’un nouveau départ, peut-être ?*
+
+Eliara resta un moment silencieuse, touchée par la justesse de ses mots. Elle hocha finalement la tête.
+
+— *Peut-être bien… Oui, c’est exactement ça. Un nouveau départ.*
+
+Thalion hocha la tête, et, après l’avoir félicitée encore une fois, il s’éloigna pour rejoindre une table proche de l’âtre, laissant Eliara seule avec ses pensées. Elle se sentit envahie par une chaleur douce, un sentiment de plénitude qu’elle n’avait pas connu depuis des années. Ce rôle, cette nouvelle identité qu’elle se construisait peu à peu… cela lui donnait une force différente. Pas celle d’une guerrière, mais d’une créatrice.
+
+La soirée avança, et les clients s’entassaient dans la taverne, chacun murmurant des compliments sur les nouvelles boissons. Alenya jetait de fréquents coups d’œil vers Eliara, et à chaque sourire satisfait ou hochement de tête des clients, elle ne pouvait s’empêcher de lui lancer un regard complice.
+
+Finalement, alors que les dernières lueurs du jour disparaissaient, Alenya rejoignit Eliara, une assiette dans les mains.
+
+— *Je pense qu’on a bien mérité de déguster ta création, rien que nous deux,* dit-elle doucement en déposant l’assiette sur le comptoir, avant de verser deux coupes de l’infusion spéciale qu’Eliara avait créée.
+
+Eliara, surprise, la regarda avec un sourire émerveillé.
+
+— *Tu veux dire… maintenant ?*
+
+— *Pourquoi pas ?* répliqua Alenya en haussant les épaules. *Ce soir, nous célébrons… toi. Et ce nouveau souffle que tu as apporté ici. À nous deux.*
+
+Elles trinquèrent doucement, savourant la boisson en silence. Chaque gorgée était un hommage à ce qu’elles avaient surmonté ensemble, un toast discret aux moments partagés et aux épreuves passées. Eliara laissa ses doigts effleurer ceux d’Alenya sur le comptoir, un sourire léger et sincère illuminant son visage.
+
+La soirée continua de battre son plein, mais pour elles, dans ce coin intime de la taverne, le monde sembla se réduire à cette table, à ces rires étouffés et à la complicité lumineuse de deux âmes retrouvant peu à peu le chemin vers une paix intérieure.
+
+La nuit avançait, et malgré la fatigue, Eliara ressentait une joie simple, profonde. Pour la première fois depuis longtemps, elle se sentait vraiment… elle-même.</p>
+		</div>
+	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>07 - Voyage (Partie 3)</h2> 
+			 <h3>Année 3564</h3>
+			 <p class="content"></p>
+		</div>
+	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>07 - Voyage (Partie 3)</h2> 
+			 <h3>Année 3564</h3>
+			 <p class="content"></p>
+		</div>
+	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>07 - Voyage (Partie 3)</h2> 
+			 <h3>Année 3564</h3>
+			 <p class="content"></p>
+		</div>
+	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>07 - Voyage (Partie 3)</h2> 
+			 <h3>Année 3564</h3>
+			 <p class="content"></p>
+		</div>
+	</div>
+	<div class="event"> 
+		<div class="event-content">
+			 <h2>07 - Voyage (Partie 3)</h2> 
+			 <h3>Année 3564</h3>
+			 <p class="content"></p>
+		</div>
+	</div>
 </div>
 </div>
 
