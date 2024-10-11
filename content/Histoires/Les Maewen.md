@@ -585,9 +585,75 @@ La nuit avançait, et malgré la fatigue, Eliara ressentait une joie simple, pro
 	</div>
 	<div class="event"> 
 		<div class="event-content">
-			 <h2>07 - Voyage (Partie 3)</h2> 
+			 <h2>09 - Le Retour de la Guerrière</h2> 
 			 <h3>Année 3564</h3>
-			 <p class="content"></p>
+			 <p class="content">Les rayons du soleil filtraient à travers les frondaisons de Sylvandis, projetant des motifs mouvants sur le sol de la forêt. Un bruissement léger accompagnait chaque pas d’Eliara, ses bottes s’enfonçant doucement dans la mousse verdoyante. Le calme environnant, ponctué par le chant discret des oiseaux et le souffle de la brise entre les branches, emplissait l’air d’une sérénité apaisante.
+
+Alenya marchait à ses côtés, une large besace en bandoulière contenant les outils et les bocaux pour la cueillette. Elles avaient décidé de partir ensemble ce matin-là, pour leur première véritable expédition commune depuis la convalescence d’Eliara. La guerrière s’était éveillée avec une énergie nouvelle, son corps vibrant d’une excitation qu’elle n’avait pas ressentie depuis longtemps. Ce n’était pas une simple récolte. C’était un test, une mise à l’épreuve de ses limites retrouvées.
+
+— _Pas trop nerveuse ?_ demanda Alenya en tournant la tête vers elle, ses yeux pétillants de malice.
+
+Eliara lui renvoya un regard tranquille, ses lèvres s’étirant en un sourire serein.
+
+— _Tu veux dire après m’avoir vue chasser des ombres et de fausses craintes pendant des mois ?_ Elle secoua doucement la tête. _Non. Pas aujourd’hui. Aujourd’hui, je veux juste…_ Elle chercha ses mots, levant le visage vers le ciel entre les branches. _Être en paix avec la forêt. C’est tout._
+
+Elles continuèrent de marcher en silence pendant un moment, leurs pas synchronisés, l’écho de leurs pas se fondant dans le bruissement des feuilles. Eliara se sentait étrangement connectée à chaque son, chaque odeur. Le parfum des pins et de la terre humide, le craquement d’une branche sous leurs pieds… tout cela l’enveloppait comme un cocon protecteur.
+
+— _Nous devrions nous séparer un peu,_ proposa finalement Alenya, sa voix douce rompant le silence. _Il y a un coin où j’aimerais cueillir des champignons et…_ Elle hésita un instant avant de poursuivre, _je pense que ça te ferait du bien d’explorer seule, comme la dernière fois._
+
+Eliara laissa un instant ses yeux se plonger dans ceux d’Alenya, cherchant à comprendre ce qu’elle n’avait pas dit. Puis elle hocha la tête.
+
+— _D’accord. Mais ne t’aventure pas trop loin. Je ne voudrais pas que la forêt te garde pour elle seule,_ plaisanta-t-elle, un sourire espiègle jouant sur ses lèvres.
+
+Alenya leva les yeux au ciel en riant.
+
+— _Ne t’inquiète pas, guerrière. Je retrouverai toujours mon chemin vers toi._
+
+Après un baiser léger sur les lèvres — un simple effleurement qui fit battre le cœur d’Eliara plus fort —, elles se séparèrent. Alenya s’éloigna lentement vers l’est, et Eliara, le cœur apaisé, se tourna vers le sentier qui s’enfonçait plus profondément dans la forêt.
+
+Elle marcha lentement, laissant ses sens s’imprégner de l’environnement. Le sol, couvert de mousse épaisse, semblait presque céder sous ses pas, créant un léger murmure à chaque foulée. La lumière douce du matin jouait à travers les branches, formant un réseau de rayons dorés qui dansaient sur le sol. Tout était si vivant, si vibrant. Elle inspira profondément, savourant l’air frais, chargé de mille senteurs boisées et florales.
+
+_La forêt…_ pensa-t-elle en posant une main sur l’écorce d’un arbre ancien. _Elle m’a toujours appelée. Mais pourquoi ai-je mis autant de temps à lui répondre ?_
+
+Les arbres semblaient s’incliner doucement, comme pour lui ouvrir le chemin. Un frisson parcourut son corps. Non pas de peur, mais d’une étrange forme de reconnaissance, presque de gratitude. Elle se dirigea vers une petite clairière qu’elle n’avait encore jamais explorée. Là, des touffes de bellifleurs s’étalaient à perte de vue, leurs pétales d’un violet délicat se balançant au rythme de la brise.
+
+Eliara s’agenouilla, sortant un petit couteau de son sac. Sa main trembla légèrement en le saisissant, mais elle ne se laissa pas déstabiliser. La lame effleura les tiges, tranchant avec une précision maîtrisée. Elle sourit, satisfaite. Les tremblements étaient moins prononcés que d’habitude. Peut-être que la forêt les apaisait d’une manière qu’elle ne comprenait pas encore.
+
+Elle cueillit quelques tiges, les rangeant soigneusement dans une pochette de cuir. Alors qu’elle se redressait, ses yeux furent attirés par une tache de couleur différente, un peu plus loin dans la clairière. Une plante qu’elle ne reconnaissait pas. Ses feuilles étaient d’un vert profond, presque irisé, et ses fleurs, d’un bleu intense, semblaient pulser légèrement sous la lumière du matin.
+
+_Qu’est-ce que c’est ?_ se demanda-t-elle en s’approchant lentement, fascinée.
+
+Elle se pencha, effleurant du bout des doigts l’une des fleurs. Un léger picotement se répandit dans sa paume, une sensation à la fois douce et électrique. La plante semblait réagir à son contact, ses pétales s’écartant légèrement comme pour accueillir son toucher. Un sourire étonné éclaira le visage d’Eliara.
+
+— _On dirait que tu me connais, toi aussi,_ murmura-t-elle.
+
+Elle coupa avec précaution quelques feuilles et une fleur entière, les rangeant dans une autre pochette. Il faudrait qu’elle montre cette plante à Alenya et à Thalion. Peut-être en savaient-ils plus sur cette espèce mystérieuse. Satisfaite de sa récolte, elle se redressa et laissa son regard errer autour d’elle.
+
+La clairière, baignée de lumière, paraissait respirer doucement, en harmonie avec son propre souffle. Un sentiment de plénitude l’envahit. Elle resta là, immobile, savourant cet instant de pure sérénité. Puis, son estomac grogna doucement, la ramenant à la réalité.
+
+— _Il semblerait que j’aie perdu la notion du temps,_ se dit-elle avec un petit rire.
+
+Elle s’installa sur un rocher plat, sortant un morceau de pain aux noix et un peu de fromage de chèvre du sac qu’Alenya avait soigneusement préparé. Le repas était simple, mais chaque bouchée semblait contenir un fragment de cette paix qu’elle ressentait au plus profond d’elle-même. Elle mangea en silence, ses pensées dérivant vers Alenya, se demandant comment se déroulait sa propre cueillette.
+
+Une fois le repas terminé, elle s’étira longuement et décida de continuer son exploration. La forêt, plus dense, la guidait à présent. Les arbres se resserraient autour d’elle, leurs troncs formant des colonnes imposantes qui semblaient vouloir toucher le ciel. Pourtant, elle ne ressentait aucune oppression, aucune peur. Seulement un respect profond pour ces géants qui veillaient sur elle.
+
+Alors qu’elle avançait plus profondément, elle entendit un bruit. Un léger craquement, presque imperceptible. Elle s’arrêta, le cœur battant plus vite. Une ombre se mouvait entre les troncs. Un cerf apparut, majestueux, ses bois imposants scintillant sous les rayons filtrants. Eliara retint son souffle. Le cerf la regarda, ses yeux sombres empreints d’une sagesse ancienne. Puis, lentement, il inclina la tête, comme en signe de salut, avant de disparaître dans les sous-bois.
+
+Eliara resta figée, son cœur tambourinant dans sa poitrine. Un sentiment de reconnaissance l’envahit. Elle posa une main sur sa poitrine, là où battait son cœur, et sourit.
+
+— _Merci…_ murmura-t-elle dans un souffle, comme si ces mots s’adressaient autant à la forêt qu’à elle-même.
+
+La journée continua ainsi, chaque découverte, chaque pas la rapprochant un peu plus de cet équilibre intérieur qu’elle cherchait. Lorsqu’elle sentit la lumière décliner, elle fit demi-tour, empruntant un sentier qu’elle avait repéré plus tôt. En s’approchant de l’endroit où elle devait retrouver Alenya, elle remarqua une silhouette familière, un peu plus loin.
+
+Alenya était là, assise sur un tronc abattu, son sac à moitié rempli de champignons et de plantes diverses. Elle leva la tête en entendant les pas d’Eliara et se leva d’un bond, un sourire radieux illuminant son visage.
+
+— _Alors, comment ça s’est passé ?_ demanda-t-elle avec une pointe d’excitation dans la voix.
+
+Eliara, encore sous le coup de l’émotion de sa rencontre avec le cerf, s’approcha lentement, sortant la pochette contenant la mystérieuse fleur bleue.
+
+— _Je pense… que nous avons beaucoup à discuter._
+
+Leurs regards se croisèrent, et dans cette échange silencieux, Alenya sut que cette journée avait marqué un tournant. Eliara ne faisait pas que marcher dans la forêt. Elle y reprenait racine, d’une manière qu’elles n’avaient pas imaginée.</p>
 		</div>
 	</div>
 	<div class="event"> 
