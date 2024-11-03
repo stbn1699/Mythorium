@@ -17,7 +17,7 @@ tags:
 
 - **Longévité et Vitalité :** Les Elfes jouissent d'une longévité exceptionnelle, vivant souvent plusieurs siècles sans que l'âge ne marque véritablement leur apparence. Ils conservent leur agilité, leur force et leur santé bien plus longtemps que les autres espèces humanoïdes. Les Elfes atteignent l'âge adulte plus lentement, mais une fois adulte, leur vieillissement est extrêmement lent.
 
-- **Affinité avec la Magie :** Tous les Elfes possèdent une affinité innée avec la magie, qu’elle soit élémentaire, naturelle, ou mystique. Cette capacité se manifeste différemment selon les races d'Elfes, mais ils sont tous capables de percevoir les flux magiques qui parcourent le monde, et beaucoup d'entre eux peuvent les manipuler instinctivement.
+- **Affinité avec la Magie :** Tous les Elfes possèdent une affinité innée avec la magie, qu’elle soit élémentaire, naturelle, ou mystique. Cette capacité se manifeste différemment selon les races d'Elfes, mais ils sont tous capables de percevoir les flux magiques qui parcourent le monde, et beaucoup d'entre eux peuvent les manipuler instinctivement. (voir plus dans [[Magie Elfique]])
 
 - **Connexion avec la Nature :** La majorité des Elfes entretiennent une relation symbiotique avec leur environnement, qu’il soit forestier, montagneux, ou maritime. Ils ressentent une profonde connexion avec la terre, les plantes, les animaux, et les énergies qui les entourent. Cette communion avec la nature leur permet de se régénérer plus rapidement en milieu naturel et de ressentir les changements subtils de leur environnement.
 
