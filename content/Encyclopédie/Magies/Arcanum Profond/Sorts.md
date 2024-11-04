@@ -2,7 +2,11 @@
 | --- | --- |
 | Phōs | éclaire l'environnement immédiat du lanceur. |
 | Skotós | éteint toute lumière émise par la baguette. |
-| Pyraphoros | Fait apparaître une petite flamme au bout de la baguette |
+| Pyraphoros | Fait apparaître une petite flamme au bout de la baguette. |
+| Aerofero | Fait léviter des objets. |
+| Apóthysis | boule d'énergie qui repousse ce qu'elle touche. |
+| Gēkínēsis | permet de manipuler la terre et la roche. |
+| Pagóplēx | permet de projeter un souffle de glace. |
 
 # Phōs
 
@@ -90,3 +94,117 @@
 ## Geste à Produire
 
 - **Description du Geste** : Le lanceur doit lever légèrement la baguette tout en effectuant un petit mouvement circulaire pour stabiliser la flamme. Un geste fluide est essentiel pour maintenir la flamme vivante.
+
+# Aerofero
+
+## Description du Sort
+
+**Aerofero** est un sort de lévitation utilisé pour soulever et manipuler des objets à distance. Il permet au lanceur de concentrer son énergie magique sur un objet spécifique, le faisant léviter et se déplacer selon sa volonté. Ce sort est fondamental dans l'apprentissage de la manipulation magique des objets et est particulièrement utile dans des situations nécessitant précision et contrôle sans contact physique.
+
+## Origine du Nom
+
+- **Étymologie** : Le nom **Aerofero** provient de la langue primordiale **ἀήρ (aēr)** signifiant "air" et **φέρω (pherō)** signifiant "porter" ou "transporter". Il incarne l'idée de "porter à travers l'air", soulignant la capacité du sort à faire léviter des objets.
+
+## Niveau de Maîtrise
+
+- **Catégorie** : Débutant, cependant, plus l'objet est massif, plus le sort est exigeant
+- **Difficulté** : 3/10
+- **Pré-requis** : Une maîtrise de base des incantations simples et un contrôle mental stable pour diriger la lévitation de manière précise.
+
+## Description des Effets
+
+- **Effet Principal** : **Aerofero** permet de soulever un objet et de le faire flotter dans les airs. Le lanceur peut diriger l’objet avec des mouvements subtils de la baguette.
+- **Effets Secondaires** : Une légère brise peut être ressentie autour de l'objet lévité, due à la manipulation des flux d'air environnants.
+- **Durée** : Temporaire, jusqu'à ce que le lanceur perde sa concentration ou annule le sort.
+- **Portée** : Moyenne, généralement efficace jusqu'à 10 mètres.
+- **Consommation d'Énergie** : Modérée pour des objets légers, augmentant avec la taille ou le poids de l’objet.
+
+nb: ne fonctionne pas avec les êtres vivants (hors plantes)
+
+## Geste à Produire
+
+- **Description du Geste** : Le lanceur pointe la baguette vers l'objet ciblé, effectue un mouvement ascendant lent et contrôlé pour initier la lévitation, suivi d'un léger mouvement latéral pour diriger l'objet.
+
+# Apóthysis
+
+## Description du Sort
+
+**Apóthysis** est un sort conçu pour projeter une boule d'énergie condensée capable de repousser tout objet ou personne sur son passage. Lors de l'impact, cette énergie libère une puissante force de répulsion, idéale pour dégager des obstacles ou repousser des adversaires dans des situations de défense ou d'attaque.
+
+## Origine du Nom
+
+- **Étymologie** : Le nom **Apóthysis** vient de la langue primordiale **ἀπό (apo)**, signifiant "loin de", et **θυσία (thysis)**, signifiant "pousser" ou "repousser". Ce nom traduit parfaitement l’essence du sort : repousser avec force tout ce qui se trouve sur son chemin.
+
+## Niveau de Maîtrise
+
+- **Catégorie** : Intermédiaire
+- **Difficulté** : 5/10
+- **Pré-requis** : Une bonne maîtrise des sorts d'énergie basiques et une concentration stable pour guider la trajectoire de la boule d'énergie.
+
+## Description des Effets
+
+- **Effet Principal** : **Apóthysis** génère une boule d'énergie pure qui, une fois projetée, repousse violemment tout objet ou personne sur son passage.
+- **Effets Secondaires** : Une onde de choc résiduelle peut déséquilibrer les cibles à proximité de l'impact, causant un léger étourdissement.
+- **Durée** : Instantané.
+- **Portée** : Moyenne, jusqu'à environ 15 mètres.
+- **Consommation d'Énergie** : Modérée, demandant une focalisation précise pour maintenir l’efficacité du sort.
+
+## Geste à Produire
+
+- **Description du Geste** : Le sort est activé par un mouvement rapide de la baguette vers l'avant, suivi d'un léger arc de cercle pour stabiliser la boule d'énergie et guider sa trajectoire avec précision.
+
+# Gēkínēsis
+
+## Description du Sort
+
+**Gēkínēsis** est un sort puissant permettant de manipuler la terre et la roche. Avec ce sort, le lanceur peut soulever, déplacer, et projeter des masses de terre ou des pierres, créant ainsi des barrières de protection, des projectiles pour attaquer, ou des obstacles pour ralentir ses ennemis. Pour les charges importantes ou complexes, l’utilisation de la main libre est indispensable pour stabiliser et guider la manipulation.
+
+## Origine du Nom
+
+- **Étymologie** : **Gēkínēsis** est dérivé du grec **γη (gē)**, signifiant "terre", et **κίνηση (kínēsis)**, signifiant "mouvement". Le nom décrit parfaitement la capacité du sort à animer et à contrôler la terre.
+
+## Niveau de Maîtrise
+
+- **Catégorie** : Intermédiaire
+- **Difficulté** : 6/10
+- **Pré-requis** : Une bonne maîtrise des sorts élémentaires et une capacité à canaliser des énergies massives pour manipuler des objets lourds.
+
+## Description des Effets
+
+- **Effet Principal** : Permet de soulever et manipuler des blocs de terre ou de roche. Ces masses peuvent être utilisées comme projectiles, pour créer des barrières, ou pour remodeler le terrain.
+- **Effets Secondaires** : La manipulation du terrain peut provoquer des déséquilibres mineurs dans l'environnement immédiat, rendant difficile l'équilibre pour les adversaires proches.
+- **Durée** : Temporaire, maintenue par la concentration du lanceur.
+- **Portée** : Moyenne, jusqu'à environ 10 mètres pour manipuler efficacement les éléments.
+- **Consommation d'Énergie** : Modérée à élevée, selon la taille et le poids des éléments manipulés.
+
+## Geste à Produire
+
+- **Description du Geste** : Le sort commence par pointer la baguette vers le sol avec un mouvement circulaire pour "ramasser" la terre ou la roche. Lorsqu'il s'agit de manipuler de grandes quantités, la main libre doit accompagner le mouvement en suivant les gestes de la baguette. Un mouvement ascendant et large des deux mains est nécessaire pour soulever les masses, suivi d’un geste de poussée coordonné pour projeter les éléments.
+
+# Pagóplēx
+
+## Description du Sort
+
+**Pagóplēx** est un sort élémentaire de glace, permettant au lanceur de projeter un souffle glacé qui gèle instantanément l'eau ou les surfaces humides sur son passage. Ce sort est particulièrement utile pour immobiliser des adversaires, ralentir leurs mouvements, ou créer des obstacles glissants. Avec une maîtrise avancée, **Pagóplēx** peut être utilisé pour façonner des structures de glace complexes.
+
+## Origine du Nom
+
+- **Étymologie** : Le nom **Pagóplēx** est formé à partir du grec ancien **πάγος (págos)**, signifiant "glace", et **πληγὴ (plēgē)**, signifiant "coup" ou "frappe". Il reflète l'idée d'un "coup de glace", décrivant l'impact immédiat et gelant du souffle magique.
+
+## Niveau de Maîtrise
+
+- **Catégorie** : Intermédiaire
+- **Difficulté** : 4/10
+- **Pré-requis** : Connaissance de base des sorts élémentaires et une bonne maîtrise de la concentration pour diriger précisément le souffle glacé.
+
+## Description des Effets
+
+- **Effet Principal** : **Pagóplēx** projette un souffle glacé depuis la baguette, gelant instantanément tout liquide ou surface mouillée sur son chemin, et ralentissant considérablement les cibles vivantes touchées.
+- **Effets Secondaires** : La zone affectée devient glissante, ce qui peut déséquilibrer les adversaires et rendre les mouvements plus difficiles.
+- **Durée** : Temporaire, les effets de gel durent environ 30 secondes à une minute, selon les conditions ambiantes.
+- **Portée** : Courte à moyenne, jusqu'à 10 mètres.
+- **Consommation d'Énergie** : Modérée, dépendant de la durée et de l'intensité du souffle.
+
+## Geste à Produire
+
+- **Description du Geste** : Le lanceur doit effectuer un mouvement fluide de la baguette, partant du bas vers le haut, comme pour "souffler" de l'air froid. La main libre est levée, paume ouverte, pour stabiliser et canaliser l'énergie froide.
