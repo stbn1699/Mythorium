@@ -72,3 +72,55 @@ draft: true
 <div class="timeline">
 </div>
 ```
+
+# template de page de sorts
+
+```markdown
+# Nom du Sort : [Nom du Sort]
+
+## Origine du Nom
+- **Étymologie** : Le nom **[Nom du Sort]** est dérivé du grec ancien **[Mot Grec]**, signifiant "..." (expliquer la signification et pourquoi ce mot a été choisi pour ce sort).
+
+## Niveau de Maîtrise
+- **Catégorie** : [Débutant/Intermédiaire/Avancé/Maître]
+- **Difficulté** : [1 à 10] (échelle de difficulté)
+- **Pré-requis** : [Description des compétences, connaissances ou niveau requis pour apprendre ce sort]
+
+## Description des Effets
+- **Effet Principal** : Décrire en détail l'effet principal du sort. Expliquer comment il se manifeste et son impact.
+- **Effets Secondaires** : Décrire les effets secondaires possibles ou additionnels.
+- **Durée** : [Instantané/Temporaire/Permanent]
+- **Portée** : [Courte/Moyenne/Longue] et détails (ex: 10m, 50m, à vue)
+- **Consommation d'Énergie** : Décrire la quantité d'énergie nécessaire pour lancer le sort.
+
+## Geste à Produire
+- **Description du Geste** : Décrire précisément les mouvements à exécuter avec la baguette ou les mains.
+  
+![Geste à Produire](url_de_l_image)
+
+---
+
+## Exemple Complété
+
+### Nom du Sort : **Ignis Sphaira**
+
+## Origine du Nom
+- **Étymologie** : Le nom **Ignis Sphaira** vient du grec ancien **ἴγνις (ignis)** signifiant "feu", et **σφαῖρα (sphaira)** signifiant "sphère". Il décrit parfaitement le sort qui crée une sphère de feu.
+
+## Niveau de Maîtrise
+- **Catégorie** : Intermédiaire
+- **Difficulté** : 6/10
+- **Pré-requis** : Connaissance de base des sorts élémentaires du feu, maîtrise des gestes précis de canalisation.
+
+## Description des Effets
+- **Effet Principal** : Crée une sphère de feu de taille modérée pouvant être projetée vers une cible. Elle explose à l'impact, causant des dégâts de brûlure.
+- **Effets Secondaires** : Peut provoquer un éclairage temporaire de la zone ou allumer des objets inflammables.
+- **Durée** : Instantané
+- **Portée** : Moyenne (jusqu'à 20 mètres)
+- **Consommation d'Énergie** : Modérée, nécessite une bonne concentration et un flux arcanique stable.
+
+## Geste à Produire
+- **Description du Geste** : Effectuer un mouvement circulaire avec la baguette, puis une poussée rapide vers l'avant.
+
+![Geste à Produire](https://exemple.com/image-geste.png)
+```
