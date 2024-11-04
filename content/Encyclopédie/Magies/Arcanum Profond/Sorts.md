@@ -5,7 +5,8 @@
 | Pyraphoros | Fait apparaître une petite flamme au bout de la baguette. |
 | Aerofero | Fait léviter des objets. |
 | Apóthysis | boule d'énergie qui repousse ce qu'elle touche. |
-| Terrakinesis | permet de manipuler la terre et la roche. |
+| Gēkínēsis | permet de manipuler la terre et la roche. |
+| Pagóplēx | permet de projeter un souffle de glace. |
 
 # Phōs
 
@@ -152,15 +153,15 @@ nb: ne fonctionne pas avec les êtres vivants (hors plantes)
 
 - **Description du Geste** : Le sort est activé par un mouvement rapide de la baguette vers l'avant, suivi d'un léger arc de cercle pour stabiliser la boule d'énergie et guider sa trajectoire avec précision.
 
-# Terrakinesis
+# Gēkínēsis
 
 ## Description du Sort
 
-**Terrakinesis** est un sort puissant permettant de manipuler la terre et la roche. Avec ce sort, le lanceur peut soulever, déplacer, et projeter des masses de terre ou des pierres, créant ainsi des barrières de protection, des projectiles pour attaquer, ou des obstacles pour ralentir ses ennemis. Pour les charges importantes ou complexes, l’utilisation de la main libre est indispensable pour stabiliser et guider la manipulation.
+**Gēkínēsis** est un sort puissant permettant de manipuler la terre et la roche. Avec ce sort, le lanceur peut soulever, déplacer, et projeter des masses de terre ou des pierres, créant ainsi des barrières de protection, des projectiles pour attaquer, ou des obstacles pour ralentir ses ennemis. Pour les charges importantes ou complexes, l’utilisation de la main libre est indispensable pour stabiliser et guider la manipulation.
 
 ## Origine du Nom
 
-- **Étymologie** : **Terrakinesis** est dérivé du latin **terra**, signifiant "terre", et du grec **κίνηση (kínēsis)**, signifiant "mouvement". Le nom décrit parfaitement la capacité du sort à animer et à contrôler la terre.
+- **Étymologie** : **Gēkínēsis** est dérivé du grec **γη (gē)**, signifiant "terre", et **κίνηση (kínēsis)**, signifiant "mouvement". Le nom décrit parfaitement la capacité du sort à animer et à contrôler la terre.
 
 ## Niveau de Maîtrise
 
@@ -180,36 +181,30 @@ nb: ne fonctionne pas avec les êtres vivants (hors plantes)
 
 - **Description du Geste** : Le sort commence par pointer la baguette vers le sol avec un mouvement circulaire pour "ramasser" la terre ou la roche. Lorsqu'il s'agit de manipuler de grandes quantités, la main libre doit accompagner le mouvement en suivant les gestes de la baguette. Un mouvement ascendant et large des deux mains est nécessaire pour soulever les masses, suivi d’un geste de poussée coordonné pour projeter les éléments.
 
+# Pagóplēx
 
+## Description du Sort
 
+**Pagóplēx** est un sort élémentaire de glace, permettant au lanceur de projeter un souffle glacé qui gèle instantanément l'eau ou les surfaces humides sur son passage. Ce sort est particulièrement utile pour immobiliser des adversaires, ralentir leurs mouvements, ou créer des obstacles glissants. Avec une maîtrise avancée, **Pagóplēx** peut être utilisé pour façonner des structures de glace complexes.
 
+## Origine du Nom
 
+- **Étymologie** : Le nom **Pagóplēx** est formé à partir du grec ancien **πάγος (págos)**, signifiant "glace", et **πληγὴ (plēgē)**, signifiant "coup" ou "frappe". Il reflète l'idée d'un "coup de glace", décrivant l'impact immédiat et gelant du souffle magique.
 
+## Niveau de Maîtrise
 
+- **Catégorie** : Intermédiaire
+- **Difficulté** : 4/10
+- **Pré-requis** : Connaissance de base des sorts élémentaires et une bonne maîtrise de la concentration pour diriger précisément le souffle glacé.
 
-1. **Glaciara**  
-   - Projette un souffle glacé qui gèle instantanément l'eau et ralentit les ennemis.
+## Description des Effets
 
-3. **Ventos**  
-   - Crée une rafale de vent puissant capable de déséquilibrer ou repousser des adversaires.
+- **Effet Principal** : **Pagóplēx** projette un souffle glacé depuis la baguette, gelant instantanément tout liquide ou surface mouillée sur son chemin, et ralentissant considérablement les cibles vivantes touchées.
+- **Effets Secondaires** : La zone affectée devient glissante, ce qui peut déséquilibrer les adversaires et rendre les mouvements plus difficiles.
+- **Durée** : Temporaire, les effets de gel durent environ 30 secondes à une minute, selon les conditions ambiantes.
+- **Portée** : Courte à moyenne, jusqu'à 10 mètres.
+- **Consommation d'Énergie** : Modérée, dépendant de la durée et de l'intensité du souffle.
 
-4. **Luminarae**  
-   - Lance une série de petites lumières flottantes qui suivent le lanceur et éclairent une grande zone.
+## Geste à Produire
 
-5. **Aquaorb**  
-   - Conjure une sphère d'eau en suspension, utilisable pour éteindre des feux ou attaquer.
-
-6. **Ignis Explosis**  
-   - Génère une explosion contrôlée de flammes à courte portée, infligeant des dégâts de zone.
-
-7. **Aetherium**  
-   - Permet de créer un bouclier éthéré qui absorbe une quantité limitée de dégâts magiques.
-
-8. **Electroshock**  
-   - Décharge une impulsion électrique vers une cible, paralysant temporairement ses mouvements.
-
-9. **Floravita**  
-   - Stimule la croissance rapide des plantes pour créer des barrières naturelles ou immobiliser des ennemis.
-
-10. **Umbra**  
-    - Crée un voile d’ombre autour du lanceur, rendant les mouvements furtifs et plus difficiles à détecter.
+- **Description du Geste** : Le lanceur doit effectuer un mouvement fluide de la baguette, partant du bas vers le haut, comme pour "souffler" de l'air froid. La main libre est levée, paume ouverte, pour stabiliser et canaliser l'énergie froide.
