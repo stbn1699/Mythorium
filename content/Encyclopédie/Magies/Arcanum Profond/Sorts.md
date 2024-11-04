@@ -1,10 +1,8 @@
-# table des matières
-| **nom** | courte description | emplacement | 
-| --- | --- | --- |
-| Phōs | éclaire l'environnement immédiat du lanceur. | [[#Phōs]] |
-| Skotós | éteint toute lumière émise par la baguette. | [[#Skotós]] |
-| Pyraphoros | Fait apparaître une petite flamme au bout de la baguette | [[#Pyraphoros]] |
-
+| **nom** | courte description |
+| --- | --- |
+| Phōs | éclaire l'environnement immédiat du lanceur. |
+| Skotós | éteint toute lumière émise par la baguette. |
+| Pyraphoros | Fait apparaître une petite flamme au bout de la baguette |
 
 # Phōs
 
@@ -14,7 +12,7 @@
 
 ## Origine du Nom
 
-- **Étymologie** : Le nom **Phōs** provient du grec ancien **φῶς**, signifiant "lumière". Ce terme a été choisi pour son essence simple et pure, reflétant la nature directe du sort qui apporte la lumière dans l'obscurité.
+- **Étymologie** : Le nom **Phōs** provient de la langue primordiale, **φῶς**, signifiant "lumière". Ce terme a été choisi pour son essence simple et pure, reflétant la nature directe du sort qui apporte la lumière dans l'obscurité.
 
 ## Niveau de Maîtrise
 
@@ -42,7 +40,7 @@
 
 ## Origine du Nom
 
-- **Étymologie** : Le nom **Skotós** dérive du grec ancien **σκότος**, signifiant "obscurité" ou "ténèbres". Ce terme capture parfaitement l’essence du sort, qui retire la lumière et laisse place à l’ombre.
+- **Étymologie** : Le nom **Skotós** dérive de la langue primordiale **σκότος**, signifiant "obscurité" ou "ténèbres". Ce terme capture parfaitement l’essence du sort, qui retire la lumière et laisse place à l’ombre.
 
 ## Niveau de Maîtrise
 
@@ -70,7 +68,7 @@
 
 ## Origine du Nom
 
-- **Étymologie** : Le nom **Pyraphoros** vient du grec ancien **πῦρ (pyr)** signifiant "feu" et **φορά (phorá)** signifiant "porteur". Ce nom illustre parfaitement la nature du sort : porter et contrôler une flamme vivante au bout de la baguette.
+- **Étymologie** : Le nom **Pyraphoros** vient de la langue primordiale **πῦρ (pyr)** signifiant "feu" et **φορά (phorá)** signifiant "porteur". Ce nom illustre parfaitement la nature du sort : porter et contrôler une flamme vivante au bout de la baguette.
 
 ## Niveau de Maîtrise
 
