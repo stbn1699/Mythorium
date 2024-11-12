@@ -75,7 +75,7 @@ draft: true
 
 # template de page de sorts
 
-```markdown
+```
 # Nom du Sort : [Nom du Sort]
 
 ## Origine du Nom
@@ -124,3 +124,12 @@ draft: true
 
 ![Geste à Produire](https://exemple.com/image-geste.png)
 ```
+
+# liens gpt
+
+
+|     page    | lien |
+| ----------- | ---- |
+| les Maewens | [ici](https://chatgpt.com/g/g-E5XmqJQ4d-mythorium/c/6701db5a-9650-8003-b4c1-4e0572bfce17) |
+| sorts       | [ici](https://chatgpt.com/g/g-E5XmqJQ4d-mythorium/c/6726e23c-0b68-8003-8751-cb86bc2ef568) |
+| alchimie    | [ici](https://chatgpt.com/c/af5360c8-6702-4ac2-8a38-9b4183c70d44) |
