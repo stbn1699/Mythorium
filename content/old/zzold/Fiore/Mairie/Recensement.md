@@ -8,7 +8,7 @@ tags:
 reine du royaume avec [[Wymon III]]
 ### [[Gim Mov]]
 Tavernier, Brasseur, Cuisinier et fondateur de la [[Taverne]] et en couple avec [[Lagertha Osmond]]
-### [[zzold/Fiore/Personnages/Jarvin Wells]]
+### [[old/zzold/Fiore/Personnages/Jarvin Wells]]
 Couturier et fondateur du [[Couturier]]
 ### [[Kamoto Shigeko]]
 explorateur militaire en couple avec [[Kawada Shigeko]]
@@ -26,7 +26,7 @@ elle maitrise les éléments
 Jumelle de [[Shiao Yue]], elle est boulangère et fondatrice de la [[Boulangerie]]
 ### [[Shiao Yue]]
 jumelle de [[Seshai Yue]], elle tient l'[[Epicerie]] du royaume
-### [[zzold/Fiore/Personnages/Tonya Forbes]]
+### [[old/zzold/Fiore/Personnages/Tonya Forbes]]
 Apothicaire du royaume, dans l'[[Apothicairerie]]
 ### [[Wymon III]]
 Roi du royaume avec [[Freya IV]]
