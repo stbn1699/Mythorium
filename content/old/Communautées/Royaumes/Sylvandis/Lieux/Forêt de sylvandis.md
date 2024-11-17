@@ -1,8 +1,0 @@
-
-![[LIEU_sylvandis_foretSylvandis.png]]
-
-## ambiance Générale
-
-La forêt de Sylvandis est un sanctuaire de verdure où la magie imprègne chaque feuille et chaque brin d'herbe. Les arbres majestueux, aux troncs épais et noueux, s'élèvent haut dans le ciel, leurs branches formant une canopée dense qui filtre la lumière du soleil en faisceaux dorés. Des lianes et des plantes grimpantes s'entrelacent autour des troncs, créant un réseau de verdure vibrant de vie. Le sol est tapissé de mousses moelleuses et de fougères délicates, offrant un doux tapis aux pas de ceux qui traversent ce havre mystique. Des fleurs lumineuses et colorées, certaines d'un bleu éclatant, d'autres d'un rouge profond, parsèment le paysage, exhalant des parfums enivrants qui se mêlent à l'air frais et humide de la forêt.
-
-L'ambiance de la forêt de Sylvandis est empreinte de tranquillité et de mystère. Le chant mélodieux des oiseaux et le murmure apaisant des ruisseaux qui serpentent entre les arbres créent une symphonie naturelle. Par moments, une brise légère fait danser les feuilles, ajoutant un murmure subtil à l'atmosphère sereine. Des créatures magiques, telles que des lucioles lumineuses et des fées éthérées, apparaissent furtivement entre les ombres, apportant une touche de féerie à ce lieu enchanteur. La forêt semble vibrer d'une énergie ancienne et bienveillante, un équilibre fragile entre le monde naturel et le royaume magique, gardé avec dévotion par les habitants de Sylvandis.

@@ -1,4 +1,10 @@
-# L'Ère des Dieux (Avant l'An 0)
+---
+draft: false
+tags:
+- EreDesDieux
+---
+
+# Avant l'An 0 : L'Ère des Dieux
 
 ---
 
@@ -29,7 +35,3 @@ Chaque dieu revendiquait sa suprématie, cherchant à étendre son influence et 
 Cette montée inexorable des conflits marqua la fin de cette époque. Ce qui avait commencé comme un âge d'harmonie et de création se transforma en un temps de destruction et de chaos. Les conséquences de ces luttes divines furent si grandes qu'elles scellèrent l'avenir du monde, ouvrant la voie à l'apparition des mortels et au début d'une nouvelle ère.
 
 Cette époque demeure une légende et un avertissement, un récit gravé dans les mémoires du monde. Les rares traces laissées par les dieux témoignent encore de leur gloire passée et de leur chute.
-
----
-
-**Tags** : #Époques #ÈreDesDieux #Mythorium #Histoire
