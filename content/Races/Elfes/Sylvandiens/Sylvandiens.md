@@ -1,3 +1,10 @@
+---
+draft: false
+tags:
+- Individus
+- Sylvandiens
+---
+
 ## Présentation
 Les **Sylvandiens**, ou **Gardiens des Forêts**, sont les enfants d'**[[Eryndis]]**, déesse des forêts et des vents sauvages. Ces elfes incarnent la nature indomptée et la liberté, vivant en harmonie avec leur environnement. Protecteurs des bois et guides des esprits sylvestres, ils veillent sur l’équilibre naturel, suivant les enseignements d’Eryndis.
 

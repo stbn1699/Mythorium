@@ -7,7 +7,9 @@ tags:
 
 ## Image
 
-![[personnage_divinite_thalior.png]]
+![[Thalior]]
+
+___
 
 ## Présentation
 **Domaine(s)** : forges, mécanismes, ingénierie  

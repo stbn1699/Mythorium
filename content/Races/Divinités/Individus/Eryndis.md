@@ -7,7 +7,9 @@ tags:
 
 ## Image
 
-![[personnage_divinite_eryndis.png]]
+![[personnage_divinite_eryndis.jpg]]
+
+___
 
 ## Présentation
 **Domaine(s)** : forêts, vents sauvages, liberté  

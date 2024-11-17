@@ -7,7 +7,9 @@ tags:
 
 ## Image
 
-![[personnage_divinite_nyssara.png]]
+![[personnage_divinite_nyssara.jpg]]
+
+___
 
 ## Présentation
 **Domaine(s)** : étoiles, constellations, guidance  

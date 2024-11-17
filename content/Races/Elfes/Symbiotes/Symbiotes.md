@@ -1,3 +1,10 @@
+---
+draft: false
+tags:
+- Individus
+- Symbiotes
+---
+
 ## Présentation
 Les membres de l'Ordre des Hyloïdes, appelés **Symbiotes**, sont les enfants de **[[Thalior]]**, dieu des forges et des mécanismes. Transformés par leur foi absolue et leur quête incessante de perfection mécanique, les Symbiotes transcendent les limites de la chair pour embrasser l'harmonie des rouages et des circuits. À leurs yeux, le mélange parfait entre l’organique et le mécanique est la clé de la véritable immortalité et de la puissance divine.
 
