@@ -9,18 +9,47 @@ TODO
 
 ![[personnage_sylvandienne_seleneAragorn.jpg]]
 
-## Informations
-**Nom** : Aragorn
-**Prénom** : Sélène
+# **Neremyn Sarphyra**
 
-**Origine** : [[ZZZZold/Communautées/Royaumes/Sylvandis/Sylvandis]]
-**Race** : [[ZZZZold/Races/Elfes/Sylvandiens/Sylvandiens]]
+---
 
-## portrait
+## **Informations générales**
+- **Nom complet** : Neremyn Sarphyra  
+- **Origine** : [[Sylvandis]]  
+- **Race** : [[Sylvandiens]]  
+- **Année de naissance** : An 3972
 
-Sélène est une sylvandienne gracieuse et énigmatique, originaire de Sylvandis, un royaume où la nature et la magie sont étroitement liées. Ses longs cheveux argentés, souvent tressés avec soin, encadrent un visage délicat illuminé par des yeux d'un vert émeraude profond. Vêtue de vêtements finement brodés aux motifs sylvestres, elle se déplace avec une grâce naturelle, chaque mouvement reflétant l'harmonie et la sagesse de son peuple. Gardienne des bois sacrés, Sélène veille sur les secrets et les trésors de Sylvandis, utilisant ses pouvoirs pour maintenir l'équilibre fragile de la forêt.
+---
 
-Dotée d'une curiosité insatiable et d'une compassion profonde, Sélène est animée par une volonté farouche de protéger les créatures et les esprits de la forêt. Sa voix mélodieuse et apaisante est souvent utilisée pour résoudre les conflits avec douceur et intelligence. Bien qu'elle soit jeune, sa sagesse et sa capacité à comprendre les complexités du monde qui l'entoure sont remarquables. Loyale envers ses amis et sa famille, Sélène est prête à tout pour défendre ceux qu'elle aime, son cœur généreux étant toujours en quête d'harmonie et de justice.
+## **Pouvoirs et Capacités**
+1. **Empathie naturelle** :  
+   Neremyn possède une sensibilité exceptionnelle qui lui permet de percevoir les émotions des autres avec une grande acuité. Ce don l'aide à apaiser les conflits et à créer des liens solides.  
+
+2. **Observation accrue** :  
+   Dotée d'un esprit vif et alerte, elle remarque des détails imperceptibles pour la plupart, ce qui lui donne un avantage dans ses explorations et ses interactions.  
+
+---
+
+## **Description physique**
+Neremyn est une jeune Sylvandienne à l’apparence délicate et harmonieuse. Sa peau douce, teintée d’un brun clair rappelant les teintes chaudes de l’écorce, reflète son lien profond avec la nature. Ses longs cheveux bruns, souvent laissés libres ou tressés avec soin, encadrent un visage lumineux et chaleureux. Ses yeux, d’un vert scintillant, pétillent de curiosité et semblent constamment émerveillés par le monde qui l’entoure.  
+
+Sa posture, bien que timide et réservée, est empreinte d’une énergie intérieure palpable, trahissant une force tranquille prête à éclore lorsque les circonstances l'exigent.  
+
+---
+
+## **Personnalité**
+Neremyn est un mélange captivant de curiosité insatiable et de douceur résolue. Son esprit vif est toujours en quête de nouvelles connaissances et expériences, faisant d’elle une exploratrice dans l’âme. Elle aborde le monde avec une fascination émerveillée, cherchant à comprendre les mystères qui l’entourent.  
+
+Bien qu’elle soit timide au premier abord, Neremyn déploie une énergie et une vivacité contagieuses une fois qu’elle se sent en confiance. Elle croit fermement au pouvoir des mots et à la résolution pacifique des conflits, détestant la violence sous toutes ses formes. Toutefois, sa détermination farouche émerge lorsque la sécurité de ses proches est menacée, révélant un courage et une force insoupçonnés.  
+
+---
+
+## **Portrait**
+Neremyn est une Sylvandienne dont la douceur et la curiosité illuminent sa présence. Son regard pétillant et ses gestes mesurés traduisent un mélange parfait de timidité et d’énergie intérieure.  
+
+Bien qu’elle abhorre la violence, son dévouement envers sa famille et ses proches est inébranlable. Lorsqu’un danger menace ceux qu’elle aime, sa nature douce laisse place à une détermination impitoyable, prête à tout pour les protéger. En elle se trouvent un cœur vaste et un esprit ouvert, des qualités qui font d’elle une figure d’espoir et de compassion.  
+
+---
 
 ## Histoire
 

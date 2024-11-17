@@ -4,9 +4,7 @@ tags:
 - EreDesDieux
 ---
 
-# Avant l'An 0 : L'Ère des Dieux
-
----
+*(Avant l'An 0)*
 
 ## Présentation
 

@@ -4,9 +4,7 @@ tags:
 - EreDesElfes
 ---
 
-# L'Ère des Elfes : 0 à 1000
-
----
+*(0 à 1000)*
 
 ## Présentation
 

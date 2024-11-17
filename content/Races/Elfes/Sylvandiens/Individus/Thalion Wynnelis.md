@@ -5,23 +5,44 @@ tags:
 - Elfes
 ---
 TODO
-## Image
+## **Image**
 
 ![[personnage_sylvandienne_thalionWynnelis.jpg]]
 
-## Informations
-**Nom** : Wynnelis
-**Prénom** : Thalion
+---
 
-**origine** : [[ZZZZold/Communautées/Royaumes/Sylvandis/Sylvandis]]
-**Race** : [[ZZZZold/Races/Elfes/Sylvandiens/Sylvandiens]]
+## **Informations générales**
+- **Nom complet** : Thalion Wynnelis  
+- **Origine** : [[Sylvandis]]  
+- **Race** : [[Sylvandiens]]  
+- **Année de naissance** : An 2867  
 
-## portrait
+---
 
-Thalion est un sylvandien âgé, dont l'apparence dégage une sagesse ancestrale. Ses longs cheveux argentés, soigneusement tressés, tombent en cascade sur ses épaules, symbolisant les siècles de connaissances accumulées. Ses yeux, d'un vert profond, sont perçants et pleins de bienveillance, reflétant sa compréhension intime de la nature et de la vie. Il porte une robe simple mais élégante, faite de tissus naturels, ornée de motifs représentant des feuilles et des plantes médicinales.
+## **Pouvoirs et Capacités**
+1. **Maîtrise de l’herboristerie** :  
+   Thalion possède une connaissance approfondie des propriétés médicinales des plantes, lui permettant de préparer des remèdes et des potions capables de soigner les blessures les plus graves ou les maladies les plus rares.  
 
-Le visage de Thalion est marqué par de fines rides, témoignant de son âge avancé et de l'expérience qu'il a acquise au fil du temps. Sa voix est douce et apaisante, capable de rassurer les cœurs les plus inquiets. Il est toujours accompagné d'une sacoche en cuir usé, contenant une multitude de fioles, de plantes séchées et de parchemins anciens.
+2. **Magie curative** :  
+   En utilisant ses dons naturels et des rituels sylvestres, il canalise l’énergie de la forêt pour guérir les blessures physiques et apaiser les maux spirituels.  
 
-Thalion est connu dans tout Sylvandis pour ses compétences exceptionnelles en herboristerie et en magie curative. Il a consacré sa vie à l'étude des propriétés curatives des plantes et à la guérison de son peuple. Son savoir est recherché par beaucoup, et il est souvent consulté pour des maladies et des blessures que d'autres jugent incurables. Malgré sa réputation, il demeure humble et toujours prêt à aider ceux dans le besoin.
+---
 
-Sa maison, située au cœur de la forêt de Sylvandis, est une véritable pharmacie naturelle, remplie de plantes, de racines et d'herbes suspendues pour sécher. Des cristaux de guérison et des talismans magiques ornent les étagères, chaque objet ayant une histoire et une utilité spécifiques. Thalion y vit en harmonie avec la nature, tirant son énergie et sa sérénité des bois qui l'entourent.
+## **Description physique**
+Thalion est un Sylvandien dont l’apparence reflète son âge avancé et sa sagesse. Ses longs cheveux argentés, soigneusement tressés, tombent en cascade sur ses épaules, symbolisant les siècles de connaissances accumulées. Ses yeux, d’un vert profond, sont empreints de bienveillance et de perspicacité, trahissant une compréhension intime de la vie et de la nature.  
+
+Son visage est marqué par de fines rides, témoignant des années passées à servir son peuple et à accumuler un savoir précieux. Il porte une robe simple mais élégante, faite de tissus naturels et ornée de motifs représentant des feuilles et des plantes médicinales, soulignant son rôle de guérisseur et de sage.
+
+---
+
+## **Personnalité**
+Thalion est la sagesse incarnée. Humble malgré sa renommée, il consacre sa vie à aider ceux qui en ont besoin, que ce soit par la guérison ou par ses conseils avisés. Il est patient et réfléchi, choisissant toujours ses mots avec soin pour apporter sérénité et réconfort à ceux qui le consultent.  
+
+Bien que discret, Thalion est profondément respecté par les habitants de Sylvandis et bien au-delà, pour son dévouement à la préservation de la vie. Sa bienveillance est à la hauteur de son savoir, et il est toujours prêt à transmettre ses connaissances à ceux qui souhaitent apprendre.
+
+---
+
+## **Portrait**
+Thalion est souvent vu portant une sacoche en cuir usé, remplie de fioles, de plantes séchées et de parchemins anciens. Sa maison, nichée au cœur de la forêt de Sylvandis, est un véritable sanctuaire de guérison. Remplie de plantes suspendues, de cristaux magiques et de talismans anciens, elle témoigne de sa vie dédiée à la préservation et à la guérison.  
+
+Sa voix douce et apaisante est aussi un outil puissant, capable de calmer les âmes troublées et d’apporter réconfort à ceux qui souffrent. Avec sa posture droite et son regard bienveillant, Thalion incarne l’essence même des Sylvandiens : un équilibre parfait entre nature, sagesse et compassion.

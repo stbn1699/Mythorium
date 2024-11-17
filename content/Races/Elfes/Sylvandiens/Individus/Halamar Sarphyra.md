@@ -9,24 +9,36 @@ TODO
 
 ![[personnage_sylvandienne_halamarSarphyra.jpg]]
 
-## Informations
-**Nom** : Sarphyra
-**Prénom** : Halamar
+## **Informations générales**
+- **Nom complet** : Halamar Sarphyra  
+- **Origine** : [[Sylvandis]]  
+- **Race** : [[Sylvandiens]]  
+- **Année de naissance** : An 4251
 
-**origine** : [[ZZZZold/Communautées/Royaumes/Sylvandis/Sylvandis]]
-**Race** : [[ZZZZold/Races/Elfes/Sylvandiens/Sylvandiens]]
+---
 
-## portrait
+## **Pouvoirs et Capacités**
+1. **Vigilance accrue** :  
+   Halamar est capable de percevoir les moindres détails de son environnement, lui permettant d’anticiper les dangers et de réagir rapidement.  
 
-Halamar est un sylvandien en apparence austère, dont le visage impassible ne laisse filtrer aucune émotion. Son regard profond est souvent voilé d'un voile de mystère, révélant peu de choses sur les pensées qui se cachent derrière son regard scrutateur. Il préfère rester en retrait, observant silencieusement le monde qui l'entoure, plutôt que d'attirer l'attention sur lui-même.
+2. **Maîtrise des armes sylvestres** :  
+   Il excelle dans l’utilisation des arcs et lances faits de matériaux naturels, les maniant avec une grande précision et efficacité.  
 
-La seule exception à cette réserve apparente est sa relation avec sa sœur, Neremyn. En sa présence, le masque de froideur de Halamar s'effrite, laissant entrevoir un peu de chaleur et d'affection dans ses yeux autrement impénétrables. Il est prêt à tout pour elle, et son dévouement envers sa sœur est inébranlable.
+---
 
-Bavard par nature, Halamar préfère laisser parler ses actions plutôt que ses mots. Son silence n'est pas le signe d'un manque d'intelligence, mais plutôt d'une réserve délibérée, une volonté de garder ses pensées et ses émotions soigneusement enfermées en lui-même. Il estime que les paroles sont souvent superflues et préfère agir de manière réfléchie et délibérée.
+## **Description physique**
+Halamar possède un teint brun clair évoquant l’écorce des arbres anciens, renforçant son lien avec la forêt. Ses cheveux courts et noirs, souvent attachés, dégagent un visage anguleux et impassible. Ses yeux, d’un brun profond et voilés, expriment une vigilance constante et une sérénité froide. Sa silhouette élancée et robuste reflète la force tranquille propre aux Sylvandiens.  
 
-Protecteur envers ceux qu'il aime, Halamar veille toujours sur eux avec une vigilance sans faille. Il prend son rôle de protecteur très au sérieux et ne tolère aucune menace contre ceux qui lui sont chers. Son attitude méfiante envers les étrangers témoigne de son désir de protéger son cercle intime, et il reste sur ses gardes en présence de personnes qu'il ne connaît pas.
+---
 
-En somme, Halamar est un sylvandien réservé et silencieux, mais dont la loyauté envers sa sœur et ses proches est inébranlable. Sa froideur apparente dissimule en réalité une profonde affection pour ceux qui lui sont chers, et il est prêt à tout pour les protéger des dangers qui les entourent.
+## **Personnalité**
+Réservé et silencieux, Halamar préfère laisser ses actions parler plutôt que ses mots. Son comportement réfléchi et méthodique le rend parfois difficile à approcher, mais cette froideur cache une grande loyauté envers ses proches. Protecteur et méfiant envers les étrangers, il prend son rôle de gardien très au sérieux, veillant constamment à la sécurité de ceux qui lui sont chers.  
+
+---
+
+## **Portrait**
+Halamar est souvent perçu comme une figure austère, son visage impassible et son silence créant une aura de mystère. Cependant, en présence de ceux qu’il aime, sa froideur s’efface légèrement, révélant une chaleur discrète et sincère. Son regard scrutateur, ses gestes mesurés, et sa posture droite reflètent la discipline et le calme qui définissent sa personnalité.  
+
 
 ## Histoire
 

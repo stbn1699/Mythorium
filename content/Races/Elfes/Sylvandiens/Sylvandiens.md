@@ -1,5 +1,5 @@
 ## Présentation
-Les **Sylvandiens**, ou **Gardiens des Forêts**, sont les enfants d'**Eryndis**, déesse des forêts et des vents sauvages. Ces elfes incarnent la nature indomptée et la liberté, vivant en harmonie avec leur environnement. Protecteurs des bois et guides des esprits sylvestres, ils veillent sur l’équilibre naturel, suivant les enseignements d’Eryndis.
+Les **Sylvandiens**, ou **Gardiens des Forêts**, sont les enfants d'**[[Eryndis]]**, déesse des forêts et des vents sauvages. Ces elfes incarnent la nature indomptée et la liberté, vivant en harmonie avec leur environnement. Protecteurs des bois et guides des esprits sylvestres, ils veillent sur l’équilibre naturel, suivant les enseignements d’Eryndis.
 
 ---
 
@@ -17,10 +17,7 @@ Les **Sylvandiens**, ou **Gardiens des Forêts**, sont les enfants d'**Eryndis**
     - **Silhouette :** Élancée et agile, leurs mouvements rappellent la fluidité du vent à travers les arbres.
 
 - **Affinité magique :**  
-    Les Sylvandiens maîtrisent la **magie sylvestre**, leur permettant de :  
-    - Communiquer avec la flore et la faune.
-    - Manipuler la végétation pour se défendre ou bâtir des structures naturelles.
-    - Utiliser les herbes médicinales pour soigner et préparer des potions.  
+    Les Sylvandiens maîtrisent la **magie sylvestre**, c'est une magie se manifestant a leur 10eme anniversaire sous forme de deux capacités, variables selon les individus, ces capacités sont pour la plupart des cas liés a la faune et la flore
 
 - **Connexion avec la nature :**  
     - Ils ressentent les vibrations de la forêt et peuvent détecter les intrus ou les perturbations environnementales.  
@@ -63,21 +60,5 @@ Les Sylvandiens vivent dans des cités intégrées aux arbres géants de **Sylva
 ---
 
 ## Relations avec les autres elfes
-Les Sylvandiens sont respectés pour leur sagesse et leur dévouement à l'équilibre naturel, mais leur mode de vie les rend parfois distants des autres races d'elfes. Ils entretiennent des relations cordiales avec les Nyssariens, partageant une admiration pour la beauté des cieux et de la nature, mais méprisent souvent les Osmiros, qu’ils perçoivent comme trop détachés du monde organique.
+Les Sylvandiens sont respectés pour leur sagesse et leur dévouement à l'équilibre naturel, mais leur mode de vie les rend parfois distants des autres races d'elfes. Ils entretiennent des relations cordiales avec les Nyssariens, partageant une admiration pour la beauté des cieux et de la nature, mais méprisent souvent les Osmiros, qu’ils considèrent comme trop détachés du monde organique.
 
----
-
-## Symboles et croyances
-
-### Symboles associés
-- Une feuille dans un cercle.
-- Un arbre avec des racines et des branches en mouvement, symbolisant les cycles de la vie.
-- Un loup hurlant au vent.
-
-### Cérémonies sacrées
-- **La Danse des Vents** : Un rituel nocturne où les Sylvandiens célèbrent l'esprit d'Eryndis sous le clair de lune.  
-- **L'Appel des Esprits** : Une cérémonie pour invoquer les esprits sylvestres et renforcer leur lien avec la forêt.
-
----
-
-**Tags** : #Sylvandiens #Elfes #Eryndis #Forêts #MagieSylvestre #Mythorium

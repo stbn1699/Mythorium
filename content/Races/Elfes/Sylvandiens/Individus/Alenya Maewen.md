@@ -2,28 +2,50 @@
 draft: false
 tags:
 - Personnage
-- Elfes
+- Sylvandiens
+- EreDeLaDiversification
 ---
-TODO
-## Image
+
+## **Image**
 
 ![[personnage_sylvandienne_alenyaMaewen.jpg]]
 
-## Informations
-**Nom** : Maewen
-**Prénom** : Alenya
+## **Informations générales**
+- **Nom complet** : Alenya Maewen  
+- **Origine** : [[Sylvandis]]  
+- **Race** : [[Sylvandiens]]  
+- **Année de naissance** : 3120  
 
-**origine** : [[ZZZZold/Communautées/Royaumes/Sylvandis/Sylvandis]]
-**Race** : [[ZZZZold/Races/Elfes/Sylvandiens/Sylvandiens]]
+---
 
-**pouvoirs** : 
-- elle est capable de se souvenir a la perfection des évènements, comme si ses yeux et ses oreilles filmaient en permanence
-- elle est capable de se figurer une recette de cuisine a la perfection sans faire beaucoup d'essais, la rendant très rapide sur la confection de nouvelles saveurs
+## **Pouvoirs et Capacités**
+1. **Mémoire parfaite** :  
+   Alenya possède la capacité unique de se souvenir à la perfection de chaque événement vécu, comme si ses yeux et ses oreilles enregistraient tout en permanence. Ce don lui confère une précision exceptionnelle dans l’analyse de détails et une capacité à revivre chaque moment avec une clarté absolue.  
 
-## portrait
+2. **Maîtrise instinctive de la cuisine** :  
+   Dotée d’un sens inné pour la gastronomie, Alenya peut imaginer et concevoir des recettes complexes avec très peu d’essais. Son intuition lui permet d’harmoniser saveurs, textures et ingrédients, faisant d’elle une cuisinière hors pair, capable de créer de nouvelles saveurs en un temps record.
 
-Alenya est une elfe élancée, à la peau douce, teintée d'une nuance délicate de vert clair, rappelant les premières feuilles du printemps. Ses longs cheveux châtain clair, légèrement bouclés, tombent en cascade sur ses épaules, parfois entrelacés de petites fleurs qu’Eliara glisse affectueusement le matin. Ses yeux d’un vert émeraude, vifs et pleins de malice, reflètent sa passion et sa tendresse. Alenya possède une voix douce et mélodieuse, souvent entendue chantonnant derrière le comptoir de la taverne. Son sourire est sa plus grande arme : chaleureux et sincère, il apaise l’âme de quiconque le croise.
+---
 
-## Histoire 
+## **Description physique**
+Alenya est une elfe élancée, dont la silhouette reflète élégance et grâce naturelles. Sa peau, douce et teintée d'une nuance délicate de vert clair, évoque la fraîcheur des premières feuilles au printemps. Ses cheveux, d’un châtain clair légèrement bouclé, tombent en longues vagues sur ses épaules. Parfois, de petites fleurs s’entrelacent dans ses mèches, ajoutant une touche de poésie à son apparence.  
+
+Ses yeux d’un vert émeraude vif captivent immédiatement par leur éclat et leur intensité. Ces prunelles, pleines de vie et de curiosité, semblent toujours prêtes à analyser et à s’émerveiller. Alenya dégage une aura chaleureuse et accueillante, accentuée par son sourire sincère et bienveillant. Sa voix, douce et mélodieuse, est souvent entendue chantonnant d’anciennes mélodies elfiques.
+
+---
+
+## **Personnalité**
+Alenya est une personne naturellement joyeuse et apaisante. Son esprit vif et sa curiosité sans limites font d’elle une exploratrice dans l’âme, bien qu’elle exprime cette soif d’exploration principalement dans l’art culinaire et la création.  
+
+Elle est méthodique et perfectionniste, mais jamais au détriment de son plaisir ou de son amour pour ce qu’elle fait. Elle trouve une profonde satisfaction dans les petits détails de la vie : préparer un plat, savourer les odeurs de la forêt de Sylvandis, ou écouter les histoires d’autrui. Malgré son caractère bienveillant, Alenya sait être ferme lorsqu’elle protège ce à quoi elle tient.  
+
+---
+
+## **Portrait**
+Alenya est souvent perçue comme une présence lumineuse, quelqu’un qui attire naturellement la sympathie. Bien qu’elle vive principalement dans la taverne qu’elle gère, son lien avec la nature est toujours palpable dans son apparence et ses manières. Elle est l’incarnation parfaite des Sylvandiens : un équilibre entre grâce, tradition et ingéniosité.  
+
+___
+
+## Histoire TODO
 
 Issue d’une lignée de prêtresses dévouées à Aetherius, Alenya a passé son enfance à perfectionner ses talents de boulangère et de brasseuse auprès de sa grand-mère. Chaque pain qu’elle confectionne, chaque breuvage qu’elle distille est infusé d’une touche de magie subtile, un héritage ancestral qu’elle chérit. Un jour, alors qu’elle explorait la forêt en quête d’herbes rares, elle croisa le chemin d’Eliara, une guerrière blessée à l’aura aussi farouche qu’envoûtante. Ce fut une rencontre inattendue, une étincelle qui changea leur vie. Alenya, déterminée à sauver cette inconnue mystérieuse, veilla sur Eliara pendant de longues semaines. Ce temps passé ensemble se transforma en un amour profond, une union aussi solide que les racines des arbres millénaires de Sylvandis. Depuis, elles ne se quittent plus, et c’est dans leur taverne, devenue un havre de paix, qu’Alenya continue d’honorer son héritage tout en veillant sur celle qui est devenue son âme sœur.
