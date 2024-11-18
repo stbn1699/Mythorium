@@ -15,7 +15,7 @@ tags:
 **Prénom** : Lyria
 
 **Origine** : [[Empire d Ovrusea]]  
-**Race** : [[Humains]] 
+**Race** : [[ZZZZold/Races/Humains/Humains]] 
 
 ## portrait
 

@@ -15,7 +15,7 @@ tags:
 **Prénom** : Alistair
 
 **Origine** : Solara  
-**Race** : [[Humains]]
+**Race** : [[ZZZZold/Races/Humains/Humains]]
 
 ## portrait
 

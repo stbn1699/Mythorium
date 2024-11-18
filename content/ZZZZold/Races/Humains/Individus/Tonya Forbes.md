@@ -14,7 +14,7 @@ tags:
 **Nom** : Forbes  
 **Prénom** : Tonya
 
-**Race** : [[Humains]] 
+**Race** : [[ZZZZold/Races/Humains/Humains]] 
 
 ## histoire
 

@@ -13,7 +13,7 @@ tags:
 **Nom** : Inconnu
 
 **origine** : Inconnue (pour le moment)
-**Race** : [[Humains]]
+**Race** : [[ZZZZold/Races/Humains/Humains]]
 
 ## portrait
 

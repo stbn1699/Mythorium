@@ -14,7 +14,7 @@ tags:
 **Nom** : Wells  
 **Prénom** : Jarvin
 
-**Race** : [[Humains]] 
+**Race** : [[ZZZZold/Races/Humains/Humains]] 
 
 ## histoire
 

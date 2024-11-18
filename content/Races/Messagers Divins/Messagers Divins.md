@@ -1,12 +1,7 @@
----
-draft: false
-tags:
-- Race
-- messagersDivins
----
-
 ## **Présentation**
 Les **Messagers Divins** sont une race unique d’humains, créés par les dieux à l’époque des grands conflits divins. Initialement conçus comme des intermédiaires éphémères, leur rôle était de transmettre la volonté divine entre les puissances célestes et les mortels. Leur existence, bien que fragile, marqua un tournant dans l’histoire du monde, car ils devinrent plus que de simples outils : ils devinrent les premiers porteurs de l’héritage divin.
+
+Encore aujourd’hui, des récits émergent évoquant l’apparition soudaine de Messagers Divins sur terre. Ces rares interventions semblent se produire pour des missions bien précises : porter un message crucial, récupérer des objets d’importance ou même récolter des informations pour les dieux. Certains pensent qu’il pourrait y avoir de nombreux Messagers Divins présents sur terre à tout moment, opérant dans l’ombre, mais qu’ils sont impossibles à identifier à moins de connaître parfaitement les récits et symboles qui leur sont attribués.
 
 ---
 
@@ -22,30 +17,12 @@ Les Messagers Divins furent créés au cours de **l’Ère des Dieux**, alors qu
 - **Yeux** : Leurs yeux portent souvent une teinte particulière (dorée, argentée ou bleutée), symbolisant leur lien avec les dieux.  
 - **Marques divines** : Certains possèdent des marques ou tatouages naturels sur leur peau, représentant le sceau du dieu qui les a créés.  
 
-### **Espérance de vie**
-Les premiers Messagers Divins étaient éphémères, disparaissant après avoir accompli leur tâche. Cependant, ceux qui survécurent au cycle destructeur développèrent une longévité comparable à celle des humains modernes.
-
----
-
-## **Pouvoirs et Capacités**
-1. **Transmission divine** :  
-   Ils peuvent recevoir et transmettre les messages des dieux, un pouvoir qui se manifeste sous forme de visions ou de voix dans leurs rêves.  
-
-2. **Présence apaisante** :  
-   Leur lien avec le divin leur confère une aura rassurante, apaisant les craintes et inspirant confiance chez ceux qui les entourent.  
-
-3. **Résilience spirituelle** :  
-   Bien que physiquement fragiles, leur esprit est exceptionnellement fort, leur permettant de résister aux influences magiques et mentales.  
-
-4. **Adaptabilité** :  
-   Leur statut de mortels leur permet de s’adapter aux environnements les plus variés, un atout précieux dans leurs rôles de messagers.  
-
 ---
 
 ## **Culture et mode de vie**
 
 ### **Rôle divin**
-Les Messagers Divins sont toujours perçus comme les porteurs de la volonté divine. Bien que leur influence ait diminué au fil des âges, ils restent respectés pour leur rôle historique. Ils agissent parfois comme des guides spirituels ou des conseillers, continuant à incarner l’équilibre entre le divin et le mortel.
+Les Messagers Divins continuent d’être perçus comme les porteurs de la volonté divine. Si leur rôle est moins visible qu’autrefois, il est admis qu’ils interviennent toujours discrètement dans des événements clés. Certains historiens théorisent que les dieux envoient leurs messagers pour des missions spécifiques, souvent liées à des quêtes mystérieuses ou des échanges de savoirs entre les mondes divin et mortel.
 
 ### **Communautés**
 Ils vivent souvent en groupes restreints, proches des lieux sacrés ou des vestiges divins. Ces communautés gardent précieusement les récits des premiers âges, transmettant oralement l’histoire de leur création et leur rôle dans l’évolution du monde.
@@ -60,7 +37,7 @@ Les Messagers Divins incarnent la dualité entre le divin et le mortel. Leur app
 
 Leur capacité à inspirer confiance, à apaiser les tensions, et à servir de pont entre les mondes divins et mortels fait d’eux des figures indispensables à l’équilibre du monde.
 
-___
+---
 
 ## **Récits**
 
@@ -68,6 +45,8 @@ Malheureusement, aujourd’hui, nous ne disposons pas d’informations fiables s
 
 Les rares récits évoquant ces êtres décrivent des individus d’une grande sagesse, porteurs de messages énigmatiques et entourés d’une aura divine. Cependant, aucune preuve tangible n’a été retrouvée pour confirmer leur présence ou leur rôle dans les événements du passé.  
 
-Les Messagers Divins demeurent donc une énigme, oscillant entre réalité historique et mythe. Leur mémoire perdure à travers les chansons des bardes, les fresques anciennes et les contes murmurés lors des veillées. Certains érudits et historiens consacrent encore leur vie à rechercher des indices sur ces êtres oubliés, espérant un jour lever le voile sur ce mystère ancestral.  
+Des témoignages récents, bien que rares, laissent toutefois entrevoir l’espoir d’en savoir davantage sur eux. Certains prétendent les avoir aperçus, vêtus d’habits ordinaires mais portant toujours un symbole subtil lié à leur origine divine. Ces apparitions seraient liées à des missions spécifiques : transmettre des messages essentiels, protéger des secrets divins ou récupérer des artefacts perdus.  
+
+Il se pourrait même que de nombreux Messagers Divins opèrent en ce moment même parmi les mortels, mais leur identification est presque impossible sans une connaissance approfondie des récits et des symboles associés à ces êtres mystérieux. Cette idée alimente encore plus les mythes et les recherches autour de leur véritable rôle dans le monde.  
 
 Si leur existence est avérée, ils pourraient être la clé pour comprendre l’interaction entre les mortels et les dieux, et peut-être même la nature même du divin. Jusqu’à ce jour, ils restent une légende captivante, évoquée avec fascination et respect par ceux qui s’intéressent aux âges anciens.
