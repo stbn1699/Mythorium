@@ -5,9 +5,6 @@ tags:
 - Elfes
 ---
 
-TODO:
-- histoire
-
 ## Image
 
 ![[personnage_sylvandienne_neremynSarphyra.jpg]]
@@ -56,4 +53,4 @@ ___
 
 ## Histoire
 
-![[Famille Sarphyra]]
+![[Histoires/06 - Ère de la Diversification/Neremyn Sarphyra|Neremyn Sarphyra]]

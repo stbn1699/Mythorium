@@ -56,4 +56,4 @@ ___
 
 ## Histoire
 
-![[Famille Sarphyra]]
+![[Histoires/06 - Ère de la Diversification/Zaleria Sarphyra|Zaleria Sarphyra]]

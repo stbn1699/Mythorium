@@ -5,9 +5,6 @@ tags:
 - Elfes
 ---
 
-TODO:
-- histoire
-
 ## Image
 
 ![[personnage_sylvandienne_seleneAragorn.jpg]]
@@ -56,4 +53,4 @@ Bien qu’elle abhorre la violence, son dévouement envers sa famille et ses pro
 
 ## Histoire
 
-[[Sélène et Lamys]]
+![[Histoires/06 - Ère de la Diversification/Sélène Aragorn|Sélène Aragorn]]

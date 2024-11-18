@@ -5,9 +5,6 @@ tags:
 - Elfes
 ---
 
-TODO:
-- histoire
-
 ## **Image**
 
 ![[personnage_sylvandienne_thalionWynnelis.jpg]]

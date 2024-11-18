@@ -45,4 +45,4 @@ Halamar est souvent perçu comme une figure austère, son visage impassible et s
 
 ## Histoire
 
-![[Famille Sarphyra]]
+![[Histoires/06 - Ère de la Diversification/Halamar Sarphyra|Halamar Sarphyra]]
