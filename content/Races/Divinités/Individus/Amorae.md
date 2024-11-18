@@ -10,7 +10,7 @@ TODO:
 
 ## Image
 
-![[images/personnage_divinite_amorae.jpg]]
+![[personnage_divinite_amorae.jpg]]
 
 ___
 

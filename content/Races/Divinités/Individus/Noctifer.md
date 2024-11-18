@@ -10,7 +10,7 @@ TODO:
 
 ## Image
 
-![[images/personnage_divinite_noctifer.jpg]]
+![[personnage_divinite_noctifer.jpg]]
 
 ___
 

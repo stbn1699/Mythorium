@@ -10,7 +10,7 @@ TODO:
 
 ## Image
 
-![[images/personnage_divinite_lyssira.jpg]]
+![[personnage_divinite_lyssira.jpg]]
 
 ___
 

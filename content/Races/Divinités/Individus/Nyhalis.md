@@ -10,7 +10,7 @@ TODO:
 
 ## Image
 
-![[images/personnage_divinite_nyhalis.jpg]]
+![[personnage_divinite_nyhalis.jpg]]
 
 ___
 

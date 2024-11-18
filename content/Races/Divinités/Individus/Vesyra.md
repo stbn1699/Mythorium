@@ -10,7 +10,7 @@ TODO:
 
 ## Image
 
-![[images/personnage_divinite_vesyra.jpg]]
+![[personnage_divinite_vesyra.jpg]]
 
 ___
 
