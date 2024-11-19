@@ -7,7 +7,7 @@ tags:
 
 ## Image
 
-![[Thalior]]
+
 
 ___
 
