@@ -1,9 +1,15 @@
+---
+draft: false
+tags:
+- Royaume
+---
+
 ## Image
 
-
+![[lieu_royaume_lysendaris.jpg]]
 
 ## **Présentation**
-Lysendaris, également appelé le **Royaume de l’Essence Sacrée**, est le domaine exclusif des **Aelthariels**, les elfes enfants d’**[[Aeltheris]]**. Ce royaume est un havre de pureté et de sérénité, préservé du reste du monde par des barrières naturelles et magiques. Considéré comme sacré par ses habitants, Lysendaris est un lieu où la beauté divine rencontre une discipline rigoureuse pour préserver l’équilibre et la régénération.
+Lysendaris, également appelé le **Royaume de l’Essence Sacrée**, est le domaine exclusif des **[[Aelthariels]]**, les elfes enfants d’**[[Aeltheris]]**. Ce royaume est un havre de pureté et de sérénité, préservé du reste du monde par des barrières naturelles et magiques. Considéré comme sacré par ses habitants, Lysendaris est un lieu où la beauté divine rencontre une discipline rigoureuse pour préserver l’équilibre et la régénération.
 
 ---
 
@@ -72,8 +78,3 @@ Les Aelthariels sont méfiants envers toutes les autres races. Ils considèrent 
 
 ### **Conflits**
 Bien que reclus, Lysendaris attire parfois les convoitises d'autres peuples pour ses ressources médicinales uniques. Les Aelthariels n’hésitent pas à utiliser leur magie et leurs gardiens pour défendre leur royaume contre les intrusions.
-
----
-
-## **Conclusion**
-Lysendaris est un royaume fascinant et énigmatique, reflet parfait de ses habitants : isolé, élégant, et presque intouchable. Protégé par des barrières naturelles et une philosophie rigide, il incarne l’essence même de la régénération et de la préservation divine, mais son égoïsme apparent le coupe du reste du monde.

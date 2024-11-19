@@ -5,9 +5,6 @@ tags:
 - Divinités
 ---
 
-TODO:
-- elfes
-
 ## Image
 
 ![[personnage_divinite_noctifer.jpg]]

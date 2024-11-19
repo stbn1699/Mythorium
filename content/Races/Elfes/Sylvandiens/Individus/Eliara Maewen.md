@@ -21,7 +21,7 @@ TODO:
 - **Nom complet** : Eliara Maewen  
 - **Origine** : [[Sylvandis]]  
 - **Race** : [[Sylvandiens]]  
-- **Année de naissance** : 3125  
+- **Année de naissance** : 52  
 
 ---
 

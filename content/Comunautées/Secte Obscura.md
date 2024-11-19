@@ -1,8 +1,13 @@
+---
+draft: false
+tags:
+- Secte
+---
+
 ## **Infos globales**
 - **Nom de la Secte:** La Secte Obscura  
 - **Nom du Dieu:** [[Noctifer]] Divinus  
 - **Nom des membres** : Obscuris  
-- **Ancienneté:** Inconnue  
 - **Type de Secte:** Religieux  
 - **Pratiques:** Nomadisme, rituels nocturnes, adoration de Noctifer Divinus  
 - **Croyances principales:**  

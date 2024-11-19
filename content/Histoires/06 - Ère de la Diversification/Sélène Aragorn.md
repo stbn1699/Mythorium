@@ -1,3 +1,15 @@
+---
+draft: true
+tags:
+- Personnage
+- Histoire
+- EreDeLaDiversification
+---
+
+Ce récit est celui de [[Races/Elfes/Aelthariels/Individus/Sélène Aragorn|Sélène Aragorn]]
+
+TODO : faire l'histoire 
+
 - vécue dans une famille aimante et soudée
 - communauté d’elfes au sang pure (magie puissante et très ancienne qui peut faire des miracles face aux maladies etc) 
 - son peuple et elle, vivent dans la forêt où règne toutes sortes de créatures surnaturelles
