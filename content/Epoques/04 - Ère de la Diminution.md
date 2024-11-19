@@ -4,7 +4,7 @@ tags:
 - EreDeLaDiminution
 ---
 
-*(1000 - 1500)*
+*(1001 - 1500)*
 
 ## Présentation
 L’Ère de la Diminution marque une période de transition où le lien entre les divinités et leurs enfants elfes s'affaiblit considérablement. Tandis que les elfes évoluent, développant leurs propres sociétés, valeurs et ambitions, l'importance des dieux dans leur quotidien diminue peu à peu. Les lieux de culte, autrefois au centre de la vie communautaire, tombent en désuétude, et les traditions sacrées se diluent dans le flot du temps. Toutefois, l'influence des différents dieux resta dans leur nouvelles sociétés, toujours centrée sur les différents domaines de ces dieux

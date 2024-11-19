@@ -4,7 +4,7 @@ tags:
 - EreDeLaDiversification
 ---
 
-*(2500 - 5000)*
+*(2501 - 5000)*
 
 ## Présentation
 L’Ère de la Diversification s’étend sur une longue période de stabilité relative où les peuples, qu’ils soient anciens ou nouvellement apparus, continuèrent à s’étendre, évoluer et se mélanger. L’absence prolongée des dieux permit aux mortels de forger leurs propres idéaux, sociétés et alliances, menant à une prolifération complexe de royaumes, sectes, guildes et communautés diverses. Si aucune révolution majeure n’eut lieu durant cette ère, la multiplicité des cultures et des croyances fit naître un monde à la structure sociale et politique particulièrement riche et variée.

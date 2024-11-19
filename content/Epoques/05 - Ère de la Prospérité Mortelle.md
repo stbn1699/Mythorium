@@ -4,7 +4,7 @@ tags:
 - EreDeLaProsperiteMortelle
 ---
 
-*(1500 - 2500)*
+*(1501 - 2500)*
 
 ## Présentation
 L’Ère de la Prospérité Mortelle marque une nouvelle étape dans l’histoire du monde, caractérisée par l’émergence de nouvelles races mortelles et la naissance de nombreuses formes de magie. Ces nouvelles races, issues de l'essence primordiale laissée par le Dieu Primordial, étaient dénuées de magie innée mais compensèrent ce manque par une créativité et une résilience hors du commun. Pendant cette période, le monde vit une explosion de diversité culturelle, sociale et magique, redéfinissant les relations entre les peuples et leur environnement.
