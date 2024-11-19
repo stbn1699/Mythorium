@@ -1,7 +1,15 @@
+---
+draft: false
+tags:
+- Royaume
+---
+
 ## Image
 
+![[lieu_royaume_lysandor.jpg]]
+
 ## **Présentation**
-Lysandor est un petit royaume fondé par des dissidents Aelthariels ayant quitté **Lysendaris** par divergence de conviction. Ces elfes croyaient fermement que les dons de guérison accordés par **[[Aeltheris]]** devaient être utilisés pour aider autrui, et non conservés égoïstement. Malgré leur faible nombre, ils ont bâti une communauté soudée, tournée vers l’entraide et le soin des autres races.
+Lysandor est un petit royaume fondé par des dissidents Aelthariels ayant quitté **[[Lysendaris]]** par divergence de conviction. Ces elfes croyaient fermement que les dons de guérison accordés par **[[Aeltheris]]** devaient être utilisés pour aider autrui, et non conservés égoïstement. Malgré leur faible nombre, ils ont bâti une communauté soudée, tournée vers l’entraide et le soin des autres races.
 
 ---
 

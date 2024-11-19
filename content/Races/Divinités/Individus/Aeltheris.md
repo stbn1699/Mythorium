@@ -7,6 +7,8 @@ tags:
 
 ## Image
 
+![[personnage_divinite_aeltheris.jpg]]
+
 ## **Présentation**
 
 Aeltheris, déesse de la guérison et du cycle de la vie, incarne la compassion et la régénération. Elle est la protectrice des blessés et des malades, et veille à maintenir l'équilibre entre la vie et la mort. Aeltheris est une source d’espoir pour ceux qui souffrent et une guide pour ceux qui cherchent la paix intérieure.

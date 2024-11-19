@@ -1,3 +1,13 @@
+---
+draft: false
+tags:
+- Personnage
+- Histoire
+- EreDeLaDiversification
+---
+
+Ce récit est celui de [[Races/Humains/Individus/Lamys|Lamys]]
+
 # Chapitre 1 (intro) : *Bribes de souvenirs*
 
 La mémoire de Lamys est un labyrinthe d’ombres et de fragments épars, un récit brisé dont il n’a jamais trouvé la clé. Quand il tente de replonger dans son enfance, il est accueilli par des images floues, des sensations furtives, comme des rêves dont on ne se rappelle que la moitié.

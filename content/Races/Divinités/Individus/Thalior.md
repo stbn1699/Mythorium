@@ -7,7 +7,7 @@ tags:
 
 ## Image
 
-![[Thalior]]
+![[personnage_divinite_thalior.jpg]]
 
 ___
 
