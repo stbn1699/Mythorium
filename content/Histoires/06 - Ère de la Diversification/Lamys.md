@@ -360,12 +360,6 @@ ___
 
 # Chapitre 11 : *Un Sauvetage Miraculeux*
 
-Voici le chapitre réécrit du point de vue de Lamys, explorant ses pensées, ses sensations et son expérience de cette épreuve.
-
----
-
-**Point de vue de Lamys**
-
 La forêt semblait plus profonde aujourd'hui, plus vivante et plus ancienne, comme si chaque pas l’éloignait du présent pour le mener vers une époque oubliée. Lamys marchait avec précaution, ses bottes foulant la terre douce de Sylvandis. Tout ici respirait une magie subtile, un équilibre qu’il ne comprenait pas complètement, mais qu’il respectait. *Ces bois... ils murmurent des secrets que je ne peux entendre.* Il observa autour de lui, intrigué par les plantes qui semblaient briller sous la lumière tamisée.
 
 Son attention fut captée par une fleur particulière. Elle était d’un bleu éclatant, presque phosphorescent, comme si elle portait en elle un fragment du ciel nocturne. *La Lumenella*, pensa-t-il, se rappelant des bribes de légendes sur ses propriétés curatives. Il s’agenouilla, ses gantelets frôlant les feuilles délicates. *Si cela peut vraiment guérir, alors peut-être pourrais-je l’utiliser dans mes quêtes.* 

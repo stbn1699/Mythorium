@@ -811,3 +811,157 @@ Thalion, satisfait de sa réponse, hocha lentement la tête.
 — *Alors continuez à briller, Sélène. Sylvandis en a besoin.*
 
 Ce quotidien, bien que simple, était devenu pour elle une renaissance. Sélène savait qu’elle ne pouvait pas oublier son passé, mais ici, dans ce royaume vibrant de vie et de magie, elle avait trouvé une place où elle pouvait à nouveau exister. Et, pour la première fois depuis la destruction de Lysandor, elle se sentit en paix.
+
+# Chapitre 16 : *L’Étranger au Visage Caché*
+
+Sélène avançait silencieusement à travers les bois de Sylvandis, ses sens en alerte. Depuis son arrivée dans ce royaume, elle avait appris à reconnaître les vibrations subtiles de la forêt, les murmures des esprits et les échos des intrusions. Aujourd’hui, quelque chose d’inhabituel troublait l’équilibre de ces bois sacrés. Une présence étrangère. Un éclat métallique.
+
+Elle se mouvait avec la grâce d’une feuille portée par le vent, son pas léger sur le tapis moussu, chaque mouvement en parfaite harmonie avec la nature environnante. Pourtant, son esprit était alourdi par une vague de souvenirs. Ce sentiment... Elle l’avait ressenti auparavant. Trois chevaliers mystérieux, imposants, enveloppés d’une aura de puissance et de mystère, avaient autrefois traversé sa vie. Et maintenant, cette sensation revenait, presque identique.
+
+Alors qu’elle approchait d’une clairière baignée de lumière, elle aperçut une silhouette massive. Il se tenait là, immobile, entouré de pierres couvertes de mousse, comme une statue d’acier et d’ombre. Son armure, d’un noir gravé de runes, semblait absorber la lumière tout en la renvoyant par éclats subtils. Sélène ressentit à la fois de la méfiance et une étrange familiarité.
+
+Prenant une profonde inspiration, elle émergea de l’ombre des arbres, sa voix claire brisant le silence :
+
+— *Étranger, qui es-tu pour arpenter les terres sacrées de Sylvandis ?*
+
+L’homme ne bougea pas immédiatement, mais elle sentit qu’il l’avait entendue. Lorsqu’il se retourna, ses mouvements étaient mesurés, presque solennels. Ses yeux, visibles à travers une fente étroite de son heaume, captèrent son regard. Ils étaient d’un bleu glacé, perçants, et semblaient sonder jusqu’à son âme. Sélène sentit une tension inexplicable, comme si cet étranger portait en lui un fardeau qu’elle ne pouvait pas encore comprendre.
+
+— *Je suis Lamys, un chevalier errant. Je cherche des réponses à des questions anciennes,* répondit-il, sa voix grave résonnant dans l’air comme une mélodie ancienne.
+
+Sélène resta immobile, ses pensées tourbillonnant. Ce nom, cette voix, cet homme… Il semblait sorti des récits des chevaliers qu’elle avait soignés autrefois. Leur silence, leur aura... une même solitude empreinte de noblesse.
+
+Elle observa son armure, les gravures complexes qui la couvraient, et se sentit soudain emplie d’une curiosité qu’elle ne pouvait réprimer. Ces runes semblaient raconter une histoire, une destinée. Et pourtant, tout cela restait caché derrière ce heaume, cet écran de métal qui isolait cet homme du monde. Elle ne put s’empêcher de poser une question, directe, presque instinctive.
+
+— *Pourquoi ton visage reste-t-il caché, Lamys ?*
+
+La réponse fut immédiate, mais dénuée de la moindre agressivité. Au contraire, ses mots étaient empreints d’une sérénité que Sélène trouva presque désarmante.
+
+— *Mon visage n’a pas d’importance. Seuls mes actes parlent pour moi.*
+
+Elle fronça légèrement les sourcils, ses pensées revenant à ces chevaliers qui n’avaient jamais retiré leurs casques, même en présence de la mort. Elle comprenait la signification symbolique d’un tel geste, mais cela restait étranger à son propre mode de vie, si profondément ancré dans l’harmonie et la transparence.
+
+— *Ce que tu cherches, Lamys, peut-être le trouveras-tu ici, ou peut-être ailleurs. Mais sache que Sylvandis est un endroit de vérités cachées. Fais attention à ce que tu cherches.*
+
+Elle sentit ses propres paroles résonner dans l’air, et, en même temps, elle ne savait pas pourquoi elle avait dit cela. Peut-être percevait-elle en lui une quête semblable à la sienne : une quête de lumière dans un monde d’ombres. Ses yeux fixaient les siens, cherchant une brèche dans ce mur d’acier, mais tout ce qu’elle trouva, c’était un silence, un reflet de ce qu’elle portait aussi en elle depuis la chute de Lysandor.
+
+Lamys inclina légèrement la tête, un geste de respect qui sembla sincère. Sa voix grave retentit de nouveau, marquée d’une certaine gravité :
+
+— *Merci, Sélène. Peut-être nos chemins se croiseront-ils à nouveau.*
+
+Elle ne détourna pas son regard, mais quelque chose dans son cœur se serra. Cet homme, ce chevalier, portait quelque chose de profond, quelque chose qui semblait presque briser le lien fragile entre eux. Et pourtant, elle ressentait une curieuse complicité : deux âmes chargées de cicatrices invisibles, mais qui trouvaient en ce lieu une pause dans leur voyage.
+
+Alors qu’il se retournait et commençait à s’éloigner, Sélène murmura, presque pour elle-même, mais suffisamment fort pour que ses mots atteignent ses oreilles.
+
+— *Que les esprits de la forêt te guident, Lamys.*
+
+Elle resta immobile dans la clairière, regardant sa silhouette disparaître parmi les arbres, ses pensées divisées entre curiosité et un étrange sentiment de reconnaissance. Ce chevalier était un mystère, mais un mystère qui résonnait avec son propre passé. Alors que les bruissements de la forêt reprenaient, elle sentit que leurs chemins se croiseraient à nouveau, et que leurs quêtes, bien que différentes, pourraient être liées d’une manière qu’elle ne comprenait pas encore.
+
+# Chapitre 17 : *Le Regard dans les Ombres*
+
+Sélène aimait venir ici, au bord du lac de Sylvandis. Cet endroit était un sanctuaire pour elle, un espace où les murmures de la forêt cédaient la place à une paix encore plus profonde. L’eau, claire comme un cristal, reflétait les cimes des arbres et les nuances du ciel, créant une scène à la fois simple et transcendante. Elle avait l’habitude de s’immerger dans ce silence, où seule la nature existait, sans la pression des responsabilités ou les souvenirs qui hantaient parfois ses nuits.
+
+En se déchaussant, elle laissa ses pieds toucher la terre douce, savourant la sensation du sol sous elle. Ses vêtements glissèrent lentement de ses épaules alors qu’elle s’avançait vers l’eau, comme une offrande à cet espace sacré. Chaque geste était naturel, sans la moindre hésitation. La lumière du soleil réchauffait sa peau tandis qu’elle plongeait dans le lac, une brève caresse avant que l’eau fraîche ne l’entoure entièrement. Elle se laissa aller, ses pensées s’évaporant à chaque mouvement fluide, ses bras brisant la surface du lac comme si elle dansait avec les reflets de la lumière.
+
+Mais aujourd’hui, il y avait une différence, un changement subtil dans l’air. Une présence. Sélène avait grandi en percevant ce que les autres ne pouvaient pas voir : les courants invisibles de la magie, les énergies qui circulaient dans la forêt. Et aujourd’hui, cette harmonie semblait avoir un spectateur silencieux. Elle le savait. Elle ne se retourna pas tout de suite, cependant, laissant son instinct la guider. _C’est un étranger_, pensa-t-elle. Mais un étranger dont la présence ne troublait pas la tranquillité de l’endroit. C’était comme s’il faisait partie du décor, sans l’interrompre, simplement là.
+
+Elle continua à nager, jouant avec l’eau et la lumière comme elle aimait le faire. Mais une image surgit dans son esprit, comme un écho d’un souvenir ancien : trois chevaliers. Leurs armures imposantes, leurs gestes mesurés, et leur silence. Elle se souvenait de leurs regards, dissimulés derrière leurs heaumes, mais chargés de mystère. Le sentiment qu’elle avait éprouvé alors refit surface, une impression de puissance contenue et de profonde solitude. _Est-ce lui ? Un des leurs ?_
+
+À un moment donné, elle s’arrêta, laissant l’eau l’entourer jusqu’aux épaules, et tourna doucement la tête vers la rive. Son regard balaya les arbres, puis s’arrêta. Elle ne voyait rien distinctement, mais elle le savait là. Il était dissimulé, mais pas par hostilité. Non, il observait. Et étrangement, elle ne ressentit aucune inquiétude, seulement une curiosité tranquille. _Pourquoi est-il ici ?_
+
+Sélène sourit légèrement, un sourire à peine perceptible, mais qui portait une signification qu’elle ne pouvait mettre en mots. _Je sais que tu es là_, pensa-t-elle, comme une invitation silencieuse. Mais elle n’en fit pas plus. C’était son lac, son sanctuaire, et s’il avait choisi de le partager dans le respect et le silence, elle ne pouvait que l’accepter.
+
+Alors que le soleil commençait à décliner, elle sortit lentement de l’eau. Les gouttelettes ruisselaient sur sa peau, captant les derniers rayons du jour. Elle se rhabilla avec la même lenteur, savourant chaque mouvement, consciente qu’elle était observée. Elle n’avait pas besoin de chercher à le confronter ; cela viendrait peut-être un jour. Mais pour l’instant, cet instant partagé dans le calme de la nature suffisait.
+
+Avant de quitter la rive, Sélène tourna la tête une dernière fois vers l’endroit où elle sentait sa présence. Un instant, elle pensa voir une ombre se mouvoir entre les arbres, mais elle ne chercha pas à confirmer. Son sourire s’élargit légèrement, une forme de reconnaissance tacite. _Nous sommes différents, mais peut-être pas tant que ça._ 
+
+— *Que les esprits de la forêt veillent sur toi,* murmura-t-elle à l’air, ses mots glissant dans la brise.
+
+Elle s’éloigna ensuite, ses pas légers sur le sol forestier. Son esprit, pourtant souvent apaisé par ces moments de solitude, était troublé cette fois. Cet homme, Lamys, la fascinait autant qu’il l’intriguait. Son armure, son silence, son regard : tout en lui parlait d’une vie faite de combats et de fardeaux. Et pourtant, elle avait senti autre chose aujourd’hui. Une fragilité, ou peut-être simplement un besoin. Mais lequel ? Elle ne le savait pas encore.
+
+Alors qu’elle retournait à sa maison, entourée par les bruissements familiers de la forêt, Sélène réfléchissait à ce que ce chevalier pouvait bien chercher ici, dans Sylvandis. Et pourquoi son cœur semblait avoir retenu l’image de ses yeux, aussi glacés que l’acier, mais porteurs d’une lumière qu’il tentait de cacher.
+
+# Chapitre 18 : *La Lumière dans les Ombres*
+
+Ce matin-là, la lumière douce du soleil traversait les cimes des arbres de Sylvandis, inondant la forêt d’une chaleur réconfortante. Sélène, un panier en osier à la main, avait décidé de partir en cueillette. Les herbes médicinales commençaient à manquer dans son atelier, et certaines fleurs rares n’étaient accessibles qu’à cette période de l’année. En enfilant sa tunique et en ajustant son sac contenant quelques fioles vides et un couteau de cueillette, elle ressentit une paix particulière. La forêt était vivante, bruissante de sons familiers : le chant des oiseaux, le bruissement des feuilles, le murmure discret de la rivière. Sélène aimait ces instants de solitude, où chaque pas sur la mousse était un retour à ses racines, un rappel de l’équilibre entre sa magie et la nature. Aujourd’hui, elle prévoyait d’explorer un nouveau sentier près des clairières profondes, un endroit où elle avait repéré quelques plantes rares la semaine précédente.
+
+Sélène avançait doucement à travers les bois, son panier rempli de fleurs et d’herbes qu’elle avait cueillies au cours de la matinée. La forêt était étrangement silencieuse aujourd’hui, comme si elle retenait son souffle. Les arbres, pourtant familiers, semblaient plus imposants, leurs branches entrelacées formant des arcs au-dessus de sa tête, filtrant la lumière en faisceaux dorés. Elle sentait un poids dans l’air, une tension subtile qu’elle ne pouvait ignorer.
+
+En approchant d’un petit sentier bordé de fougères lumineuses, une sensation la traversa. Une présence. Non pas celle des esprits de la forêt ou d’un animal, mais quelque chose de différent. Elle posa son panier au sol, tendit l’oreille, et perçut un bruit faible, presque imperceptible : un souffle laborieux. Son instinct prit le dessus, et elle se mit à courir dans la direction du son, son cœur battant à un rythme qui semblait résonner avec celui de la forêt.
+
+Elle le trouva là, effondré sur le sol parmi les racines noueuses. **Lamys.** Sa grande silhouette, normalement imposante, était écrasée par son armure, et son heaume avait légèrement glissé, révélant une partie de son cou couvert de sueur. Il semblait à peine conscient, son souffle irrégulier, son corps tendu par une douleur qu’elle pouvait presque ressentir.
+
+— *Lamys,* murmura-t-elle en s’agenouillant près de lui, posant une main sur son épaule. Sa peau frissonna au contact du métal glacé. *Qu’est-ce qui t’est arrivé ?*
+
+Il ouvrit les yeux, ses iris bleus troubles mais reconnaissants. Ses lèvres bougèrent faiblement, et elle entendit son nom prononcé dans un souffle rauque.
+
+— *Sélène...*
+
+Elle sentit son cœur se serrer. Il n’était pas simplement blessé ; il était en danger de mort. Ses doigts effleurèrent une plante à moitié mâchée près de lui, son odeur amère lui parvenant immédiatement. Elle la reconnut instantanément. _La Lumenella._ Son visage se ferma, une vague d’inquiétude la traversant.
+
+— *Tu as mangé cette plante ?* demanda-t-elle, sa voix plus ferme qu’elle ne l’aurait voulu. Il cligna des yeux, un mouvement imperceptible qui ressemblait à un aveu.
+
+Elle n’avait pas de temps à perdre. La Lumenella était belle, mais traîtresse, et son poison agissait vite sur ceux qui ne connaissaient pas ses subtilités. Elle posa ses mains sur son armure, sentant à quel point elle était lourde et pesante sur son corps affaibli. _Il ne tiendra pas longtemps si je ne fais rien._
+
+— *Tiens bon, Lamys. Je vais te sauver.*
+
+Sa voix était calme, mais elle sentait l’urgence dans chacun de ses gestes. Elle commença à chanter doucement, un vieux chant de guérison qu’elle avait appris à Lysandor. Ses mains s’illuminèrent d’une lumière verte douce, émanant une chaleur apaisante. Chaque pulsation de magie qu’elle dirigeait vers lui semblait combattre le poison, petit à petit, poussant l’obscurité hors de son corps.
+
+Lamys gémissait faiblement, son corps tressaillant sous l’effet de la magie. Mais Sélène ne fléchit pas. Elle savait que la forêt l’aidait, que les esprits eux-mêmes répondaient à son appel. Ses chants s’intensifièrent, la lueur verte enveloppant désormais tout son corps.
+
+Enfin, lorsqu’elle sentit le poison reculer, elle posa une main sur son front brûlant, vérifiant son souffle. Il était toujours faible, mais stable. Elle se redressa, essuyant la sueur de son front. _Il a survécu, pour l’instant._
+
+Elle plaça ses bras sous lui, et avec une force qu’elle ne savait pas posséder, elle commença à le soulever. Chaque pas était un effort monumental, mais elle ne faiblit pas. La forêt semblait s’ouvrir devant elle, lui montrant le chemin le plus court vers son propre atelier. Elle se surprit à murmurer pour elle-même :
+
+— *Je ne te laisserai pas mourir, Lamys. Pas ici. Pas maintenant.*
+
+Le poids de son armure semblait écrasant, mais elle continuait. Ses pas étaient réguliers, son souffle mesuré, et elle avançait, portée par une volonté qu’elle ne s’expliquait pas. Ce chevalier, cet homme mystérieux, représentait plus qu’un simple patient à ses yeux. Il était une énigme, mais aussi une force, une ombre qui avait croisé sa lumière.
+
+___
+
+Lorsqu’elle arriva enfin chez elle, elle déposa Lamys sur sa table de soin improvisée, ses muscles criant de douleur. Elle alluma une lampe, inondant la pièce d’une lumière chaude, et s’empressa de préparer un remède pour contrer les effets restants du poison. Ses mains tremblaient légèrement alors qu’elle mélangeait les herbes, mais son esprit était clair. Chaque geste était précis, chaque mot de son chant était calculé.
+
+Lamys, toujours inconscient, murmurait parfois des mots indistincts. Mais elle entendit son nom, prononcé avec une douceur inattendue.
+
+— *Sélène…*
+
+Sélène s’agenouilla près de Lamys, la lumière tamisée de la forêt filtrant à travers les branches, puis la fenêtre pour se poser doucement sur l’armure massive du chevalier. Il était là, immobile, son souffle faible mais régulier. Ses traits restaient invisibles, cachés derrière ce heaume imposant, une barrière de métal qui semblait à la fois le protéger et le séparer du monde. Elle posa une main sur son épaule, le froid de l’acier mordant sa paume.
+
+Son regard glissa vers le heaume, ce symbole de son identité qu’elle avait appris à respecter sans en comprendre les raisons profondes. Elle savait, en cet instant, qu’il lui fallait le retirer pour continuer les soins. Ses doigts s’approchèrent doucement des attaches, mais une hésitation la saisit. _Cela va-t-il contre son crédo ? Vais-je briser une promesse silencieuse en le dévoilant ?_
+
+Prenant une inspiration, elle ferma lentement les yeux. Sa magie, fluide et omniprésente, suffisait largement pour guider ses gestes, même dans l’obscurité volontaire qu’elle s’imposait. Ses doigts trouvèrent les mécanismes du heaume, et avec une douceur infinie, elle le libéra, le soulevant avec précaution. Le métal émit un léger crissement avant de se poser au sol, mais Sélène garda les yeux fermés, refusant de céder à la tentation de regarder.
+
+Sa respiration s’accéléra un instant, un mélange d’émotions la traversant : respect, appréhension, et une étrange forme de dévotion pour cet homme qu’elle connaissait à peine mais dont elle pressentait la profondeur.
+
+Elle posa ses mains au-dessus de son visage, le cœur battant. Ses pouvoirs se déployèrent, une lumière douce émanant de ses paumes. Elle "voyait" à travers sa magie, chaque ligne de son visage, chaque tension de ses traits devenant claire dans cet univers de perceptions. Mais elle ne formait aucune image dans son esprit. Tout était ressenti, jamais regardé.
+
+Elle murmura pour elle-même, comme une promesse :
+
+— _Je ne te verrai pas, Lamys. Ton visage t’appartient. Je ne violerai pas ce que tu protèges._
+
+Chaque fois qu’elle avait besoin de repositionner sa tête, de vérifier son pouls ou de prononcer une incantation, ses paupières restaient closes, son cœur restant fidèle à sa décision. Elle sentait le poids de l’histoire et des combats qu’il portait, même sans en connaître les détails. Cet homme était un mystère, une ombre vivante, mais un mystère qu’elle choisit de ne pas dévoiler davantage.
+
+En silence, elle murmura à nouveau, plus pour elle-même que pour lui :
+
+— _Qu’importe ce que tu caches, Lamys. Ce n’est pas ce que tu montres qui compte, mais ce que tu es._
+
+Et avec ces mots, elle continua ses soins, son esprit empli d’un respect profond pour cet homme et pour les secrets qu’il portait.
+
+Elle posa une main sur son front, sentant la fièvre diminuer peu à peu. Elle continua ses soins tout au long de la nuit, ses incantations s’interrompant seulement pour ajuster un bandage ou lui faire boire quelques gouttes d’un élixir réparateur. Lorsqu’elle sentit enfin son corps se détendre, elle s’autorisa à s’asseoir, les bras croisés sur la table, veillant sur lui sans fermer l’œil.
+
+---
+
+Quand Lamys ouvrit les yeux, la lumière du matin inondait la pièce. Il tourna la tête, et son regard rencontra celui de Sélène. Elle était assise près de lui, ses traits tirés par la fatigue, mais son regard brillait d’un mélange de soulagement et de sérénité.
+
+— *Tu m’as sauvé, Sélène,* murmura-t-il, sa voix rauque mais sincère.
+
+Elle lui sourit doucement, secouant légèrement la tête.
+
+— *Oui, Lamys. Tu as eu de la chance que je sois passée par là. La Lumenella est mortelle pour les humains. Il faudra être plus prudent à l’avenir.*
+
+Lamys hocha la tête, visiblement honteux, mais son respect pour elle était palpable. Il tenta de la remercier, mais elle leva une main, l’interrompant.
+
+— *Ne me remercie pas, Lamys. Les esprits de la forêt veillent sur nous tous.*
+
+Elle resta encore un moment, s’assurant qu’il était hors de danger. Puis, doucement, elle quitta la pièce, lui laissant le temps de se remettre. Mais en s’éloignant, elle savait qu’elle avait vu en lui quelque chose qu’elle ne pouvait ignorer : un homme brisé, mais porteur d’une lumière qu’il ne comprenait peut-être pas encore.
+
+Et, quelque part au fond d’elle, elle sentait que ce lien entre eux, forgé dans une forêt ancienne et sous l’ombre des arbres, ne faisait que commencer.
