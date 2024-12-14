@@ -3,7 +3,7 @@ draft: false
 tags:
 - Secte
 ---
-
+je l'aime bien lui 
 ## **Infos globales**
 - **Nom de la Secte:** La Secte Obscura  
 - **Nom du Dieu:** [[Noctifer]] Divinus  
