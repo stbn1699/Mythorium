@@ -33,7 +33,7 @@ jobs:
         with:
           path: public
 
-  deploy:
+  deploy_git_pages:
     needs: build
     environment:
       name: github-pages
@@ -44,8 +44,20 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
 
+  deploy_vps:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.REMOTE_HOST }}
+          username: ${{ secrets.REMOTE_USER }}
+          password: ${{ secrets.REMOTE_PASSWORD }}
+          port: ${{ secrets.REMOTE_PORT }}
+          script: bash /scripts/deployMythorium.sh
+
   discord:
-    needs: deploy
+    needs: [deploy_git_pages, deploy_vps]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
