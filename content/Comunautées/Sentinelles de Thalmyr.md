@@ -6,7 +6,7 @@ tags:
 
 ## **Infos globales**
 - **Nom de la Secte:** Les Sentinelles de [[Thalmyr]]  
-- **Nom du Dieu:** [[Thalmyr]] Divinu s  
+- **Nom du Dieu:** [[Thalmyr]] Divin u s  
 - **Nom des membres** : Les Sentinelles  
 - **Type de Secte:** Guerriers sacrés  
 - **Pratiques:** Rituels martiaux, méditations stratégiques, quêtes divines  
