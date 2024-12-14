@@ -1,3 +1,10 @@
+---
+draft: false
+tags:
+- Lieux
+- Sanctuaire
+---
+
 ## **Introduction**
 
 Perché dans une région oubliée par les mortels, entouré de falaises abruptes et d’un ciel constamment voilé de nuages sombres, le **Sanctuaire de Noctifer** semble échapper aux lois du temps et de l’espace. Ce lieu mystérieux et terrifiant est un monument de ténèbres érigé à la gloire de **[[Noctifer]]**, dieu des ombres et de la nuit. Chaque pierre, chaque souffle d’air dans cet endroit porte la marque de son essence divine.

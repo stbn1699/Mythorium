@@ -1,3 +1,10 @@
+---
+draft: false
+tags:
+- Personnage
+- Humain
+---
+
 ## **Informations générales**
 - **Nom complet** : Lamys
 - **Origine** : Inconnue  

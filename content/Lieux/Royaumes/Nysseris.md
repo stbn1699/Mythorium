@@ -1,6 +1,7 @@
 ---
 draft: false
 tags:
+- Lieux
 - Royaume
 ---
 

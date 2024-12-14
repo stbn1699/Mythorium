@@ -1,3 +1,10 @@
+---
+draft: false
+tags:
+- Lieux
+- Sanctuaire
+---
+
 ## **Présentation**
 Les **Sanctuaires Divins** sont des lieux mystiques érigés par le dieu primordial avant la création des elfes, pour honorer les dieux exilés. Chaque sanctuaire abrite une statue monumentale représentant une divinité, imprégnée d’une fraction de son pouvoir. Ces sanctuaires sont entourés d’un mystère profond, car leur accès est soit caché, soit extrêmement dangereux.
 
