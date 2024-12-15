@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "a143626e1ea98008",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a6f8558fbd9c34b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4762df8b1f9d433",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "106b77eae2a2de8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fd7d693b7cb3dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "285e464133d6e5d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "52aa247047e1eec2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce9012cd14e601da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62978c485ced80bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "82bf6b1afede66a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09e335d5ae4d5135",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6e9ff7365de54845",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "be02449aab6c3e8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "433d67853a83d6e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "b97966d2d389e6b9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "285e464133d6e5d8",
+  "lastOpenFiles": [
+    "node_modules/mathjax-full/js/util/entities/z.d.ts",
+    "node_modules/mathjax-full/js/util/entities/y.d.ts",
+    "node_modules/mathjax-full/js/util/entities/x.d.ts",
+    "node_modules/mathjax-full/js/util/entities/w.d.ts",
+    "node_modules/mathjax-full/js/util/entities/u.d.ts",
+    "node_modules/mathjax-full/js/input/tex/Types.d.ts",
+    "node_modules/mathjax-full/js/input/tex/TexError.d.ts",
+    "node_modules/mathjax-full/js/input/tex/TexConstants.d.ts",
+    "node_modules/mathjax-full/js/util/entities/t.d.ts",
+    "node_modules/mathjax-full/js/input/tex/SymbolMap.d.ts",
+    "node_modules/mathjax-full/js/input/tex/Symbol.d.ts",
+    "node_modules/speech-rule-engine/lib/README.md",
+    "node_modules/tsx/node_modules/@esbuild/win32-x64/README.md",
+    "node_modules/@esbuild/win32-x64/README.md",
+    "node_modules/katex/dist/README.md",
+    "node_modules/sass/README.md",
+    "node_modules/micromark-core-commonmark/readme.md",
+    "node_modules/@asamuzakjp/dom-selector/README.md",
+    "node_modules/path-scurry/README.md",
+    "node_modules/whatwg-url/README.md",
+    "node_modules/gray-matter/README.md",
+    "node_modules/speech-rule-engine/node_modules/commander/Readme.md",
+    "node_modules/vfile/readme.md",
+    "node_modules/parse5/README.md",
+    "node_modules/d3/README.md",
+    "node_modules/toml/README.md",
+    "node_modules/toml/CHANGELOG.md",
+    "node_modules/yargs-parser/CHANGELOG.md",
+    "node_modules/katex/contrib/mathtex-script-type/README.md",
+    "node_modules/katex/contrib/mhchem/README.md",
+    "node_modules/katex/contrib/copy-tex/README.md",
+    "node_modules/katex/contrib/auto-render/README.md",
+    "node_modules/unified/readme.md",
+    "node_modules/stringify-entities/readme.md",
+    "node_modules/rw/README.md",
+    "node_modules/chalk/readme.md",
+    "node_modules/psl/browserstack-logo.svg",
+    "node_modules/cli-spinner/img/spinner.gif"
+  ]
+}
